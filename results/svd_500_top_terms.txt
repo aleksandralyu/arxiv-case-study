@@ -1,0 +1,31 @@
+SVD-500 TOP TERMS PER COMPONENT
+Component 1 (variance: 0.329%):
+  model, data, based, models, time, using, results, method, quantum, learning, paper, state, approach, problem, field, systems, new, methods, study, high
+
+Component 2 (variance: 1.261%):
+  learning, data, performance, training, models, network, methods, image, based, tasks, neural, language, task, datasets, dataset, networks, propose, deep, proposed, images
+
+Component 3 (variance: 0.876%):
+  mathbb, prove, problem, group, graph, mathcal, finite, space, functions, paper, solutions, algorithm, set, spaces, theorem, equations, equation, algebra, graphs, case
+
+Component 4 (variance: 0.750%):
+  quantum, spin, states, state, entanglement, classical, systems, phase, information, topological, theory, learning, control, dynamics, magnetic, single, coupling, photon, demonstrate, devices
+
+Component 5 (variance: 0.573%):
+  quantum, mass, galaxies, star, stars, algorithm, stellar, galaxy, time, emission, ray, formation, gas, classical, problem, observations, data, dark, algorithms, cluster
+
+Component 6 (variance: 0.543%):
+  quantum, models, mathbb, group, language, mathcal, groups, model, algebra, theory, text, mass, llms, algebras, tasks, language models, training, space, dark, matter
+
+Component 7 (variance: 0.505%):
+  model, models, equation, equations, solutions, dark, matter, theory, energy, scalar, dark matter, solution, dynamics, gravity, time, gauge, higgs, parameter, nonlinear, particle
+
+Component 8 (variance: 0.444%):
+  graph, model, graphs, number, spin, phase, models, states, random, energy, edge, network, transition, networks, dark, gamma, bound, algorithm, matter, set
+
+Component 9 (variance: 0.434%):
+  data, mathbb, analysis, magnetic, spin, privacy, quantum, gamma, machine, machine learning, mathcal, research, measurements, pi, sets, used, using, real, statistical, distribution
+
+Component 10 (variance: 0.417%):
+  field, magnetic, graph, data, magnetic field, learning, black, graphs, problem, algorithm, mass, quantum, black hole, fields, theory, hole, dark, stars, matter, gravity
+

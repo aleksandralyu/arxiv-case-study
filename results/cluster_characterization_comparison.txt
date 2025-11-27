@@ -1,0 +1,71 @@
+CLUSTER CHARACTERIZATION COMPARISON: SVD-300D VS SVD-500D
+Analysis date: 2025-11-18 13:53:21
+
+CONFIGURATION
+Metric                         SVD-300d                  SVD-500d
+--------------------------------------------------------------------------------
+Number of clusters             50                        50
+Total papers                   2,384,622                2,384,622
+
+CLUSTER ASSIGNMENT OVERLAP
+Adjusted Rand Index (ARI): 0.3600
+  Interpretation: 1.0 = identical clustering, 0.0 = random
+  Score of 0.3600 indicates low agreement
+
+Normalized Mutual Information (NMI): 0.6233
+  Interpretation: 1.0 = identical, 0.0 = independent
+  Score of 0.6233 indicates moderate information overlap
+
+AVERAGE QUALITY METRICS
+Metric                         SVD-300d        SVD-500d        Difference
+Category Purity                0.2923          0.2923                  -0.0000
+Domain Diversity               1.2017          1.3197                  -0.1180
+Distinctiveness                0.5630          0.5651                  -0.0022
+Niche Score                    0.0469          0.0471                  -0.0002
+
+TOP TERMS SIMILARITY (SAMPLE CLUSTERS)
+Mean Jaccard similarity: 0.502
+Min Jaccard: 0.176
+Max Jaccard: 0.739
+
+Interpretation: Jaccard > 0.5 indicates high term overlap
+
+CLUSTER CORRESPONDENCE (300D → 500D BEST MATCHES)
+300d ID    → 500d ID    Overlap      Total 300d      % Overlap
+0          11           7,133        12,419          57.4%
+1          16           37,901       59,973          63.2%
+2          38           6,016        10,523          57.2%
+3          34           101,389      333,414         30.4%
+4          40           15,055       32,772          45.9%
+5          12           65,411       73,650          88.8%
+6          11           38,738       50,126          77.3%
+7          0            22,922       28,806          79.6%
+8          34           4,648        24,874          18.7%
+9          34           9,706        22,309          43.5%
+10         36           42,013       72,564          57.9%
+11         45           12,199       24,563          49.7%
+12         24           11,877       12,455          95.4%
+13         30           10,490       10,888          96.3%
+14         45           5,744        19,333          29.7%
+15         34           6,703        18,400          36.4%
+16         5            12,321       13,376          92.1%
+17         0            14,617       18,552          78.8%
+18         7            11,928       13,999          85.2%
+19         38           24,954       35,837          69.6%
+... (30 more clusters)
+
+INTERPRETATION NOTES
+ARI/NMI Scores:
+  - High scores (>0.7): Clusters largely agree between methods
+  - Moderate scores (0.4-0.7): Partial agreement, some reorganization
+  - Low scores (<0.4): Substantial differences in clustering structure
+
+Quality Metrics:
+  - Category Purity: Higher = clusters more aligned with ArXiv categories
+  - Domain Diversity: Higher = clusters span more research domains
+  - Distinctiveness: Higher = cluster more different from corpus average
+  - Niche Score: Higher = smaller, more recent clusters (emerging areas)
+
+Term Similarity:
+  - Jaccard > 0.5: Clusters capture similar topics
+  - Jaccard < 0.3: Clusters capture different aspects of research

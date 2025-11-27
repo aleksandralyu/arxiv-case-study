@@ -1,0 +1,484 @@
+RESEARCH QUESTION 3: CATEGORY ALIGNMENT
+Analysis date: 2025-11-20 19:27:59
+
+Question: How well does content-based clustering align with
+          ArXiv's human-curated categorization system?
+
+Methodology:
+  Cluster Metrics:
+    - Purity: Fraction of papers in dominant category per cluster
+    - Entropy: Category diversity within cluster
+  Category Metrics:
+    - Dominance: Fraction of papers in dominant cluster per category
+    - Entropy: Cluster spread for category
+  Overall Metrics:
+    - NMI: Normalized Mutual Information (0-1, higher = better)
+    - ARI: Adjusted Rand Index (chance-adjusted agreement)
+    - V-measure: Harmonic mean of homogeneity and completeness
+    - Homogeneity: Clusters contain single category
+    - Completeness: Categories contained in single cluster
+
+OVERALL ALIGNMENT METRICS
+Metric                    SVD-300d        SVD-500d        Difference
+NMI                       0.321           0.324                    +0.004
+ARI                       0.079           0.090                    +0.011
+V-measure                 0.321           0.324                    +0.004
+Homogeneity               0.284           0.286                    +0.002
+Completeness              0.368           0.374                    +0.005
+
+CLUSTER-LEVEL STATISTICS
+Metric                         SVD-300d             SVD-500d
+Clusters analyzed              50                   50
+Mean purity                    0.292                0.292
+Median purity                  0.245                0.242
+Std deviation                  0.180                0.174
+High purity (>0.7)             1                    0
+Very high purity (>0.9)        0                    0
+Low purity (<0.3)              30                   30
+
+CATEGORY-LEVEL STATISTICS
+Metric                         SVD-300d             SVD-500d
+Categories analyzed            153                  153
+Mean dominance                 0.396                0.420
+Median dominance               0.388                0.407
+High dominance (>0.7)          2                    0
+Low dominance (<0.3)           33                   29
+
+TOP 10 BEST ALIGNED CLUSTERS (SVD-300D)
+1. Cluster 0 - Purity: 0.721
+   Size: 12,419 papers
+   Dominant: cs.CV (8,957, 72.1%)
+   Entropy: 1.394, Spans: 79 categories
+   Terms: video, temporal, visual, quality, motion, model, based, models, dataset, propose, methods, image
+
+2. Cluster 12 - Purity: 0.660
+   Size: 12,455 papers
+   Dominant: quant-ph (8,223, 66.0%)
+   Entropy: 1.407, Spans: 74 categories
+   Terms: entanglement, quantum, states, entropy, state, systems, non, photon, information, field, local, correlations
+
+3. Cluster 6 - Purity: 0.655
+   Size: 50,126 papers
+   Dominant: cs.CV (32,818, 65.5%)
+   Entropy: 1.594, Spans: 143 categories
+   Terms: image, images, segmentation, method, methods, based, model, quality, training, learning, models, dataset
+
+4. Cluster 5 - Purity: 0.605
+   Size: 73,650 papers
+   Dominant: quant-ph (44,524, 60.5%)
+   Entropy: 2.000, Spans: 148 categories
+   Terms: quantum, classical, states, state, systems, theory, time, information, non, photon, measurement, field
+
+5. Cluster 29 - Purity: 0.569
+   Size: 25,315 papers
+   Dominant: astro-ph.GA (14,397, 56.9%)
+   Entropy: 1.083, Spans: 21 categories
+   Terms: galaxies, galaxy, star, mass, stellar, formation, redshift, gas, sample, cluster, clusters, survey
+
+6. Cluster 30 - Purity: 0.562
+   Size: 10,864 papers
+   Dominant: cond-mat.mes-hall (6,107, 56.2%)
+   Entropy: 1.464, Spans: 58 categories
+   Terms: graphene, electronic, electron, layer, energy, properties, band, transport, devices, materials, states, field
+
+7. Cluster 1 - Purity: 0.559
+   Size: 59,973 papers
+   Dominant: hep-ph (33,541, 55.9%)
+   Entropy: 1.738, Spans: 129 categories
+   Terms: quark, higgs, mass, production, collisions, heavy, bar, model, gev, decay, energy, cross
+
+8. Cluster 26 - Purity: 0.554
+   Size: 38,393 papers
+   Dominant: cs.CL (21,253, 55.4%)
+   Entropy: 1.880, Spans: 104 categories
+   Terms: llms, language, models, language models, reasoning, tasks, large, performance, model, knowledge, human, fine
+
+9. Cluster 16 - Purity: 0.510
+   Size: 13,376 papers
+   Dominant: hep-ph (6,827, 51.0%)
+   Entropy: 1.768, Spans: 37 categories
+   Terms: neutrino, mass, nu, energy, detector, masses, model, decay, physics, experiments, beta, experiment
+
+10. Cluster 9 - Purity: 0.474
+   Size: 22,309 papers
+   Dominant: cs.IT (10,579, 47.4%)
+   Entropy: 2.349, Spans: 127 categories
+   Terms: channel, channels, communication, capacity, rate, information, multiple, performance, proposed, transmission, scheme, based
+
+TOP 10 BEST ALIGNED CLUSTERS (SVD-500D)
+1. Cluster 24 - Purity: 0.664
+   Size: 12,600 papers
+   Dominant: quant-ph (8,365, 66.4%)
+   Entropy: 1.398, Spans: 74 categories
+   Terms: entanglement, quantum, states, entropy, state, systems, non, information, local, field, spin, correlations
+
+2. Cluster 10 - Purity: 0.607
+   Size: 20,274 papers
+   Dominant: cs.CV (12,307, 60.7%)
+   Entropy: 1.956, Spans: 137 categories
+   Terms: object, objects, detection, image, based, method, dataset, images, segmentation, model, visual, methods
+
+3. Cluster 12 - Purity: 0.601
+   Size: 70,254 papers
+   Dominant: quant-ph (42,188, 60.1%)
+   Entropy: 2.015, Spans: 150 categories
+   Terms: quantum, classical, states, state, systems, theory, time, information, non, measurement, field, phase
+
+4. Cluster 17 - Purity: 0.590
+   Size: 13,738 papers
+   Dominant: hep-ph (8,101, 59.0%)
+   Entropy: 1.384, Spans: 35 categories
+   Terms: quark, heavy, mass, masses, lattice, model, light, production, results, bar, matter, decay
+
+5. Cluster 20 - Purity: 0.584
+   Size: 8,649 papers
+   Dominant: cs.IT (5,047, 58.4%)
+   Entropy: 1.968, Spans: 121 categories
+   Terms: codes, code, error, linear, distance, quantum, binary, length, construction, paper, weight, rate
+
+6. Cluster 4 - Purity: 0.560
+   Size: 10,980 papers
+   Dominant: cond-mat.mes-hall (6,144, 56.0%)
+   Entropy: 1.482, Spans: 59 categories
+   Terms: graphene, electronic, electron, layer, energy, properties, band, transport, states, materials, field, devices
+
+7. Cluster 11 - Purity: 0.553
+   Size: 120,447 papers
+   Dominant: cs.CV (66,629, 55.3%)
+   Entropy: 1.903, Spans: 143 categories
+   Terms: image, images, training, model, methods, segmentation, based, method, neural, models, dataset, performance
+
+8. Cluster 6 - Purity: 0.526
+   Size: 8,731 papers
+   Dominant: quant-ph (4,592, 52.6%)
+   Entropy: 2.047, Spans: 65 categories
+   Terms: photon, quantum, single, optical, states, state, light, emission, mode, high, coupling, coherent
+
+9. Cluster 1 - Purity: 0.519
+   Size: 53,956 papers
+   Dominant: cs.CL (27,997, 51.9%)
+   Entropy: 1.967, Spans: 122 categories
+   Terms: language, llms, models, language models, tasks, reasoning, large, model, performance, knowledge, training, fine
+
+10. Cluster 5 - Purity: 0.518
+   Size: 12,746 papers
+   Dominant: hep-ph (6,601, 51.8%)
+   Entropy: 1.738, Spans: 37 categories
+   Terms: neutrino, mass, nu, energy, masses, detector, model, decay, experiments, physics, data, experiment
+
+TOP 10 MOST DISPERSED CLUSTERS (SVD-300D)
+1. Cluster 3 - Purity: 0.050
+   Size: 333,414 papers
+   Entropy: 4.275, Spans: 153 categories
+   Top categories: physics.optics(16834), cond-mat.soft(13588), quant-ph(13063), gr-qc(12862)
+   Terms: model, time, using, energy, results, dynamics, high, field, based, study, different, non
+
+2. Cluster 8 - Purity: 0.053
+   Size: 24,874 papers
+   Entropy: 4.276, Spans: 152 categories
+   Top categories: quant-ph(1320), cs.LG(1062), cond-mat.mtrl-sci(989), cs.DS(984)
+   Terms: al, et, et al, model, results, time, data, using, paper, based, algorithm, new
+
+3. Cluster 14 - Purity: 0.080
+   Size: 19,333 papers
+   Entropy: 3.916, Spans: 148 categories
+   Top categories: math.AP(1545), math.PR(1406), astro-ph.GA(958), hep-ph(876)
+   Terms: alpha, beta, frac, mathbb, function, gamma, lambda, infty, order, leq, prove, results
+
+4. Cluster 27 - Purity: 0.087
+   Size: 261,297 papers
+   Entropy: 3.713, Spans: 153 categories
+   Top categories: hep-th(22814), math.AG(18101), math.CO(17429), math.NT(17075)
+   Terms: prove, theory, functions, paper, theorem, space, function, non, result, case, set, proof
+
+5. Cluster 35 - Purity: 0.091
+   Size: 13,458 papers
+   Entropy: 3.960, Spans: 146 categories
+   Top categories: math.CO(1221), math.AP(1124), hep-ph(851), cond-mat.supr-con(538)
+   Terms: delta, frac, log, mathbb, prove, function, sigma, lambda, graph, leq, gamma, time
+
+6. Cluster 21 - Purity: 0.104
+   Size: 18,237 papers
+   Entropy: 3.692, Spans: 133 categories
+   Top categories: math.CO(1893), math.AG(1319), hep-th(1190), math.FA(1028)
+   Terms: mathcal, mathbb, let, set, space, prove, algebra, infty, group, finite, mathrm, class
+
+7. Cluster 33 - Purity: 0.105
+   Size: 91,109 papers
+   Entropy: 3.581, Spans: 151 categories
+   Top categories: cs.CR(9605), cs.SE(8604), cs.HC(7129), cs.CY(5020)
+   Terms: user, users, research, software, systems, design, information, based, social, paper, security, data
+
+8. Cluster 48 - Purity: 0.110
+   Size: 41,459 papers
+   Entropy: 3.519, Spans: 147 categories
+   Top categories: cond-mat.str-el(4556), cond-mat.mtrl-sci(3833), cond-mat.stat-mech(3178), quant-ph(2686)
+   Terms: phase, transition, phases, model, order, temperature, transitions, critical, quantum, field, state, lattice
+
+9. Cluster 49 - Purity: 0.121
+   Size: 141,760 papers
+   Entropy: 3.730, Spans: 153 categories
+   Top categories: math.OC(17204), math.NA(14575), cs.LG(12345), cs.DS(7870)
+   Terms: algorithm, problem, method, problems, algorithms, optimization, optimal, time, proposed, based, convergence, paper
+
+10. Cluster 40 - Purity: 0.129
+   Size: 47,507 papers
+   Entropy: 3.085, Spans: 101 categories
+   Top categories: astro-ph.SR(6120), cond-mat.mes-hall(5892), cond-mat.mtrl-sci(5665), cond-mat.str-el(5531)
+   Terms: magnetic, field, magnetic field, fields, temperature, spin, effect, energy, electric, flux, solar, phase
+
+TOP 10 MOST DISPERSED CLUSTERS (SVD-500D)
+1. Cluster 34 - Purity: 0.047
+   Size: 274,874 papers
+   Entropy: 4.288, Spans: 153 categories
+   Top categories: cs.LG(12994), stat.ME(12688), cs.IT(11435), cs.RO(10542)
+   Terms: model, based, time, paper, method, systems, models, approach, information, using, data, analysis
+
+2. Cluster 27 - Purity: 0.073
+   Size: 9,682 papers
+   Entropy: 3.920, Spans: 117 categories
+   Top categories: astro-ph.GA(706), hep-ex(429), astro-ph.CO(425), math.NT(393)
+   Terms: mathrm, mathbb, mass, times, pm, sim, sigma, group, alpha, using, mathcal, field
+
+3. Cluster 8 - Purity: 0.077
+   Size: 40,541 papers
+   Entropy: 3.908, Spans: 153 categories
+   Top categories: math.NT(3113), math.CA(2583), hep-th(2472), math.FA(2329)
+   Terms: functions, function, paper, results, space, theory, prove, class, new, spaces, operators, terms
+
+4. Cluster 45 - Purity: 0.077
+   Size: 247,437 papers
+   Entropy: 3.770, Spans: 153 categories
+   Top categories: math.AG(19087), math.PR(17968), math.CO(17564), math.DG(16811)
+   Terms: prove, space, paper, theorem, spaces, result, number, proof, set, case, conjecture, results
+
+5. Cluster 25 - Purity: 0.081
+   Size: 14,429 papers
+   Entropy: 3.836, Spans: 134 categories
+   Top categories: hep-ph(1167), math.AP(902), astro-ph.CO(780), math.CO(755)
+   Terms: lambda, mathbb, sigma, model, alpha, frac, mu, delta, infty, prove, function, let
+
+6. Cluster 28 - Purity: 0.103
+   Size: 18,150 papers
+   Entropy: 3.686, Spans: 132 categories
+   Top categories: math.CO(1870), math.AG(1306), hep-th(1167), math.FA(1121)
+   Terms: mathcal, mathbb, let, space, set, prove, algebra, infty, group, finite, class, paper
+
+7. Cluster 49 - Purity: 0.123
+   Size: 17,221 papers
+   Entropy: 3.772, Spans: 135 categories
+   Top categories: quant-ph(2116), cs.LG(997), cs.IT(970), cond-mat.mes-hall(856)
+   Terms: noise, signal, frequency, quantum, gaussian, model, time, data, stochastic, method, based, low
+
+8. Cluster 43 - Purity: 0.128
+   Size: 26,956 papers
+   Entropy: 3.210, Spans: 102 categories
+   Top categories: math.NT(3450), math.AP(2941), math.AG(2618), math.DG(1686)
+   Terms: mathbb, prove, let, infty, times, space, frac, geq, group, alpha, set, result
+
+9. Cluster 46 - Purity: 0.128
+   Size: 9,731 papers
+   Entropy: 3.233, Spans: 134 categories
+   Top categories: hep-ex(1250), astro-ph.SR(1177), astro-ph.EP(1098), astro-ph.GA(939)
+   Terms: pm, mass, rm, times, data, star, using, sigma, sim, measured, period, pi
+
+10. Cluster 15 - Purity: 0.131
+   Size: 65,295 papers
+   Entropy: 3.590, Spans: 149 categories
+   Top categories: cs.NI(8581), cs.LG(6778), cs.IT(4768), cs.SI(4081)
+   Terms: network, networks, neural, nodes, communication, based, model, neural network, performance, neural networks, data, paper
+
+TOP 10 BEST COVERED CATEGORIES (SVD-300D)
+1. q-bio.CB - Dominance: 0.777
+   Size: 928 papers
+   Dominant cluster: 3 (721, 77.7%)
+   Spans: 31 clusters, Entropy: 1.184
+
+2. q-bio.SC - Dominance: 0.737
+   Size: 612 papers
+   Dominant cluster: 3 (451, 73.7%)
+   Spans: 25 clusters, Entropy: 1.310
+
+3. q-bio.TO - Dominance: 0.658
+   Size: 1,171 papers
+   Dominant cluster: 3 (770, 65.8%)
+   Spans: 31 clusters, Entropy: 1.642
+
+4. physics.bio-ph - Dominance: 0.638
+   Size: 5,912 papers
+   Dominant cluster: 3 (3,769, 63.8%)
+   Spans: 45 clusters, Entropy: 1.718
+
+5. physics.flu-dyn - Dominance: 0.611
+   Size: 20,306 papers
+   Dominant cluster: 3 (12,404, 61.1%)
+   Spans: 46 clusters, Entropy: 1.807
+
+6. math.SG - Dominance: 0.607
+   Size: 4,233 papers
+   Dominant cluster: 27 (2,570, 60.7%)
+   Spans: 37 clusters, Entropy: 1.713
+
+7. math.AC - Dominance: 0.607
+   Size: 7,955 papers
+   Dominant cluster: 27 (4,827, 60.7%)
+   Spans: 32 clusters, Entropy: 1.690
+
+8. q-bio.PE - Dominance: 0.594
+   Size: 7,257 papers
+   Dominant cluster: 3 (4,311, 59.4%)
+   Spans: 45 clusters, Entropy: 1.815
+
+9. cs.NA - Dominance: 0.588
+   Size: 1,001 papers
+   Dominant cluster: 49 (589, 58.8%)
+   Spans: 32 clusters, Entropy: 1.669
+
+10. math.DG - Dominance: 0.587
+   Size: 26,338 papers
+   Dominant cluster: 27 (15,469, 58.7%)
+   Spans: 41 clusters, Entropy: 1.808
+
+TOP 10 BEST COVERED CATEGORIES (SVD-500D)
+1. econ.GN - Dominance: 0.664
+   Size: 4,150 papers
+   Dominant cluster: 34 (2,754, 66.4%)
+   Spans: 35 clusters, Entropy: 1.586
+
+2. math.MG - Dominance: 0.654
+   Size: 5,888 papers
+   Dominant cluster: 45 (3,850, 65.4%)
+   Spans: 40 clusters, Entropy: 1.571
+
+3. econ.EM - Dominance: 0.650
+   Size: 3,089 papers
+   Dominant cluster: 34 (2,008, 65.0%)
+   Spans: 32 clusters, Entropy: 1.494
+
+4. cs.DL - Dominance: 0.648
+   Size: 3,610 papers
+   Dominant cluster: 34 (2,339, 64.8%)
+   Spans: 35 clusters, Entropy: 1.478
+
+5. math.DG - Dominance: 0.638
+   Size: 26,338 papers
+   Dominant cluster: 45 (16,811, 63.8%)
+   Spans: 44 clusters, Entropy: 1.625
+
+6. math.GR - Dominance: 0.632
+   Size: 13,537 papers
+   Dominant cluster: 0 (8,559, 63.2%)
+   Spans: 37 clusters, Entropy: 1.541
+
+7. cs.OS - Dominance: 0.629
+   Size: 553 papers
+   Dominant cluster: 34 (348, 62.9%)
+   Spans: 24 clusters, Entropy: 1.540
+
+8. cs.GL - Dominance: 0.628
+   Size: 94 papers
+   Dominant cluster: 34 (59, 62.8%)
+   Spans: 15 clusters, Entropy: 1.568
+
+9. physics.optics - Dominance: 0.624
+   Size: 30,764 papers
+   Dominant cluster: 23 (19,208, 62.4%)
+   Spans: 47 clusters, Entropy: 1.793
+
+10. nlin.SI - Dominance: 0.621
+   Size: 3,919 papers
+   Dominant cluster: 47 (2,432, 62.1%)
+   Spans: 35 clusters, Entropy: 1.560
+
+TOP 10 MOST DISPERSED CATEGORIES (SVD-300D)
+1. cs.AI - Dominance: 0.139
+   Size: 28,024 papers
+   Spans: 45 clusters, Entropy: 2.610
+   Interpretation: Category content highly fragmented across clusters
+
+2. eess.SP - Dominance: 0.178
+   Size: 19,808 papers
+   Spans: 47 clusters, Entropy: 2.405
+   Interpretation: Category content highly fragmented across clusters
+
+3. astro-ph - Dominance: 0.195
+   Size: 17,812 papers
+   Spans: 41 clusters, Entropy: 2.529
+   Interpretation: Category content highly fragmented across clusters
+
+4. cs.ET - Dominance: 0.198
+   Size: 2,455 papers
+   Spans: 42 clusters, Entropy: 2.469
+   Interpretation: Category content highly fragmented across clusters
+
+5. cs.GR - Dominance: 0.205
+   Size: 3,259 papers
+   Spans: 38 clusters, Entropy: 2.475
+   Interpretation: Category content highly fragmented across clusters
+
+6. cond-mat.dis-nn - Dominance: 0.225
+   Size: 7,366 papers
+   Spans: 40 clusters, Entropy: 2.541
+   Interpretation: Category content highly fragmented across clusters
+
+7. cs.GT - Dominance: 0.236
+   Size: 8,308 papers
+   Spans: 41 clusters, Entropy: 2.360
+   Interpretation: Category content highly fragmented across clusters
+
+8. nucl-th - Dominance: 0.237
+   Size: 22,158 papers
+   Spans: 40 clusters, Entropy: 2.415
+   Interpretation: Category content highly fragmented across clusters
+
+9. cs.LG - Dominance: 0.238
+   Size: 110,499 papers
+   Spans: 49 clusters, Entropy: 2.402
+   Interpretation: Category content highly fragmented across clusters
+
+10. cs.PL - Dominance: 0.239
+   Size: 5,115 papers
+   Spans: 39 clusters, Entropy: 2.398
+   Interpretation: Category content highly fragmented across clusters
+
+PATH COMPARISON
+Overall Winner: 500D
+  500d wins on 5/5 key metrics
+
+NMI (Information Overlap):
+  300d: 0.321
+  500d: 0.324
+  Winner: 500d
+
+ARI (Agreement):
+  300d: 0.079
+  500d: 0.090
+  Winner: 500d
+
+Mean Cluster Purity:
+  300d: 0.292
+  500d: 0.292
+  Winner: 500d
+
+High Purity Clusters (>0.7):
+  300d: 1 clusters
+  500d: 0 clusters
+
+INTERPRETATION
+Alignment Score Interpretation:
+  NMI/ARI > 0.5: Moderate-high agreement between clustering and categories
+  NMI/ARI 0.3-0.5: Moderate agreement (expected for content-based clustering)
+  NMI/ARI < 0.3: Low agreement (clustering finds different structure)
+
+Purity Interpretation:
+  > 0.9: Near-perfect category alignment (cluster = category)
+  0.7-0.9: High alignment (dominant category clear)
+  0.5-0.7: Moderate alignment (some category mixing)
+  < 0.5: Low alignment (multi-category clusters)
+
+Key Findings:
+  - 500D shows better overall category alignment
+  - Most aligned: Specialized subfields with clear boundaries
+  - Least aligned: Interdisciplinary or methodological clusters
+  - Low purity not necessarily bad - may indicate emerging cross-category areas
+  - Content-based clustering captures different structure than human curation

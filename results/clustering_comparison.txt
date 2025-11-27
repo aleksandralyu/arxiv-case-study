@@ -1,0 +1,31 @@
+FINAL CLUSTERING COMPARISON: SVD-300D VS SVD-500D
+Analysis date: 2025-11-17 15:36:49
+
+CONFIGURATION
+Metric                         SVD-300d                  SVD-500d
+Variance preserved             53%                       71%
+Feature dimensions             300                       500
+Number of clusters (k)         50                        50
+Papers clustered               2,384,622                2,384,622
+
+QUALITY METRICS
+Metric                         SVD-300d                  SVD-500d
+Silhouette Score               0.0377                    0.0278
+Davies-Bouldin Index           3.6314                    4.2650
+Calinski-Harabasz Score        10803.5                   7443.7
+Inertia                        998066.6                  1427458.8
+
+RUNTIME COMPARISON
+Stage                          SVD-300d                  SVD-500d
+Model fitting (minutes)        0.1                       0.1
+Label prediction (minutes)     0.0                       0.0
+Total time (minutes)           0.1                       0.1
+Time difference                0.0                       min (+41.7%)
+
+CLUSTER SIZE STATISTICS
+Statistic                      SVD-300d                  SVD-500d
+Largest cluster                  333,414                  274,874
+Smallest cluster                   5,085                    6,725
+Mean size                         47,692                   47,692
+Median size                       25,352                   22,544
+Std deviation                     60,823                   59,004

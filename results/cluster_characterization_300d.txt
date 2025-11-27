@@ -1,0 +1,3066 @@
+CLUSTER CHARACTERIZATION SUMMARY: SVD-300D
+Analysis date: 2025-11-18 13:47:26
+SVD variant: 300d
+Number of clusters: 50
+Total papers: 2,384,622
+
+OVERALL STATISTICS
+Average cluster size: 47,692 papers
+Average category purity: 29.2%
+Average domain diversity: 1.202
+Average distinctiveness: 0.563
+
+--------------------------------------------------------------------------------
+INDIVIDUAL CLUSTER PROFILES
+--------------------------------------------------------------------------------
+
+================================================================================
+CLUSTER 0
+================================================================================
+Size: 12,419 papers (0.52%)
+
+Top 20 terms:
+   1. video                     (score: 0.4556)
+   2. temporal                  (score: 0.0805)
+   3. visual                    (score: 0.0465)
+   4. quality                   (score: 0.0408)
+   5. motion                    (score: 0.0402)
+   6. model                     (score: 0.0378)
+   7. based                     (score: 0.0378)
+   8. models                    (score: 0.0370)
+   9. dataset                   (score: 0.0360)
+  10. propose                   (score: 0.0339)
+  11. methods                   (score: 0.0330)
+  12. image                     (score: 0.0326)
+  13. method                    (score: 0.0315)
+  14. text                      (score: 0.0314)
+  15. performance               (score: 0.0307)
+  16. content                   (score: 0.0307)
+  17. generation                (score: 0.0305)
+  18. learning                  (score: 0.0304)
+  19. object                    (score: 0.0303)
+  20. art                       (score: 0.0294)
+
+Top 10 ArXiv categories:
+  cs.CV                 8,957 papers ( 72.12%)
+  eess.IV                 668 papers (  5.38%)
+  cs.MM                   661 papers (  5.32%)
+  cs.NI                   301 papers (  2.42%)
+  cs.HC                   237 papers (  1.91%)
+  cs.LG                   183 papers (  1.47%)
+  cs.CL                   165 papers (  1.33%)
+  cs.RO                   128 papers (  1.03%)
+  cs.IR                   108 papers (  0.87%)
+  cs.SD                    97 papers (  0.78%)
+
+Domain distribution:
+  cs         11,431 papers ( 92.04%)
+  eess          745 papers (  6.00%)
+  physics       149 papers (  1.20%)
+  astro-ph       27 papers (  0.22%)
+  q-bio          21 papers (  0.17%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2023
+  Recent papers (2020+): 79.2%
+
+Quality indicators:
+  Category purity: 72.1%
+  Domain diversity: 0.348
+  Distinctiveness: 0.636
+  Growth rate: +164.2%
+  Niche score: 0.0760
+  Journal rate: 7.2%
+  Multi-category rate: 43.1%
+  Avg authors: 5.4
+
+================================================================================
+CLUSTER 1
+================================================================================
+Size: 59,973 papers (2.51%)
+
+Top 20 terms:
+   1. quark                     (score: 0.0973)
+   2. higgs                     (score: 0.0861)
+   3. mass                      (score: 0.0819)
+   4. production                (score: 0.0736)
+   5. collisions                (score: 0.0599)
+   6. heavy                     (score: 0.0561)
+   7. bar                       (score: 0.0519)
+   8. model                     (score: 0.0510)
+   9. gev                       (score: 0.0504)
+  10. decay                     (score: 0.0445)
+  11. energy                    (score: 0.0403)
+  12. cross                     (score: 0.0379)
+  13. standard                  (score: 0.0345)
+  14. masses                    (score: 0.0312)
+  15. momentum                  (score: 0.0304)
+  16. gauge                     (score: 0.0289)
+  17. jet                       (score: 0.0288)
+  18. data                      (score: 0.0282)
+  19. results                   (score: 0.0270)
+  20. physics                   (score: 0.0262)
+
+Top 10 ArXiv categories:
+  hep-ph               33,541 papers ( 55.93%)
+  hep-ex                7,672 papers ( 12.79%)
+  nucl-th               5,119 papers (  8.54%)
+  nucl-ex               3,708 papers (  6.18%)
+  hep-lat               2,909 papers (  4.85%)
+  hep-th                1,822 papers (  3.04%)
+  physics.ins-det         561 papers (  0.94%)
+  astro-ph.CO             481 papers (  0.80%)
+  gr-qc                   459 papers (  0.77%)
+  astro-ph.HE             455 papers (  0.76%)
+
+Domain distribution:
+  hep-ph     33,541 papers ( 55.93%)
+  hep-ex      7,672 papers ( 12.79%)
+  nucl-th     5,119 papers (  8.54%)
+  nucl-ex     3,708 papers (  6.18%)
+  hep-lat     2,909 papers (  4.85%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2017
+  Recent papers (2020+): 32.2%
+
+Quality indicators:
+  Category purity: 55.9%
+  Domain diversity: 1.582
+  Distinctiveness: 0.443
+  Growth rate: +21.0%
+  Niche score: 0.0268
+  Journal rate: 48.4%
+  Multi-category rate: 44.4%
+  Avg authors: 13.2
+
+================================================================================
+CLUSTER 2
+================================================================================
+Size: 10,523 papers (0.44%)
+
+Top 20 terms:
+   1. disk                      (score: 0.4062)
+   2. accretion                 (score: 0.1275)
+   3. mass                      (score: 0.0696)
+   4. dust                      (score: 0.0696)
+   5. gas                       (score: 0.0553)
+   6. star                      (score: 0.0543)
+   7. formation                 (score: 0.0490)
+   8. emission                  (score: 0.0460)
+   9. observations              (score: 0.0411)
+  10. stellar                   (score: 0.0382)
+  11. stars                     (score: 0.0358)
+  12. observed                  (score: 0.0311)
+  13. evolution                 (score: 0.0291)
+  14. sim                       (score: 0.0290)
+  15. ray                       (score: 0.0279)
+  16. radius                    (score: 0.0268)
+  17. model                     (score: 0.0260)
+  18. line                      (score: 0.0257)
+  19. binary                    (score: 0.0241)
+  20. simulations               (score: 0.0239)
+
+Top 10 ArXiv categories:
+  astro-ph.EP           2,586 papers ( 24.57%)
+  astro-ph.SR           2,333 papers ( 22.17%)
+  astro-ph.HE           1,810 papers ( 17.20%)
+  astro-ph.GA           1,706 papers ( 16.21%)
+  astro-ph                763 papers (  7.25%)
+  astro-ph.CO             323 papers (  3.07%)
+  gr-qc                   112 papers (  1.06%)
+  math.CV                 109 papers (  1.04%)
+  math.GT                  48 papers (  0.46%)
+  astro-ph.IM              46 papers (  0.44%)
+
+Domain distribution:
+  astro-ph    9,567 papers ( 90.92%)
+  math          405 papers (  3.85%)
+  physics       130 papers (  1.24%)
+  gr-qc         112 papers (  1.06%)
+  cs            107 papers (  1.02%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2017
+  Recent papers (2020+): 37.2%
+
+Quality indicators:
+  Category purity: 24.6%
+  Domain diversity: 0.466
+  Distinctiveness: 0.671
+  Growth rate: +48.9%
+  Niche score: 0.0363
+  Journal rate: 26.6%
+  Multi-category rate: 36.1%
+  Avg authors: 6.8
+
+================================================================================
+CLUSTER 3
+================================================================================
+Size: 333,414 papers (13.98%)
+
+Top 20 terms:
+   1. model                     (score: 0.0391)
+   2. time                      (score: 0.0334)
+   3. using                     (score: 0.0241)
+   4. energy                    (score: 0.0235)
+   5. results                   (score: 0.0229)
+   6. dynamics                  (score: 0.0219)
+   7. high                      (score: 0.0203)
+   8. field                     (score: 0.0201)
+   9. based                     (score: 0.0197)
+  10. study                     (score: 0.0196)
+  11. different                 (score: 0.0189)
+  12. non                       (score: 0.0185)
+  13. power                     (score: 0.0179)
+  14. frequency                 (score: 0.0178)
+  15. simulations               (score: 0.0176)
+  16. used                      (score: 0.0175)
+  17. analysis                  (score: 0.0174)
+  18. models                    (score: 0.0174)
+  19. systems                   (score: 0.0171)
+  20. present                   (score: 0.0171)
+
+Top 10 ArXiv categories:
+  physics.optics       16,834 papers (  5.05%)
+  cond-mat.soft        13,588 papers (  4.08%)
+  quant-ph             13,063 papers (  3.92%)
+  gr-qc                12,862 papers (  3.86%)
+  astro-ph.CO          12,657 papers (  3.80%)
+  physics.flu-dyn      12,404 papers (  3.72%)
+  cond-mat.stat-mech   10,108 papers (  3.03%)
+  hep-ph               10,058 papers (  3.02%)
+  cond-mat.mtrl-sci     9,856 papers (  2.96%)
+  astro-ph.SR           8,900 papers (  2.67%)
+
+Domain distribution:
+  physics    82,131 papers ( 24.63%)
+  astro-ph   51,655 papers ( 15.49%)
+  cond-mat   47,605 papers ( 14.28%)
+  cs         29,298 papers (  8.79%)
+  math       21,949 papers (  6.58%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 45.9%
+
+Quality indicators:
+  Category purity: 5.0%
+  Domain diversity: 2.420
+  Distinctiveness: 0.102
+  Growth rate: +51.9%
+  Niche score: 0.0334
+  Journal rate: 35.5%
+  Multi-category rate: 49.1%
+  Avg authors: 5.0
+
+================================================================================
+CLUSTER 4
+================================================================================
+Size: 32,772 papers (1.37%)
+
+Top 20 terms:
+   1. ray                       (score: 0.2506)
+   2. gamma                     (score: 0.2390)
+   3. emission                  (score: 0.0760)
+   4. energy                    (score: 0.0595)
+   5. radio                     (score: 0.0486)
+   6. sources                   (score: 0.0435)
+   7. observations              (score: 0.0408)
+   8. high                      (score: 0.0377)
+   9. cosmic                    (score: 0.0359)
+  10. source                    (score: 0.0353)
+  11. flux                      (score: 0.0324)
+  12. optical                   (score: 0.0310)
+  13. spectral                  (score: 0.0309)
+  14. observed                  (score: 0.0295)
+  15. spectrum                  (score: 0.0289)
+  16. data                      (score: 0.0277)
+  17. detected                  (score: 0.0265)
+  18. gev                       (score: 0.0258)
+  19. jet                       (score: 0.0255)
+  20. fermi                     (score: 0.0249)
+
+Top 10 ArXiv categories:
+  astro-ph.HE          14,607 papers ( 44.57%)
+  astro-ph              1,995 papers (  6.09%)
+  astro-ph.IM           1,557 papers (  4.75%)
+  hep-ph                1,514 papers (  4.62%)
+  astro-ph.CO           1,508 papers (  4.60%)
+  astro-ph.GA           1,231 papers (  3.76%)
+  astro-ph.SR           1,151 papers (  3.51%)
+  physics.ins-det         813 papers (  2.48%)
+  nucl-ex                 649 papers (  1.98%)
+  math.CO                 481 papers (  1.47%)
+
+Domain distribution:
+  astro-ph   22,169 papers ( 67.65%)
+  math        3,249 papers (  9.91%)
+  physics     2,177 papers (  6.64%)
+  hep-ph      1,514 papers (  4.62%)
+  cond-mat    1,087 papers (  3.32%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2017
+  Recent papers (2020+): 36.2%
+
+Quality indicators:
+  Category purity: 44.6%
+  Domain diversity: 1.304
+  Distinctiveness: 0.591
+  Growth rate: +22.5%
+  Niche score: 0.0317
+  Journal rate: 31.3%
+  Multi-category rate: 37.0%
+  Avg authors: 13.0
+
+================================================================================
+CLUSTER 5
+================================================================================
+Size: 73,650 papers (3.09%)
+
+Top 20 terms:
+   1. quantum                   (score: 0.3794)
+   2. classical                 (score: 0.0548)
+   3. states                    (score: 0.0518)
+   4. state                     (score: 0.0440)
+   5. systems                   (score: 0.0343)
+   6. theory                    (score: 0.0315)
+   7. time                      (score: 0.0280)
+   8. information               (score: 0.0258)
+   9. non                       (score: 0.0248)
+  10. photon                    (score: 0.0242)
+  11. measurement               (score: 0.0233)
+  12. field                     (score: 0.0232)
+  13. single                    (score: 0.0225)
+  14. dynamics                  (score: 0.0211)
+  15. using                     (score: 0.0206)
+  16. based                     (score: 0.0191)
+  17. model                     (score: 0.0190)
+  18. noise                     (score: 0.0176)
+  19. optical                   (score: 0.0172)
+  20. computing                 (score: 0.0169)
+
+Top 10 ArXiv categories:
+  quant-ph             44,524 papers ( 60.45%)
+  cond-mat.mes-hall     4,741 papers (  6.44%)
+  gr-qc                 2,953 papers (  4.01%)
+  hep-th                2,927 papers (  3.97%)
+  cond-mat.str-el       1,996 papers (  2.71%)
+  math-ph               1,629 papers (  2.21%)
+  cond-mat.quant-gas    1,589 papers (  2.16%)
+  cond-mat.stat-mech    1,326 papers (  1.80%)
+  physics.optics        1,169 papers (  1.59%)
+  physics.gen-ph          777 papers (  1.05%)
+
+Domain distribution:
+  quant-ph   44,524 papers ( 60.45%)
+  cond-mat   11,267 papers ( 15.30%)
+  physics     4,789 papers (  6.50%)
+  gr-qc       2,953 papers (  4.01%)
+  hep-th      2,927 papers (  3.97%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2020
+  Recent papers (2020+): 54.1%
+
+Quality indicators:
+  Category purity: 60.5%
+  Domain diversity: 1.437
+  Distinctiveness: 0.508
+  Growth rate: +113.4%
+  Niche score: 0.0443
+  Journal rate: 51.8%
+  Multi-category rate: 51.4%
+  Avg authors: 3.9
+
+================================================================================
+CLUSTER 6
+================================================================================
+Size: 50,126 papers (2.10%)
+
+Top 20 terms:
+   1. image                     (score: 0.2499)
+   2. images                    (score: 0.1681)
+   3. segmentation              (score: 0.0698)
+   4. method                    (score: 0.0477)
+   5. methods                   (score: 0.0434)
+   6. based                     (score: 0.0429)
+   7. model                     (score: 0.0420)
+   8. quality                   (score: 0.0379)
+   9. training                  (score: 0.0378)
+  10. learning                  (score: 0.0370)
+  11. models                    (score: 0.0367)
+  12. dataset                   (score: 0.0357)
+  13. proposed                  (score: 0.0353)
+  14. visual                    (score: 0.0349)
+  15. data                      (score: 0.0348)
+  16. network                   (score: 0.0339)
+  17. propose                   (score: 0.0336)
+  18. performance               (score: 0.0328)
+  19. text                      (score: 0.0317)
+  20. features                  (score: 0.0308)
+
+Top 10 ArXiv categories:
+  cs.CV                32,818 papers ( 65.47%)
+  eess.IV               7,531 papers ( 15.02%)
+  cs.LG                 1,143 papers (  2.28%)
+  astro-ph.IM             756 papers (  1.51%)
+  physics.med-ph          660 papers (  1.32%)
+  cs.RO                   590 papers (  1.18%)
+  cs.CL                   590 papers (  1.18%)
+  cs.CR                   517 papers (  1.03%)
+  cs.MM                   495 papers (  0.99%)
+  physics.optics          456 papers (  0.91%)
+
+Domain distribution:
+  cs         37,847 papers ( 75.50%)
+  eess        7,802 papers ( 15.56%)
+  physics     1,589 papers (  3.17%)
+  astro-ph    1,298 papers (  2.59%)
+  math          606 papers (  1.21%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2022
+  Recent papers (2020+): 75.6%
+
+Quality indicators:
+  Category purity: 65.5%
+  Domain diversity: 0.868
+  Distinctiveness: 0.468
+  Growth rate: +114.8%
+  Niche score: 0.0639
+  Journal rate: 10.5%
+  Multi-category rate: 50.4%
+  Avg authors: 5.0
+
+================================================================================
+CLUSTER 7
+================================================================================
+Size: 28,806 papers (1.21%)
+
+Top 20 terms:
+   1. group                     (score: 0.3546)
+   2. finite                    (score: 0.0519)
+   3. groups                    (score: 0.0441)
+   4. let                       (score: 0.0389)
+   5. prove                     (score: 0.0373)
+   6. action                    (score: 0.0339)
+   7. space                     (score: 0.0288)
+   8. lie                       (score: 0.0276)
+   9. theory                    (score: 0.0258)
+  10. field                     (score: 0.0257)
+  11. non                       (score: 0.0231)
+  12. representations           (score: 0.0230)
+  13. algebra                   (score: 0.0227)
+  14. class                     (score: 0.0220)
+  15. algebraic                 (score: 0.0219)
+  16. paper                     (score: 0.0216)
+  17. representation            (score: 0.0211)
+  18. compact                   (score: 0.0208)
+  19. invariant                 (score: 0.0205)
+  20. study                     (score: 0.0191)
+
+Top 10 ArXiv categories:
+  math.GR               4,174 papers ( 14.49%)
+  math.AG               2,828 papers (  9.82%)
+  math.RT               2,139 papers (  7.43%)
+  math.NT               1,807 papers (  6.27%)
+  math.GT               1,769 papers (  6.14%)
+  hep-th                1,362 papers (  4.73%)
+  math.CO               1,260 papers (  4.37%)
+  math.DG               1,138 papers (  3.95%)
+  math.AT                 807 papers (  2.80%)
+  math.DS                 744 papers (  2.58%)
+
+Domain distribution:
+  math       21,220 papers ( 73.67%)
+  cs          1,867 papers (  6.48%)
+  hep-th      1,362 papers (  4.73%)
+  math-ph       701 papers (  2.43%)
+  physics       690 papers (  2.40%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 42.5%
+
+Quality indicators:
+  Category purity: 14.5%
+  Domain diversity: 1.198
+  Distinctiveness: 0.634
+  Growth rate: +52.7%
+  Niche score: 0.0377
+  Journal rate: 27.0%
+  Multi-category rate: 48.9%
+  Avg authors: 2.2
+
+================================================================================
+CLUSTER 8
+================================================================================
+Size: 24,874 papers (1.04%)
+
+Top 20 terms:
+   1. al                        (score: 0.2180)
+   2. et                        (score: 0.2039)
+   3. et al                     (score: 0.1984)
+   4. model                     (score: 0.0340)
+   5. results                   (score: 0.0256)
+   6. time                      (score: 0.0225)
+   7. data                      (score: 0.0220)
+   8. using                     (score: 0.0218)
+   9. paper                     (score: 0.0215)
+  10. based                     (score: 0.0197)
+  11. algorithm                 (score: 0.0195)
+  12. new                       (score: 0.0190)
+  13. work                      (score: 0.0189)
+  14. problem                   (score: 0.0185)
+  15. method                    (score: 0.0182)
+  16. models                    (score: 0.0177)
+  17. recent                    (score: 0.0173)
+  18. study                     (score: 0.0172)
+  19. recently                  (score: 0.0171)
+  20. number                    (score: 0.0166)
+
+Top 10 ArXiv categories:
+  quant-ph              1,320 papers (  5.31%)
+  cs.LG                 1,062 papers (  4.27%)
+  cond-mat.mtrl-sci       989 papers (  3.98%)
+  cs.DS                   984 papers (  3.96%)
+  astro-ph.SR             872 papers (  3.51%)
+  astro-ph.EP             846 papers (  3.40%)
+  cs.CL                   810 papers (  3.26%)
+  math.CO                 694 papers (  2.79%)
+  math.PR                 602 papers (  2.42%)
+  astro-ph.GA             583 papers (  2.34%)
+
+Domain distribution:
+  cs          5,976 papers ( 24.03%)
+  astro-ph    3,917 papers ( 15.75%)
+  math        3,805 papers ( 15.30%)
+  cond-mat    3,532 papers ( 14.20%)
+  physics     2,579 papers ( 10.37%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 43.0%
+
+Quality indicators:
+  Category purity: 5.3%
+  Domain diversity: 2.212
+  Distinctiveness: 0.546
+  Growth rate: +37.6%
+  Niche score: 0.0387
+  Journal rate: 28.5%
+  Multi-category rate: 45.9%
+  Avg authors: 3.9
+
+================================================================================
+CLUSTER 9
+================================================================================
+Size: 22,309 papers (0.94%)
+
+Top 20 terms:
+   1. channel                   (score: 0.2986)
+   2. channels                  (score: 0.0838)
+   3. communication             (score: 0.0563)
+   4. capacity                  (score: 0.0506)
+   5. rate                      (score: 0.0480)
+   6. information               (score: 0.0441)
+   7. multiple                  (score: 0.0434)
+   8. performance               (score: 0.0426)
+   9. proposed                  (score: 0.0425)
+  10. transmission              (score: 0.0414)
+  11. scheme                    (score: 0.0404)
+  12. based                     (score: 0.0360)
+  13. power                     (score: 0.0356)
+  14. user                      (score: 0.0319)
+  15. error                     (score: 0.0313)
+  16. estimation                (score: 0.0305)
+  17. signal                    (score: 0.0305)
+  18. paper                     (score: 0.0289)
+  19. noise                     (score: 0.0288)
+  20. results                   (score: 0.0280)
+
+Top 10 ArXiv categories:
+  cs.IT                10,579 papers ( 47.42%)
+  eess.SP               3,269 papers ( 14.65%)
+  quant-ph              1,425 papers (  6.39%)
+  cs.NI                 1,132 papers (  5.07%)
+  cs.CR                   515 papers (  2.31%)
+  hep-ph                  350 papers (  1.57%)
+  cs.CV                   345 papers (  1.55%)
+  physics.flu-dyn         339 papers (  1.52%)
+  cond-mat.mes-hall       312 papers (  1.40%)
+  cs.LG                   287 papers (  1.29%)
+
+Domain distribution:
+  cs         13,704 papers ( 61.43%)
+  eess        3,644 papers ( 16.33%)
+  quant-ph    1,425 papers (  6.39%)
+  physics     1,183 papers (  5.30%)
+  cond-mat      852 papers (  3.82%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 49.0%
+
+Quality indicators:
+  Category purity: 47.4%
+  Domain diversity: 1.386
+  Distinctiveness: 0.515
+  Growth rate: +58.2%
+  Niche score: 0.0445
+  Journal rate: 17.4%
+  Multi-category rate: 69.8%
+  Avg authors: 4.0
+
+================================================================================
+CLUSTER 10
+================================================================================
+Size: 72,564 papers (3.04%)
+
+Top 20 terms:
+   1. learning                  (score: 0.2379)
+   2. machine                   (score: 0.0778)
+   3. machine learning          (score: 0.0749)
+   4. deep                      (score: 0.0659)
+   5. data                      (score: 0.0641)
+   6. deep learning             (score: 0.0532)
+   7. model                     (score: 0.0513)
+   8. models                    (score: 0.0497)
+   9. training                  (score: 0.0472)
+  10. based                     (score: 0.0452)
+  11. methods                   (score: 0.0432)
+  12. performance               (score: 0.0403)
+  13. tasks                     (score: 0.0325)
+  14. approach                  (score: 0.0319)
+  15. algorithms                (score: 0.0293)
+  16. method                    (score: 0.0288)
+  17. neural                    (score: 0.0286)
+  18. classification            (score: 0.0285)
+  19. framework                 (score: 0.0281)
+  20. using                     (score: 0.0278)
+
+Top 10 ArXiv categories:
+  cs.LG                26,315 papers ( 36.26%)
+  cs.CV                 9,450 papers ( 13.02%)
+  cs.CL                 3,248 papers (  4.48%)
+  stat.ML               3,038 papers (  4.19%)
+  cs.RO                 2,957 papers (  4.08%)
+  cs.AI                 2,697 papers (  3.72%)
+  eess.IV               2,111 papers (  2.91%)
+  cs.CR                 1,588 papers (  2.19%)
+  eess.SP               1,471 papers (  2.03%)
+  cs.CY                 1,020 papers (  1.41%)
+
+Domain distribution:
+  cs         55,162 papers ( 76.02%)
+  eess        4,495 papers (  6.19%)
+  stat        3,893 papers (  5.36%)
+  physics     2,600 papers (  3.58%)
+  q-bio       1,456 papers (  2.01%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2022
+  Recent papers (2020+): 80.4%
+
+Quality indicators:
+  Category purity: 36.3%
+  Domain diversity: 1.059
+  Distinctiveness: 0.379
+  Growth rate: +98.4%
+  Niche score: 0.0659
+  Journal rate: 11.6%
+  Multi-category rate: 69.7%
+  Avg authors: 4.3
+
+================================================================================
+CLUSTER 11
+================================================================================
+Size: 24,563 papers (1.03%)
+
+Top 20 terms:
+   1. operators                 (score: 0.2865)
+   2. operator                  (score: 0.1642)
+   3. space                     (score: 0.0385)
+   4. functions                 (score: 0.0343)
+   5. theory                    (score: 0.0336)
+   6. differential              (score: 0.0291)
+   7. type                      (score: 0.0253)
+   8. prove                     (score: 0.0248)
+   9. paper                     (score: 0.0237)
+  10. order                     (score: 0.0236)
+  11. non                       (score: 0.0235)
+  12. study                     (score: 0.0233)
+  13. results                   (score: 0.0232)
+  14. spectral                  (score: 0.0226)
+  15. spaces                    (score: 0.0224)
+  16. class                     (score: 0.0219)
+  17. bounded                   (score: 0.0215)
+  18. linear                    (score: 0.0210)
+  19. boundary                  (score: 0.0201)
+  20. function                  (score: 0.0197)
+
+Top 10 ArXiv categories:
+  math.FA               3,741 papers ( 15.23%)
+  hep-th                2,916 papers ( 11.87%)
+  math.AP               2,325 papers (  9.47%)
+  math-ph               1,938 papers (  7.89%)
+  math.CA               1,338 papers (  5.45%)
+  math.SP               1,268 papers (  5.16%)
+  quant-ph              1,214 papers (  4.94%)
+  hep-ph                1,040 papers (  4.23%)
+  math.NA                 757 papers (  3.08%)
+  math.DG                 710 papers (  2.89%)
+
+Domain distribution:
+  math       13,996 papers ( 56.98%)
+  hep-th      2,916 papers ( 11.87%)
+  math-ph     1,938 papers (  7.89%)
+  cs          1,505 papers (  6.13%)
+  quant-ph    1,214 papers (  4.94%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 44.5%
+
+Quality indicators:
+  Category purity: 15.2%
+  Domain diversity: 1.594
+  Distinctiveness: 0.576
+  Growth rate: +55.7%
+  Niche score: 0.0400
+  Journal rate: 29.2%
+  Multi-category rate: 49.5%
+  Avg authors: 2.3
+
+================================================================================
+CLUSTER 12
+================================================================================
+Size: 12,455 papers (0.52%)
+
+Top 20 terms:
+   1. entanglement              (score: 0.4494)
+   2. quantum                   (score: 0.1343)
+   3. states                    (score: 0.1037)
+   4. entropy                   (score: 0.0814)
+   5. state                     (score: 0.0645)
+   6. systems                   (score: 0.0325)
+   7. non                       (score: 0.0254)
+   8. photon                    (score: 0.0248)
+   9. information               (score: 0.0243)
+  10. field                     (score: 0.0241)
+  11. local                     (score: 0.0239)
+  12. correlations              (score: 0.0221)
+  13. spin                      (score: 0.0213)
+  14. time                      (score: 0.0212)
+  15. study                     (score: 0.0198)
+  16. theory                    (score: 0.0189)
+  17. dynamics                  (score: 0.0188)
+  18. classical                 (score: 0.0184)
+  19. using                     (score: 0.0181)
+  20. dimensional               (score: 0.0181)
+
+Top 10 ArXiv categories:
+  quant-ph              8,223 papers ( 66.02%)
+  hep-th                1,634 papers ( 13.12%)
+  cond-mat.str-el         666 papers (  5.35%)
+  cond-mat.stat-mech      504 papers (  4.05%)
+  cond-mat.mes-hall       293 papers (  2.35%)
+  gr-qc                   214 papers (  1.72%)
+  cond-mat.quant-gas      137 papers (  1.10%)
+  hep-ph                  115 papers (  0.92%)
+  cond-mat.dis-nn         110 papers (  0.88%)
+  math-ph                  94 papers (  0.75%)
+
+Domain distribution:
+  quant-ph    8,223 papers ( 66.02%)
+  cond-mat    1,802 papers ( 14.47%)
+  hep-th      1,634 papers ( 13.12%)
+  gr-qc         214 papers (  1.72%)
+  physics       167 papers (  1.34%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 45.2%
+
+Quality indicators:
+  Category purity: 66.0%
+  Domain diversity: 1.125
+  Distinctiveness: 0.662
+  Growth rate: +100.4%
+  Niche score: 0.0433
+  Journal rate: 62.3%
+  Multi-category rate: 43.8%
+  Avg authors: 3.3
+
+================================================================================
+CLUSTER 13
+================================================================================
+Size: 10,888 papers (0.46%)
+
+Top 20 terms:
+   1. ai                        (score: 0.5209)
+   2. human                     (score: 0.0723)
+   3. research                  (score: 0.0507)
+   4. systems                   (score: 0.0507)
+   5. models                    (score: 0.0447)
+   6. data                      (score: 0.0375)
+   7. generative                (score: 0.0373)
+   8. challenges                (score: 0.0339)
+   9. learning                  (score: 0.0336)
+  10. development               (score: 0.0324)
+  11. based                     (score: 0.0296)
+  12. design                    (score: 0.0286)
+  13. paper                     (score: 0.0284)
+  14. model                     (score: 0.0259)
+  15. language                  (score: 0.0255)
+  16. potential                 (score: 0.0255)
+  17. tools                     (score: 0.0242)
+  18. framework                 (score: 0.0240)
+  19. decision                  (score: 0.0233)
+  20. future                    (score: 0.0229)
+
+Top 10 ArXiv categories:
+  cs.AI                 2,235 papers ( 20.53%)
+  cs.CY                 2,051 papers ( 18.84%)
+  cs.HC                 1,606 papers ( 14.75%)
+  cs.LG                   811 papers (  7.45%)
+  cs.CL                   710 papers (  6.52%)
+  cs.CV                   477 papers (  4.38%)
+  cs.SE                   416 papers (  3.82%)
+  cs.CR                   372 papers (  3.42%)
+  eess.IV                 197 papers (  1.81%)
+  cs.NI                   195 papers (  1.79%)
+
+Domain distribution:
+  cs          9,791 papers ( 89.92%)
+  eess          347 papers (  3.19%)
+  physics       193 papers (  1.77%)
+  q-bio         152 papers (  1.40%)
+  econ          148 papers (  1.36%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2024
+  Recent papers (2020+): 94.7%
+
+Quality indicators:
+  Category purity: 20.5%
+  Domain diversity: 0.530
+  Distinctiveness: 0.703
+  Growth rate: +547.9%
+  Niche score: 0.0920
+  Journal rate: 10.6%
+  Multi-category rate: 66.6%
+  Avg authors: 5.3
+
+================================================================================
+CLUSTER 14
+================================================================================
+Size: 19,333 papers (0.81%)
+
+Top 20 terms:
+   1. alpha                     (score: 0.4620)
+   2. beta                      (score: 0.0662)
+   3. frac                      (score: 0.0289)
+   4. mathbb                    (score: 0.0276)
+   5. function                  (score: 0.0211)
+   6. gamma                     (score: 0.0209)
+   7. lambda                    (score: 0.0204)
+   8. infty                     (score: 0.0202)
+   9. order                     (score: 0.0196)
+  10. leq                       (score: 0.0185)
+  11. prove                     (score: 0.0184)
+  12. results                   (score: 0.0181)
+  13. model                     (score: 0.0180)
+  14. equation                  (score: 0.0169)
+  15. study                     (score: 0.0168)
+  16. time                      (score: 0.0168)
+  17. delta                     (score: 0.0162)
+  18. number                    (score: 0.0159)
+  19. functions                 (score: 0.0158)
+  20. case                      (score: 0.0156)
+
+Top 10 ArXiv categories:
+  math.AP               1,545 papers (  7.99%)
+  math.PR               1,406 papers (  7.27%)
+  astro-ph.GA             958 papers (  4.96%)
+  hep-ph                  876 papers (  4.53%)
+  math.NT                 868 papers (  4.49%)
+  astro-ph.CO             814 papers (  4.21%)
+  math.CO                 713 papers (  3.69%)
+  nucl-th                 698 papers (  3.61%)
+  math.CA                 595 papers (  3.08%)
+  astro-ph.SR             563 papers (  2.91%)
+
+Domain distribution:
+  math        8,505 papers ( 43.99%)
+  astro-ph    2,962 papers ( 15.32%)
+  cond-mat    1,711 papers (  8.85%)
+  cs          1,120 papers (  5.79%)
+  physics       927 papers (  4.79%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 44.8%
+
+Quality indicators:
+  Category purity: 8.0%
+  Domain diversity: 1.990
+  Distinctiveness: 0.677
+  Growth rate: +52.0%
+  Niche score: 0.0412
+  Journal rate: 31.1%
+  Multi-category rate: 40.5%
+  Avg authors: 4.2
+
+================================================================================
+CLUSTER 15
+================================================================================
+Size: 18,400 papers (0.77%)
+
+Top 20 terms:
+   1. agents                    (score: 0.2880)
+   2. agent                     (score: 0.2541)
+   3. learning                  (score: 0.0607)
+   4. multi                     (score: 0.0568)
+   5. based                     (score: 0.0375)
+   6. model                     (score: 0.0372)
+   7. environment               (score: 0.0360)
+   8. policy                    (score: 0.0343)
+   9. problem                   (score: 0.0323)
+  10. information               (score: 0.0286)
+  11. tasks                     (score: 0.0283)
+  12. environments              (score: 0.0280)
+  13. human                     (score: 0.0279)
+  14. framework                 (score: 0.0269)
+  15. decision                  (score: 0.0264)
+  16. algorithm                 (score: 0.0261)
+  17. communication             (score: 0.0254)
+  18. task                      (score: 0.0251)
+  19. social                    (score: 0.0249)
+  20. systems                   (score: 0.0243)
+
+Top 10 ArXiv categories:
+  cs.AI                 2,987 papers ( 16.23%)
+  cs.LG                 2,950 papers ( 16.03%)
+  cs.MA                 1,744 papers (  9.48%)
+  cs.GT                 1,527 papers (  8.30%)
+  cs.RO                 1,362 papers (  7.40%)
+  math.OC                 820 papers (  4.46%)
+  cs.CL                   799 papers (  4.34%)
+  eess.SY                 692 papers (  3.76%)
+  physics.soc-ph          599 papers (  3.26%)
+  cs.CV                   542 papers (  2.95%)
+
+Domain distribution:
+  cs         14,306 papers ( 77.75%)
+  math        1,081 papers (  5.88%)
+  eess          780 papers (  4.24%)
+  physics       706 papers (  3.84%)
+  econ          446 papers (  2.42%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2022
+  Recent papers (2020+): 75.3%
+
+Quality indicators:
+  Category purity: 16.2%
+  Domain diversity: 0.976
+  Distinctiveness: 0.577
+  Growth rate: +153.4%
+  Niche score: 0.0696
+  Journal rate: 11.6%
+  Multi-category rate: 66.1%
+  Avg authors: 4.0
+
+================================================================================
+CLUSTER 16
+================================================================================
+Size: 13,376 papers (0.56%)
+
+Top 20 terms:
+   1. neutrino                  (score: 0.4536)
+   2. mass                      (score: 0.0721)
+   3. nu                        (score: 0.0655)
+   4. energy                    (score: 0.0508)
+   5. detector                  (score: 0.0448)
+   6. masses                    (score: 0.0430)
+   7. model                     (score: 0.0375)
+   8. decay                     (score: 0.0355)
+   9. physics                   (score: 0.0310)
+  10. experiments               (score: 0.0306)
+  11. beta                      (score: 0.0305)
+  12. experiment                (score: 0.0302)
+  13. data                      (score: 0.0296)
+  14. standard                  (score: 0.0283)
+  15. theta                     (score: 0.0283)
+  16. flux                      (score: 0.0255)
+  17. matter                    (score: 0.0254)
+  18. interactions              (score: 0.0250)
+  19. high                      (score: 0.0229)
+  20. events                    (score: 0.0228)
+
+Top 10 ArXiv categories:
+  hep-ph                6,827 papers ( 51.04%)
+  astro-ph.HE           1,888 papers ( 14.11%)
+  hep-ex                1,356 papers ( 10.14%)
+  physics.ins-det         835 papers (  6.24%)
+  astro-ph.CO             612 papers (  4.58%)
+  nucl-th                 450 papers (  3.36%)
+  astro-ph.IM             260 papers (  1.94%)
+  astro-ph                243 papers (  1.82%)
+  nucl-ex                 234 papers (  1.75%)
+  astro-ph.SR             167 papers (  1.25%)
+
+Domain distribution:
+  hep-ph      6,827 papers ( 51.04%)
+  astro-ph    3,180 papers ( 23.77%)
+  hep-ex      1,356 papers ( 10.14%)
+  physics     1,137 papers (  8.50%)
+  nucl-th       450 papers (  3.36%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 37.7%
+
+Quality indicators:
+  Category purity: 51.0%
+  Domain diversity: 1.393
+  Distinctiveness: 0.687
+  Growth rate: +27.5%
+  Niche score: 0.0359
+  Journal rate: 46.0%
+  Multi-category rate: 51.9%
+  Avg authors: 19.0
+
+================================================================================
+CLUSTER 17
+================================================================================
+Size: 18,552 papers (0.78%)
+
+Top 20 terms:
+   1. groups                    (score: 0.4174)
+   2. group                     (score: 0.1017)
+   3. finite                    (score: 0.0619)
+   4. prove                     (score: 0.0375)
+   5. lie                       (score: 0.0347)
+   6. theory                    (score: 0.0267)
+   7. class                     (score: 0.0253)
+   8. paper                     (score: 0.0253)
+   9. free                      (score: 0.0249)
+  10. representations           (score: 0.0242)
+  11. conjecture                (score: 0.0240)
+  12. non                       (score: 0.0236)
+  13. compact                   (score: 0.0231)
+  14. algebraic                 (score: 0.0228)
+  15. study                     (score: 0.0227)
+  16. results                   (score: 0.0216)
+  17. type                      (score: 0.0213)
+  18. certain                   (score: 0.0195)
+  19. result                    (score: 0.0194)
+  20. theorem                   (score: 0.0193)
+
+Top 10 ArXiv categories:
+  math.GR               4,943 papers ( 26.64%)
+  math.RT               1,434 papers (  7.73%)
+  math.AG               1,235 papers (  6.66%)
+  math.NT               1,127 papers (  6.07%)
+  math.GT                 968 papers (  5.22%)
+  math.AT                 801 papers (  4.32%)
+  math.CO                 686 papers (  3.70%)
+  math.DG                 569 papers (  3.07%)
+  math.OA                 445 papers (  2.40%)
+  math.DS                 404 papers (  2.18%)
+
+Domain distribution:
+  math       15,211 papers ( 81.99%)
+  cs          1,062 papers (  5.72%)
+  astro-ph      421 papers (  2.27%)
+  physics       341 papers (  1.84%)
+  hep-th        324 papers (  1.75%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 45.8%
+
+Quality indicators:
+  Category purity: 26.6%
+  Domain diversity: 0.875
+  Distinctiveness: 0.699
+  Growth rate: +59.4%
+  Niche score: 0.0423
+  Journal rate: 24.4%
+  Multi-category rate: 49.8%
+  Avg authors: 2.2
+
+================================================================================
+CLUSTER 18
+================================================================================
+Size: 13,999 papers (0.59%)
+
+Top 20 terms:
+   1. rm                        (score: 0.4946)
+   2. sim                       (score: 0.0507)
+   3. pm                        (score: 0.0504)
+   4. mass                      (score: 0.0472)
+   5. times                     (score: 0.0284)
+   6. sigma                     (score: 0.0274)
+   7. star                      (score: 0.0263)
+   8. lambda                    (score: 0.0236)
+   9. model                     (score: 0.0222)
+  10. energy                    (score: 0.0220)
+  11. galaxies                  (score: 0.0208)
+  12. using                     (score: 0.0195)
+  13. galaxy                    (score: 0.0193)
+  14. data                      (score: 0.0191)
+  15. density                   (score: 0.0190)
+  16. gas                       (score: 0.0188)
+  17. gamma                     (score: 0.0187)
+  18. alpha                     (score: 0.0187)
+  19. high                      (score: 0.0185)
+  20. observed                  (score: 0.0178)
+
+Top 10 ArXiv categories:
+  astro-ph.GA           2,441 papers ( 17.44%)
+  astro-ph.HE           1,472 papers ( 10.52%)
+  astro-ph.CO           1,428 papers ( 10.20%)
+  hep-ph                1,059 papers (  7.56%)
+  astro-ph.SR             778 papers (  5.56%)
+  astro-ph.EP             633 papers (  4.52%)
+  nucl-ex                 512 papers (  3.66%)
+  hep-ex                  504 papers (  3.60%)
+  cond-mat.supr-con       373 papers (  2.66%)
+  cond-mat.str-el         360 papers (  2.57%)
+
+Domain distribution:
+  astro-ph    6,957 papers ( 49.70%)
+  cond-mat    1,494 papers ( 10.67%)
+  math        1,489 papers ( 10.64%)
+  hep-ph      1,059 papers (  7.56%)
+  physics       540 papers (  3.86%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2020
+  Recent papers (2020+): 55.2%
+
+Quality indicators:
+  Category purity: 17.4%
+  Domain diversity: 1.826
+  Distinctiveness: 0.697
+  Growth rate: +51.0%
+  Niche score: 0.0523
+  Journal rate: 36.4%
+  Multi-category rate: 45.0%
+  Avg authors: 17.1
+
+================================================================================
+CLUSTER 19
+================================================================================
+Size: 35,837 papers (1.50%)
+
+Top 20 terms:
+   1. gas                       (score: 0.1359)
+   2. emission                  (score: 0.1330)
+   3. dust                      (score: 0.0803)
+   4. line                      (score: 0.0712)
+   5. observations              (score: 0.0609)
+   6. radio                     (score: 0.0607)
+   7. lines                     (score: 0.0534)
+   8. star                      (score: 0.0534)
+   9. molecular                 (score: 0.0487)
+  10. mass                      (score: 0.0436)
+  11. formation                 (score: 0.0418)
+  12. observed                  (score: 0.0387)
+  13. high                      (score: 0.0374)
+  14. galaxy                    (score: 0.0354)
+  15. velocity                  (score: 0.0350)
+  16. region                    (score: 0.0333)
+  17. spectra                   (score: 0.0320)
+  18. absorption                (score: 0.0319)
+  19. infrared                  (score: 0.0313)
+  20. density                   (score: 0.0312)
+
+Top 10 ArXiv categories:
+  astro-ph.GA          12,503 papers ( 34.89%)
+  astro-ph.SR           5,400 papers ( 15.07%)
+  astro-ph.HE           3,579 papers (  9.99%)
+  astro-ph.CO           3,527 papers (  9.84%)
+  astro-ph.EP           3,367 papers (  9.40%)
+  astro-ph              2,413 papers (  6.73%)
+  astro-ph.IM             660 papers (  1.84%)
+  physics.optics          418 papers (  1.17%)
+  physics.ins-det         367 papers (  1.02%)
+  cond-mat.mtrl-sci       300 papers (  0.84%)
+
+Domain distribution:
+  astro-ph   31,449 papers ( 87.76%)
+  physics     2,249 papers (  6.28%)
+  cond-mat    1,130 papers (  3.15%)
+  quant-ph      161 papers (  0.45%)
+  cs            138 papers (  0.39%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2017
+  Recent papers (2020+): 36.6%
+
+Quality indicators:
+  Category purity: 34.9%
+  Domain diversity: 0.569
+  Distinctiveness: 0.504
+  Growth rate: +32.5%
+  Niche score: 0.0319
+  Journal rate: 27.9%
+  Multi-category rate: 33.0%
+  Avg authors: 8.6
+
+================================================================================
+CLUSTER 20
+================================================================================
+Size: 68,689 papers (2.88%)
+
+Top 20 terms:
+   1. network                   (score: 0.2027)
+   2. networks                  (score: 0.1537)
+   3. neural                    (score: 0.1121)
+   4. neural networks           (score: 0.0586)
+   5. neural network            (score: 0.0556)
+   6. model                     (score: 0.0396)
+   7. based                     (score: 0.0365)
+   8. deep                      (score: 0.0355)
+   9. data                      (score: 0.0333)
+  10. nodes                     (score: 0.0325)
+  11. performance               (score: 0.0313)
+  12. training                  (score: 0.0307)
+  13. learning                  (score: 0.0295)
+  14. proposed                  (score: 0.0278)
+  15. time                      (score: 0.0260)
+  16. method                    (score: 0.0258)
+  17. models                    (score: 0.0257)
+  18. using                     (score: 0.0255)
+  19. paper                     (score: 0.0253)
+  20. approach                  (score: 0.0244)
+
+Top 10 ArXiv categories:
+  cs.LG                12,598 papers ( 18.34%)
+  cs.CV                 7,496 papers ( 10.91%)
+  cs.NI                 5,362 papers (  7.81%)
+  physics.soc-ph        3,413 papers (  4.97%)
+  cs.SI                 3,184 papers (  4.64%)
+  cs.NE                 2,030 papers (  2.96%)
+  cs.IT                 1,969 papers (  2.87%)
+  stat.ML               1,805 papers (  2.63%)
+  q-bio.NC              1,605 papers (  2.34%)
+  eess.SP               1,596 papers (  2.32%)
+
+Domain distribution:
+  cs         43,333 papers ( 63.09%)
+  physics     5,888 papers (  8.57%)
+  eess        4,314 papers (  6.28%)
+  q-bio       3,358 papers (  4.89%)
+  stat        2,993 papers (  4.36%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 62.1%
+
+Quality indicators:
+  Category purity: 18.3%
+  Domain diversity: 1.472
+  Distinctiveness: 0.397
+  Growth rate: +41.9%
+  Niche score: 0.0512
+  Journal rate: 18.0%
+  Multi-category rate: 65.7%
+  Avg authors: 3.8
+
+================================================================================
+CLUSTER 21
+================================================================================
+Size: 18,237 papers (0.76%)
+
+Top 20 terms:
+   1. mathcal                   (score: 0.5432)
+   2. mathbb                    (score: 0.0532)
+   3. let                       (score: 0.0421)
+   4. set                       (score: 0.0296)
+   5. space                     (score: 0.0295)
+   6. prove                     (score: 0.0288)
+   7. algebra                   (score: 0.0269)
+   8. infty                     (score: 0.0230)
+   9. group                     (score: 0.0225)
+  10. finite                    (score: 0.0218)
+  11. mathrm                    (score: 0.0212)
+  12. class                     (score: 0.0197)
+  13. theory                    (score: 0.0188)
+  14. paper                     (score: 0.0187)
+  15. geq                       (score: 0.0182)
+  16. given                     (score: 0.0179)
+  17. lambda                    (score: 0.0178)
+  18. non                       (score: 0.0174)
+  19. study                     (score: 0.0174)
+  20. result                    (score: 0.0171)
+
+Top 10 ArXiv categories:
+  math.CO               1,893 papers ( 10.38%)
+  math.AG               1,319 papers (  7.23%)
+  hep-th                1,190 papers (  6.53%)
+  math.FA               1,028 papers (  5.64%)
+  math.NT                 862 papers (  4.73%)
+  math.RT                 843 papers (  4.62%)
+  math.OA                 555 papers (  3.04%)
+  math.AP                 536 papers (  2.94%)
+  math.DG                 499 papers (  2.74%)
+  math.PR                 497 papers (  2.73%)
+
+Domain distribution:
+  math       13,239 papers ( 72.59%)
+  cs          1,480 papers (  8.12%)
+  hep-th      1,190 papers (  6.53%)
+  quant-ph      385 papers (  2.11%)
+  cond-mat      354 papers (  1.94%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 59.6%
+
+Quality indicators:
+  Category purity: 10.4%
+  Domain diversity: 1.183
+  Distinctiveness: 0.752
+  Growth rate: +73.8%
+  Niche score: 0.0552
+  Journal rate: 23.2%
+  Multi-category rate: 43.9%
+  Avg authors: 4.3
+
+================================================================================
+CLUSTER 22
+================================================================================
+Size: 36,549 papers (1.53%)
+
+Top 20 terms:
+   1. stars                     (score: 0.2751)
+   2. star                      (score: 0.1201)
+   3. stellar                   (score: 0.1095)
+   4. mass                      (score: 0.1054)
+   5. binary                    (score: 0.0463)
+   6. cluster                   (score: 0.0416)
+   7. neutron                   (score: 0.0413)
+   8. clusters                  (score: 0.0374)
+   9. evolution                 (score: 0.0364)
+  10. massive                   (score: 0.0356)
+  11. formation                 (score: 0.0344)
+  12. observations              (score: 0.0342)
+  13. period                    (score: 0.0326)
+  14. galactic                  (score: 0.0312)
+  15. solar                     (score: 0.0309)
+  16. fe                        (score: 0.0301)
+  17. observed                  (score: 0.0286)
+  18. masses                    (score: 0.0276)
+  19. high                      (score: 0.0276)
+  20. velocity                  (score: 0.0273)
+
+Top 10 ArXiv categories:
+  astro-ph.SR          15,797 papers ( 43.22%)
+  astro-ph.GA           6,964 papers ( 19.05%)
+  astro-ph.EP           3,993 papers ( 10.93%)
+  astro-ph.HE           2,909 papers (  7.96%)
+  astro-ph              2,626 papers (  7.18%)
+  gr-qc                 1,180 papers (  3.23%)
+  astro-ph.IM             869 papers (  2.38%)
+  astro-ph.CO             823 papers (  2.25%)
+  nucl-th                 668 papers (  1.83%)
+  hep-ph                  188 papers (  0.51%)
+
+Domain distribution:
+  astro-ph   33,981 papers ( 92.97%)
+  gr-qc       1,180 papers (  3.23%)
+  nucl-th       668 papers (  1.83%)
+  physics       261 papers (  0.71%)
+  hep-ph        188 papers (  0.51%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2017
+  Recent papers (2020+): 36.7%
+
+Quality indicators:
+  Category purity: 43.2%
+  Domain diversity: 0.365
+  Distinctiveness: 0.571
+  Growth rate: +34.2%
+  Niche score: 0.0319
+  Journal rate: 27.8%
+  Multi-category rate: 41.5%
+  Avg authors: 8.1
+
+================================================================================
+CLUSTER 23
+================================================================================
+Size: 12,711 papers (0.53%)
+
+Top 20 terms:
+   1. omega                     (score: 0.5029)
+   2. mathbb                    (score: 0.0551)
+   3. lambda                    (score: 0.0365)
+   4. partial                   (score: 0.0332)
+   5. bounded                   (score: 0.0319)
+   6. infty                     (score: 0.0318)
+   7. delta                     (score: 0.0307)
+   8. frac                      (score: 0.0304)
+   9. prove                     (score: 0.0299)
+  10. boundary                  (score: 0.0299)
+  11. subset                    (score: 0.0291)
+  12. domain                    (score: 0.0274)
+  13. sigma                     (score: 0.0242)
+  14. equation                  (score: 0.0233)
+  15. problem                   (score: 0.0229)
+  16. function                  (score: 0.0225)
+  17. let                       (score: 0.0222)
+  18. solutions                 (score: 0.0218)
+  19. mathcal                   (score: 0.0210)
+  20. space                     (score: 0.0210)
+
+Top 10 ArXiv categories:
+  math.AP               3,069 papers ( 24.14%)
+  math.LO                 653 papers (  5.14%)
+  math.FA                 494 papers (  3.89%)
+  math.CV                 483 papers (  3.80%)
+  math.CO                 400 papers (  3.15%)
+  hep-ph                  397 papers (  3.12%)
+  astro-ph.CO             367 papers (  2.89%)
+  math.DG                 363 papers (  2.86%)
+  math.CA                 348 papers (  2.74%)
+  gr-qc                   344 papers (  2.71%)
+
+Domain distribution:
+  math        8,162 papers ( 64.21%)
+  cond-mat      923 papers (  7.26%)
+  cs            749 papers (  5.89%)
+  astro-ph      630 papers (  4.96%)
+  physics       459 papers (  3.61%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 47.5%
+
+Quality indicators:
+  Category purity: 24.1%
+  Domain diversity: 1.496
+  Distinctiveness: 0.729
+  Growth rate: +59.5%
+  Niche score: 0.0455
+  Journal rate: 28.4%
+  Multi-category rate: 37.9%
+  Avg authors: 5.2
+
+================================================================================
+CLUSTER 24
+================================================================================
+Size: 24,242 papers (1.02%)
+
+Top 20 terms:
+   1. dark                      (score: 0.3322)
+   2. dark matter               (score: 0.2497)
+   3. matter                    (score: 0.2443)
+   4. mass                      (score: 0.0612)
+   5. energy                    (score: 0.0594)
+   6. model                     (score: 0.0536)
+   7. universe                  (score: 0.0437)
+   8. cosmological              (score: 0.0415)
+   9. scalar                    (score: 0.0344)
+  10. particles                 (score: 0.0322)
+  11. density                   (score: 0.0321)
+  12. models                    (score: 0.0316)
+  13. standard                  (score: 0.0296)
+  14. constraints               (score: 0.0280)
+  15. parameter                 (score: 0.0270)
+  16. scale                     (score: 0.0265)
+  17. cosmic                    (score: 0.0257)
+  18. gev                       (score: 0.0255)
+  19. higgs                     (score: 0.0245)
+  20. field                     (score: 0.0242)
+
+Top 10 ArXiv categories:
+  hep-ph                8,984 papers ( 37.06%)
+  astro-ph.CO           5,819 papers ( 24.00%)
+  gr-qc                 2,684 papers ( 11.07%)
+  astro-ph.GA           1,444 papers (  5.96%)
+  astro-ph.HE             907 papers (  3.74%)
+  astro-ph                821 papers (  3.39%)
+  hep-ex                  638 papers (  2.63%)
+  physics.ins-det         542 papers (  2.24%)
+  hep-th                  535 papers (  2.21%)
+  physics.gen-ph          501 papers (  2.07%)
+
+Domain distribution:
+  astro-ph    9,395 papers ( 38.76%)
+  hep-ph      8,984 papers ( 37.06%)
+  gr-qc       2,684 papers ( 11.07%)
+  physics     1,278 papers (  5.27%)
+  hep-ex        638 papers (  2.63%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 41.6%
+
+Quality indicators:
+  Category purity: 37.1%
+  Domain diversity: 1.481
+  Distinctiveness: 0.662
+  Growth rate: +60.4%
+  Niche score: 0.0375
+  Journal rate: 49.0%
+  Multi-category rate: 59.0%
+  Avg authors: 6.5
+
+================================================================================
+CLUSTER 25
+================================================================================
+Size: 26,595 papers (1.12%)
+
+Top 20 terms:
+   1. control                   (score: 0.3455)
+   2. optimal                   (score: 0.0606)
+   3. systems                   (score: 0.0485)
+   4. time                      (score: 0.0419)
+   5. problem                   (score: 0.0403)
+   6. based                     (score: 0.0402)
+   7. model                     (score: 0.0384)
+   8. proposed                  (score: 0.0355)
+   9. paper                     (score: 0.0318)
+  10. state                     (score: 0.0317)
+  11. approach                  (score: 0.0309)
+  12. feedback                  (score: 0.0290)
+  13. design                    (score: 0.0289)
+  14. method                    (score: 0.0279)
+  15. using                     (score: 0.0263)
+  16. dynamics                  (score: 0.0262)
+  17. performance               (score: 0.0261)
+  18. nonlinear                 (score: 0.0253)
+  19. linear                    (score: 0.0226)
+  20. framework                 (score: 0.0225)
+
+Top 10 ArXiv categories:
+  math.OC               5,145 papers ( 19.35%)
+  eess.SY               4,918 papers ( 18.49%)
+  cs.RO                 3,642 papers ( 13.69%)
+  quant-ph              1,422 papers (  5.35%)
+  cs.SY                 1,323 papers (  4.97%)
+  cs.LG                   872 papers (  3.28%)
+  cs.NI                   560 papers (  2.11%)
+  physics.optics          405 papers (  1.52%)
+  cs.CR                   368 papers (  1.38%)
+  math.AP                 345 papers (  1.30%)
+
+Domain distribution:
+  cs          9,096 papers ( 34.20%)
+  math        6,557 papers ( 24.66%)
+  eess        5,182 papers ( 19.48%)
+  physics     1,575 papers (  5.92%)
+  quant-ph    1,422 papers (  5.35%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 66.4%
+
+Quality indicators:
+  Category purity: 19.3%
+  Domain diversity: 1.791
+  Distinctiveness: 0.498
+  Growth rate: +98.1%
+  Niche score: 0.0594
+  Journal rate: 19.0%
+  Multi-category rate: 58.1%
+  Avg authors: 3.8
+
+================================================================================
+CLUSTER 26
+================================================================================
+Size: 38,393 papers (1.61%)
+
+Top 20 terms:
+   1. llms                      (score: 0.2150)
+   2. language                  (score: 0.2033)
+   3. models                    (score: 0.1279)
+   4. language models           (score: 0.1178)
+   5. reasoning                 (score: 0.0787)
+   6. tasks                     (score: 0.0660)
+   7. large                     (score: 0.0653)
+   8. performance               (score: 0.0486)
+   9. model                     (score: 0.0480)
+  10. knowledge                 (score: 0.0446)
+  11. human                     (score: 0.0424)
+  12. fine                      (score: 0.0398)
+  13. text                      (score: 0.0378)
+  14. code                      (score: 0.0377)
+  15. generation                (score: 0.0376)
+  16. data                      (score: 0.0371)
+  17. training                  (score: 0.0371)
+  18. evaluation                (score: 0.0349)
+  19. capabilities              (score: 0.0331)
+  20. task                      (score: 0.0328)
+
+Top 10 ArXiv categories:
+  cs.CL                21,253 papers ( 55.36%)
+  cs.LG                 3,291 papers (  8.57%)
+  cs.AI                 3,137 papers (  8.17%)
+  cs.CV                 2,315 papers (  6.03%)
+  cs.SE                 1,834 papers (  4.78%)
+  cs.IR                 1,020 papers (  2.66%)
+  cs.CR                   967 papers (  2.52%)
+  cs.RO                   756 papers (  1.97%)
+  cs.HC                   679 papers (  1.77%)
+  cs.CY                   501 papers (  1.30%)
+
+Domain distribution:
+  cs         37,538 papers ( 97.77%)
+  eess          213 papers (  0.55%)
+  q-bio         193 papers (  0.50%)
+  physics       109 papers (  0.28%)
+  q-fin          74 papers (  0.19%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2024
+  Recent papers (2020+): 96.7%
+
+Quality indicators:
+  Category purity: 55.4%
+  Domain diversity: 0.153
+  Distinctiveness: 0.534
+  Growth rate: +1674.7%
+  Niche score: 0.0837
+  Journal rate: 5.1%
+  Multi-category rate: 60.5%
+  Avg authors: 5.8
+
+================================================================================
+CLUSTER 27
+================================================================================
+Size: 261,297 papers (10.96%)
+
+Top 20 terms:
+   1. prove                     (score: 0.0391)
+   2. theory                    (score: 0.0376)
+   3. functions                 (score: 0.0312)
+   4. paper                     (score: 0.0294)
+   5. theorem                   (score: 0.0281)
+   6. space                     (score: 0.0280)
+   7. function                  (score: 0.0248)
+   8. non                       (score: 0.0244)
+   9. result                    (score: 0.0235)
+  10. case                      (score: 0.0221)
+  11. set                       (score: 0.0219)
+  12. proof                     (score: 0.0215)
+  13. type                      (score: 0.0215)
+  14. study                     (score: 0.0209)
+  15. number                    (score: 0.0209)
+  16. dimensional               (score: 0.0207)
+  17. finite                    (score: 0.0206)
+  18. conjecture                (score: 0.0203)
+  19. results                   (score: 0.0203)
+  20. class                     (score: 0.0195)
+
+Top 10 ArXiv categories:
+  hep-th               22,814 papers (  8.73%)
+  math.AG              18,101 papers (  6.93%)
+  math.CO              17,429 papers (  6.67%)
+  math.NT              17,075 papers (  6.53%)
+  math.PR              16,557 papers (  6.34%)
+  math.DG              15,469 papers (  5.92%)
+  math.DS              10,803 papers (  4.13%)
+  math.AP               9,867 papers (  3.78%)
+  math-ph               8,011 papers (  3.07%)
+  math.GT               6,973 papers (  2.67%)
+
+Domain distribution:
+  math       176,591 papers ( 67.58%)
+  hep-th     22,814 papers (  8.73%)
+  cs         22,572 papers (  8.64%)
+  math-ph     8,011 papers (  3.07%)
+  gr-qc       6,951 papers (  2.66%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 42.8%
+
+Quality indicators:
+  Category purity: 8.7%
+  Domain diversity: 1.328
+  Distinctiveness: 0.273
+  Growth rate: +52.6%
+  Niche score: 0.0317
+  Journal rate: 27.0%
+  Multi-category rate: 45.3%
+  Avg authors: 2.1
+
+================================================================================
+CLUSTER 28
+================================================================================
+Size: 27,226 papers (1.14%)
+
+Top 20 terms:
+   1. mathbb                    (score: 0.4536)
+   2. prove                     (score: 0.0445)
+   3. let                       (score: 0.0399)
+   4. infty                     (score: 0.0343)
+   5. times                     (score: 0.0321)
+   6. space                     (score: 0.0302)
+   7. geq                       (score: 0.0290)
+   8. frac                      (score: 0.0276)
+   9. group                     (score: 0.0261)
+  10. mathrm                    (score: 0.0255)
+  11. set                       (score: 0.0250)
+  12. finite                    (score: 0.0240)
+  13. result                    (score: 0.0234)
+  14. subset                    (score: 0.0232)
+  15. paper                     (score: 0.0230)
+  16. leq                       (score: 0.0227)
+  17. mathcal                   (score: 0.0223)
+  18. function                  (score: 0.0222)
+  19. functions                 (score: 0.0212)
+  20. lambda                    (score: 0.0192)
+
+Top 10 ArXiv categories:
+  math.NT               3,549 papers ( 13.04%)
+  math.AG               2,632 papers (  9.67%)
+  math.AP               2,573 papers (  9.45%)
+  math.DG               1,737 papers (  6.38%)
+  math.PR               1,609 papers (  5.91%)
+  math.CO               1,544 papers (  5.67%)
+  math.CA               1,231 papers (  4.52%)
+  math.DS               1,221 papers (  4.48%)
+  math.FA               1,202 papers (  4.41%)
+  math.CV               1,031 papers (  3.79%)
+
+Domain distribution:
+  math       24,193 papers ( 88.86%)
+  cs          1,041 papers (  3.82%)
+  hep-th        755 papers (  2.77%)
+  math-ph       494 papers (  1.81%)
+  cond-mat      243 papers (  0.89%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 58.3%
+
+Quality indicators:
+  Category purity: 13.0%
+  Domain diversity: 0.554
+  Distinctiveness: 0.710
+  Growth rate: +68.3%
+  Niche score: 0.0520
+  Journal rate: 20.9%
+  Multi-category rate: 42.0%
+  Avg authors: 2.0
+
+================================================================================
+CLUSTER 29
+================================================================================
+Size: 25,315 papers (1.06%)
+
+Top 20 terms:
+   1. galaxies                  (score: 0.3399)
+   2. galaxy                    (score: 0.1631)
+   3. star                      (score: 0.1084)
+   4. mass                      (score: 0.1017)
+   5. stellar                   (score: 0.0956)
+   6. formation                 (score: 0.0940)
+   7. redshift                  (score: 0.0755)
+   8. gas                       (score: 0.0553)
+   9. sample                    (score: 0.0517)
+  10. cluster                   (score: 0.0484)
+  11. clusters                  (score: 0.0439)
+  12. survey                    (score: 0.0432)
+  13. massive                   (score: 0.0374)
+  14. luminosity                (score: 0.0372)
+  15. sim                       (score: 0.0353)
+  16. evolution                 (score: 0.0343)
+  17. high                      (score: 0.0324)
+  18. population                (score: 0.0297)
+  19. observations              (score: 0.0295)
+  20. emission                  (score: 0.0286)
+
+Top 10 ArXiv categories:
+  astro-ph.GA          14,397 papers ( 56.87%)
+  astro-ph.CO           7,796 papers ( 30.80%)
+  astro-ph              1,982 papers (  7.83%)
+  astro-ph.HE             631 papers (  2.49%)
+  astro-ph.IM             279 papers (  1.10%)
+  astro-ph.SR             104 papers (  0.41%)
+  gr-qc                    57 papers (  0.23%)
+  physics.gen-ph           21 papers (  0.08%)
+  astro-ph.EP               9 papers (  0.04%)
+  physics.hist-ph           8 papers (  0.03%)
+
+Domain distribution:
+  astro-ph   25,198 papers ( 99.54%)
+  gr-qc          57 papers (  0.23%)
+  physics        39 papers (  0.15%)
+  cs              7 papers (  0.03%)
+  hep-ph          5 papers (  0.02%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2017
+  Recent papers (2020+): 36.4%
+
+Quality indicators:
+  Category purity: 56.9%
+  Domain diversity: 0.036
+  Distinctiveness: 0.645
+  Growth rate: +53.9%
+  Niche score: 0.0327
+  Journal rate: 24.6%
+  Multi-category rate: 25.6%
+  Avg authors: 10.1
+
+================================================================================
+CLUSTER 30
+================================================================================
+Size: 10,864 papers (0.46%)
+
+Top 20 terms:
+   1. graphene                  (score: 0.4924)
+   2. electronic                (score: 0.0534)
+   3. electron                  (score: 0.0461)
+   4. layer                     (score: 0.0460)
+   5. energy                    (score: 0.0366)
+   6. properties                (score: 0.0363)
+   7. band                      (score: 0.0350)
+   8. transport                 (score: 0.0338)
+   9. devices                   (score: 0.0304)
+  10. materials                 (score: 0.0304)
+  11. states                    (score: 0.0299)
+  12. field                     (score: 0.0293)
+  13. quantum                   (score: 0.0276)
+  14. effect                    (score: 0.0276)
+  15. density                   (score: 0.0272)
+  16. charge                    (score: 0.0264)
+  17. temperature               (score: 0.0260)
+  18. layers                    (score: 0.0256)
+  19. optical                   (score: 0.0248)
+  20. structure                 (score: 0.0247)
+
+Top 10 ArXiv categories:
+  cond-mat.mes-hall     6,107 papers ( 56.21%)
+  cond-mat.mtrl-sci     2,649 papers ( 24.38%)
+  physics.optics          481 papers (  4.43%)
+  physics.app-ph          410 papers (  3.77%)
+  cond-mat.str-el         408 papers (  3.76%)
+  cond-mat.supr-con       175 papers (  1.61%)
+  physics.chem-ph         100 papers (  0.92%)
+  quant-ph                 63 papers (  0.58%)
+  hep-th                   56 papers (  0.52%)
+  physics.comp-ph          54 papers (  0.50%)
+
+Domain distribution:
+  cond-mat    9,475 papers ( 87.21%)
+  physics     1,144 papers ( 10.53%)
+  quant-ph       63 papers (  0.58%)
+  hep-th         56 papers (  0.52%)
+  math-ph        34 papers (  0.31%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2016
+  Recent papers (2020+): 30.2%
+
+Quality indicators:
+  Category purity: 56.2%
+  Domain diversity: 0.490
+  Distinctiveness: 0.706
+  Growth rate: +7.4%
+  Niche score: 0.0294
+  Journal rate: 58.0%
+  Multi-category rate: 45.6%
+  Avg authors: 5.2
+
+================================================================================
+CLUSTER 31
+================================================================================
+Size: 68,959 papers (2.89%)
+
+Top 20 terms:
+   1. equation                  (score: 0.1808)
+   2. solutions                 (score: 0.1320)
+   3. equations                 (score: 0.1100)
+   4. solution                  (score: 0.0683)
+   5. differential              (score: 0.0442)
+   6. nonlinear                 (score: 0.0428)
+   7. time                      (score: 0.0403)
+   8. existence                 (score: 0.0364)
+   9. boundary                  (score: 0.0334)
+  10. problem                   (score: 0.0321)
+  11. wave                      (score: 0.0305)
+  12. order                     (score: 0.0286)
+  13. prove                     (score: 0.0285)
+  14. initial                   (score: 0.0273)
+  15. method                    (score: 0.0273)
+  16. stochastic                (score: 0.0263)
+  17. space                     (score: 0.0258)
+  18. non                       (score: 0.0254)
+  19. paper                     (score: 0.0251)
+  20. linear                    (score: 0.0244)
+
+Top 10 ArXiv categories:
+  math.AP              20,150 papers ( 29.22%)
+  math.NA               4,651 papers (  6.74%)
+  math.PR               4,454 papers (  6.46%)
+  gr-qc                 4,427 papers (  6.42%)
+  math-ph               4,095 papers (  5.94%)
+  hep-th                3,471 papers (  5.03%)
+  nlin.SI               2,147 papers (  3.11%)
+  quant-ph              1,939 papers (  2.81%)
+  math.CA               1,564 papers (  2.27%)
+  math.DS               1,507 papers (  2.19%)
+
+Domain distribution:
+  math       38,153 papers ( 55.33%)
+  physics     5,102 papers (  7.40%)
+  gr-qc       4,427 papers (  6.42%)
+  math-ph     4,095 papers (  5.94%)
+  nlin        3,598 papers (  5.22%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 43.6%
+
+Quality indicators:
+  Category purity: 29.2%
+  Domain diversity: 1.739
+  Distinctiveness: 0.442
+  Growth rate: +44.2%
+  Niche score: 0.0359
+  Journal rate: 29.0%
+  Multi-category rate: 45.9%
+  Avg authors: 2.3
+
+================================================================================
+CLUSTER 32
+================================================================================
+Size: 11,729 papers (0.49%)
+
+Top 20 terms:
+   1. attacks                   (score: 0.2944)
+   2. adversarial               (score: 0.2777)
+   3. robustness                (score: 0.0770)
+   4. security                  (score: 0.0653)
+   5. training                  (score: 0.0575)
+   6. models                    (score: 0.0564)
+   7. model                     (score: 0.0498)
+   8. learning                  (score: 0.0448)
+   9. examples                  (score: 0.0436)
+  10. based                     (score: 0.0406)
+  11. robust                    (score: 0.0380)
+  12. networks                  (score: 0.0373)
+  13. data                      (score: 0.0352)
+  14. detection                 (score: 0.0347)
+  15. deep                      (score: 0.0328)
+  16. neural                    (score: 0.0322)
+  17. propose                   (score: 0.0305)
+  18. methods                   (score: 0.0302)
+  19. network                   (score: 0.0272)
+  20. paper                     (score: 0.0271)
+
+Top 10 ArXiv categories:
+  cs.CR                 3,447 papers ( 29.39%)
+  cs.LG                 3,397 papers ( 28.96%)
+  cs.CV                 2,346 papers ( 20.00%)
+  cs.CL                   620 papers (  5.29%)
+  stat.ML                 226 papers (  1.93%)
+  cs.NI                   161 papers (  1.37%)
+  eess.SY                 159 papers (  1.36%)
+  quant-ph                155 papers (  1.32%)
+  cs.AI                   124 papers (  1.06%)
+  cs.SD                    98 papers (  0.84%)
+
+Domain distribution:
+  cs         10,815 papers ( 92.21%)
+  eess          396 papers (  3.38%)
+  stat          238 papers (  2.03%)
+  quant-ph      155 papers (  1.32%)
+  math           60 papers (  0.51%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2022
+  Recent papers (2020+): 81.8%
+
+Quality indicators:
+  Category purity: 29.4%
+  Domain diversity: 0.390
+  Distinctiveness: 0.603
+  Growth rate: +100.4%
+  Niche score: 0.0789
+  Journal rate: 8.8%
+  Multi-category rate: 68.1%
+  Avg authors: 4.3
+
+================================================================================
+CLUSTER 33
+================================================================================
+Size: 91,109 papers (3.82%)
+
+Top 20 terms:
+   1. user                      (score: 0.0689)
+   2. users                     (score: 0.0630)
+   3. research                  (score: 0.0510)
+   4. software                  (score: 0.0488)
+   5. systems                   (score: 0.0475)
+   6. design                    (score: 0.0428)
+   7. information               (score: 0.0426)
+   8. based                     (score: 0.0411)
+   9. social                    (score: 0.0407)
+  10. paper                     (score: 0.0375)
+  11. security                  (score: 0.0335)
+  12. data                      (score: 0.0297)
+  13. use                       (score: 0.0271)
+  14. development               (score: 0.0270)
+  15. communication             (score: 0.0266)
+  16. privacy                   (score: 0.0264)
+  17. performance               (score: 0.0256)
+  18. analysis                  (score: 0.0251)
+  19. applications              (score: 0.0249)
+  20. using                     (score: 0.0229)
+
+Top 10 ArXiv categories:
+  cs.CR                 9,605 papers ( 10.54%)
+  cs.SE                 8,604 papers (  9.44%)
+  cs.HC                 7,129 papers (  7.82%)
+  cs.CY                 5,020 papers (  5.51%)
+  cs.IR                 4,140 papers (  4.54%)
+  cs.DC                 4,082 papers (  4.48%)
+  cs.NI                 3,975 papers (  4.36%)
+  cs.RO                 3,747 papers (  4.11%)
+  cs.IT                 3,683 papers (  4.04%)
+  cs.CL                 3,681 papers (  4.04%)
+
+Domain distribution:
+  cs         74,782 papers ( 82.08%)
+  physics     4,004 papers (  4.39%)
+  eess        3,952 papers (  4.34%)
+  stat        1,491 papers (  1.64%)
+  q-bio       1,385 papers (  1.52%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 64.8%
+
+Quality indicators:
+  Category purity: 10.5%
+  Domain diversity: 0.857
+  Distinctiveness: 0.308
+  Growth rate: +84.8%
+  Niche score: 0.0522
+  Journal rate: 17.8%
+  Multi-category rate: 48.7%
+  Avg authors: 4.3
+
+================================================================================
+CLUSTER 34
+================================================================================
+Size: 25,390 papers (1.06%)
+
+Top 20 terms:
+   1. black                     (score: 0.3347)
+   2. black hole                (score: 0.2383)
+   3. hole                      (score: 0.2304)
+   4. holes                     (score: 0.1235)
+   5. mass                      (score: 0.0494)
+   6. gravitational             (score: 0.0482)
+   7. gravity                   (score: 0.0452)
+   8. scalar                    (score: 0.0327)
+   9. solutions                 (score: 0.0308)
+  10. field                     (score: 0.0303)
+  11. entropy                   (score: 0.0291)
+  12. accretion                 (score: 0.0276)
+  13. energy                    (score: 0.0254)
+  14. theory                    (score: 0.0242)
+  15. binary                    (score: 0.0222)
+  16. radiation                 (score: 0.0219)
+  17. quantum                   (score: 0.0216)
+  18. general                   (score: 0.0204)
+  19. non                       (score: 0.0202)
+  20. solution                  (score: 0.0199)
+
+Top 10 ArXiv categories:
+  gr-qc                11,847 papers ( 46.66%)
+  hep-th                6,082 papers ( 23.95%)
+  astro-ph.HE           3,069 papers ( 12.09%)
+  astro-ph.GA           1,174 papers (  4.62%)
+  astro-ph.CO             943 papers (  3.71%)
+  astro-ph                458 papers (  1.80%)
+  physics.gen-ph          278 papers (  1.09%)
+  hep-ph                  253 papers (  1.00%)
+  astro-ph.IM             138 papers (  0.54%)
+  astro-ph.SR             134 papers (  0.53%)
+
+Domain distribution:
+  gr-qc      11,847 papers ( 46.66%)
+  hep-th      6,082 papers ( 23.95%)
+  astro-ph    5,927 papers ( 23.34%)
+  physics       488 papers (  1.92%)
+  cond-mat      262 papers (  1.03%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 45.6%
+
+Quality indicators:
+  Category purity: 46.7%
+  Domain diversity: 1.327
+  Distinctiveness: 0.682
+  Growth rate: +62.6%
+  Niche score: 0.0409
+  Journal rate: 50.9%
+  Multi-category rate: 56.6%
+  Avg authors: 5.3
+
+================================================================================
+CLUSTER 35
+================================================================================
+Size: 13,458 papers (0.56%)
+
+Top 20 terms:
+   1. delta                     (score: 0.4452)
+   2. frac                      (score: 0.0309)
+   3. log                       (score: 0.0258)
+   4. mathbb                    (score: 0.0232)
+   5. prove                     (score: 0.0225)
+   6. function                  (score: 0.0212)
+   7. sigma                     (score: 0.0208)
+   8. lambda                    (score: 0.0207)
+   9. graph                     (score: 0.0207)
+  10. leq                       (score: 0.0206)
+  11. gamma                     (score: 0.0194)
+  12. time                      (score: 0.0193)
+  13. let                       (score: 0.0186)
+  14. geq                       (score: 0.0182)
+  15. number                    (score: 0.0179)
+  16. results                   (score: 0.0179)
+  17. model                     (score: 0.0178)
+  18. result                    (score: 0.0174)
+  19. degree                    (score: 0.0174)
+  20. energy                    (score: 0.0172)
+
+Top 10 ArXiv categories:
+  math.CO               1,221 papers (  9.07%)
+  math.AP               1,124 papers (  8.35%)
+  hep-ph                  851 papers (  6.32%)
+  cond-mat.supr-con       538 papers (  4.00%)
+  cs.DS                   531 papers (  3.95%)
+  math.PR                 398 papers (  2.96%)
+  nucl-th                 368 papers (  2.73%)
+  math.NT                 365 papers (  2.71%)
+  hep-th                  319 papers (  2.37%)
+  cond-mat.mtrl-sci       314 papers (  2.33%)
+
+Domain distribution:
+  math        5,699 papers ( 42.35%)
+  cond-mat    1,865 papers ( 13.86%)
+  cs          1,563 papers ( 11.61%)
+  astro-ph      922 papers (  6.85%)
+  hep-ph        851 papers (  6.32%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 44.7%
+
+Quality indicators:
+  Category purity: 9.1%
+  Domain diversity: 2.013
+  Distinctiveness: 0.674
+  Growth rate: +52.7%
+  Niche score: 0.0425
+  Journal rate: 31.6%
+  Multi-category rate: 43.9%
+  Avg authors: 4.4
+
+================================================================================
+CLUSTER 36
+================================================================================
+Size: 130,430 papers (5.47%)
+
+Top 20 terms:
+   1. temperature               (score: 0.0693)
+   2. states                    (score: 0.0614)
+   3. electron                  (score: 0.0576)
+   4. energy                    (score: 0.0550)
+   5. density                   (score: 0.0418)
+   6. state                     (score: 0.0396)
+   7. surface                   (score: 0.0357)
+   8. electronic                (score: 0.0355)
+   9. transition                (score: 0.0352)
+  10. band                      (score: 0.0340)
+  11. topological               (score: 0.0340)
+  12. charge                    (score: 0.0314)
+  13. properties                (score: 0.0308)
+  14. lattice                   (score: 0.0288)
+  15. materials                 (score: 0.0285)
+  16. quantum                   (score: 0.0275)
+  17. coupling                  (score: 0.0268)
+  18. structure                 (score: 0.0267)
+  19. high                      (score: 0.0263)
+  20. field                     (score: 0.0262)
+
+Top 10 ArXiv categories:
+  cond-mat.mtrl-sci    23,811 papers ( 18.26%)
+  cond-mat.mes-hall    18,298 papers ( 14.03%)
+  cond-mat.str-el      13,318 papers ( 10.21%)
+  cond-mat.supr-con    11,300 papers (  8.66%)
+  quant-ph              7,057 papers (  5.41%)
+  cond-mat.quant-gas    4,706 papers (  3.61%)
+  physics.optics        4,558 papers (  3.49%)
+  physics.chem-ph       4,232 papers (  3.24%)
+  nucl-th               4,146 papers (  3.18%)
+  cond-mat.soft         3,861 papers (  2.96%)
+
+Domain distribution:
+  cond-mat   81,247 papers ( 62.29%)
+  physics    23,314 papers ( 17.87%)
+  quant-ph    7,057 papers (  5.41%)
+  nucl-th     4,146 papers (  3.18%)
+  astro-ph    2,926 papers (  2.24%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 42.4%
+
+Quality indicators:
+  Category purity: 18.3%
+  Domain diversity: 1.374
+  Distinctiveness: 0.301
+  Growth rate: +41.1%
+  Niche score: 0.0332
+  Journal rate: 53.7%
+  Multi-category rate: 47.6%
+  Avg authors: 4.9
+
+================================================================================
+CLUSTER 37
+================================================================================
+Size: 37,095 papers (1.56%)
+
+Top 20 terms:
+   1. spin                      (score: 0.4261)
+   2. magnetic                  (score: 0.0662)
+   3. quantum                   (score: 0.0508)
+   4. orbit                     (score: 0.0487)
+   5. coupling                  (score: 0.0434)
+   6. field                     (score: 0.0402)
+   7. states                    (score: 0.0368)
+   8. state                     (score: 0.0363)
+   9. electron                  (score: 0.0310)
+  10. interaction               (score: 0.0293)
+  11. effect                    (score: 0.0286)
+  12. temperature               (score: 0.0284)
+  13. phase                     (score: 0.0277)
+  14. model                     (score: 0.0270)
+  15. polarization              (score: 0.0249)
+  16. wave                      (score: 0.0246)
+  17. symmetry                  (score: 0.0244)
+  18. lattice                   (score: 0.0243)
+  19. current                   (score: 0.0242)
+  20. energy                    (score: 0.0237)
+
+Top 10 ArXiv categories:
+  cond-mat.mes-hall     9,073 papers ( 24.46%)
+  cond-mat.str-el       6,858 papers ( 18.49%)
+  cond-mat.mtrl-sci     4,185 papers ( 11.28%)
+  quant-ph              2,907 papers (  7.84%)
+  cond-mat.supr-con     1,970 papers (  5.31%)
+  hep-th                1,619 papers (  4.36%)
+  cond-mat.quant-gas    1,557 papers (  4.20%)
+  hep-ph                1,244 papers (  3.35%)
+  cond-mat.stat-mech      913 papers (  2.46%)
+  gr-qc                   793 papers (  2.14%)
+
+Domain distribution:
+  cond-mat   25,468 papers ( 68.66%)
+  quant-ph    2,907 papers (  7.84%)
+  physics     2,002 papers (  5.40%)
+  hep-th      1,619 papers (  4.36%)
+  hep-ph      1,244 papers (  3.35%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 39.8%
+
+Quality indicators:
+  Category purity: 24.5%
+  Domain diversity: 1.308
+  Distinctiveness: 0.604
+  Growth rate: +45.3%
+  Niche score: 0.0345
+  Journal rate: 59.6%
+  Multi-category rate: 45.1%
+  Avg authors: 5.2
+
+================================================================================
+CLUSTER 38
+================================================================================
+Size: 5,085 papers (0.21%)
+
+Top 20 terms:
+   1. numbers                   (score: 0.4848)
+   2. number                    (score: 0.0630)
+   3. paper                     (score: 0.0365)
+   4. sum                       (score: 0.0327)
+   5. real                      (score: 0.0324)
+   6. sequence                  (score: 0.0309)
+   7. prove                     (score: 0.0307)
+   8. sequences                 (score: 0.0300)
+   9. natural                   (score: 0.0268)
+  10. formula                   (score: 0.0248)
+  11. generalized               (score: 0.0248)
+  12. new                       (score: 0.0243)
+  13. set                       (score: 0.0232)
+  14. function                  (score: 0.0230)
+  15. given                     (score: 0.0214)
+  16. positive                  (score: 0.0207)
+  17. complex                   (score: 0.0205)
+  18. functions                 (score: 0.0203)
+  19. conjecture                (score: 0.0197)
+  20. terms                     (score: 0.0196)
+
+Top 10 ArXiv categories:
+  math.NT               1,603 papers ( 31.52%)
+  math.CO                 993 papers ( 19.53%)
+  math.AG                 297 papers (  5.84%)
+  math.GM                 229 papers (  4.50%)
+  math.LO                 126 papers (  2.48%)
+  math.HO                 116 papers (  2.28%)
+  math.AC                 114 papers (  2.24%)
+  math.CA                 112 papers (  2.20%)
+  math.PR                 107 papers (  2.10%)
+  math.GT                 105 papers (  2.06%)
+
+Domain distribution:
+  math        4,245 papers ( 83.48%)
+  cs            295 papers (  5.80%)
+  physics       138 papers (  2.71%)
+  math-ph        73 papers (  1.44%)
+  cond-mat       62 papers (  1.22%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 43.4%
+
+Quality indicators:
+  Category purity: 31.5%
+  Domain diversity: 0.805
+  Distinctiveness: 0.756
+  Growth rate: +41.7%
+  Niche score: 0.0455
+  Journal rate: 22.7%
+  Multi-category rate: 33.2%
+  Avg authors: 2.0
+
+================================================================================
+CLUSTER 39
+================================================================================
+Size: 143,693 papers (6.03%)
+
+Top 20 terms:
+   1. model                     (score: 0.0703)
+   2. models                    (score: 0.0682)
+   3. performance               (score: 0.0499)
+   4. based                     (score: 0.0466)
+   5. training                  (score: 0.0456)
+   6. methods                   (score: 0.0443)
+   7. task                      (score: 0.0426)
+   8. dataset                   (score: 0.0420)
+   9. datasets                  (score: 0.0378)
+  10. propose                   (score: 0.0374)
+  11. method                    (score: 0.0368)
+  12. data                      (score: 0.0368)
+  13. tasks                     (score: 0.0355)
+  14. art                       (score: 0.0339)
+  15. state art                 (score: 0.0334)
+  16. detection                 (score: 0.0326)
+  17. approach                  (score: 0.0325)
+  18. state                     (score: 0.0307)
+  19. learning                  (score: 0.0305)
+  20. information               (score: 0.0297)
+
+Top 10 ArXiv categories:
+  cs.CV                47,168 papers ( 32.83%)
+  cs.CL                24,802 papers ( 17.26%)
+  cs.LG                20,951 papers ( 14.58%)
+  cs.RO                 8,622 papers (  6.00%)
+  cs.AI                 3,883 papers (  2.70%)
+  cs.IR                 3,468 papers (  2.41%)
+  eess.IV               3,264 papers (  2.27%)
+  cs.SD                 2,463 papers (  1.71%)
+  stat.ML               2,235 papers (  1.56%)
+  stat.ME               2,234 papers (  1.55%)
+
+Domain distribution:
+  cs         123,802 papers ( 86.16%)
+  eess        7,217 papers (  5.02%)
+  stat        5,817 papers (  4.05%)
+  q-bio       2,261 papers (  1.57%)
+  physics     1,560 papers (  1.09%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2023
+  Recent papers (2020+): 83.5%
+
+Quality indicators:
+  Category purity: 32.8%
+  Domain diversity: 0.647
+  Distinctiveness: 0.260
+  Growth rate: +185.1%
+  Niche score: 0.0649
+  Journal rate: 8.5%
+  Multi-category rate: 53.3%
+  Avg authors: 4.8
+
+================================================================================
+CLUSTER 40
+================================================================================
+Size: 47,507 papers (1.99%)
+
+Top 20 terms:
+   1. magnetic                  (score: 0.3344)
+   2. field                     (score: 0.1516)
+   3. magnetic field            (score: 0.1488)
+   4. fields                    (score: 0.0491)
+   5. temperature               (score: 0.0388)
+   6. spin                      (score: 0.0378)
+   7. effect                    (score: 0.0294)
+   8. energy                    (score: 0.0278)
+   9. electric                  (score: 0.0275)
+  10. flux                      (score: 0.0267)
+  11. solar                     (score: 0.0253)
+  12. phase                     (score: 0.0245)
+  13. observed                  (score: 0.0244)
+  14. properties                (score: 0.0221)
+  15. transition                (score: 0.0217)
+  16. current                   (score: 0.0212)
+  17. order                     (score: 0.0209)
+  18. structure                 (score: 0.0207)
+  19. state                     (score: 0.0206)
+  20. high                      (score: 0.0204)
+
+Top 10 ArXiv categories:
+  astro-ph.SR           6,120 papers ( 12.88%)
+  cond-mat.mes-hall     5,892 papers ( 12.40%)
+  cond-mat.mtrl-sci     5,665 papers ( 11.92%)
+  cond-mat.str-el       5,531 papers ( 11.64%)
+  cond-mat.supr-con     3,270 papers (  6.88%)
+  astro-ph.HE           2,435 papers (  5.13%)
+  physics.plasm-ph      1,698 papers (  3.57%)
+  hep-ph                1,500 papers (  3.16%)
+  hep-th                1,246 papers (  2.62%)
+  astro-ph.GA           1,204 papers (  2.53%)
+
+Domain distribution:
+  cond-mat   22,160 papers ( 46.65%)
+  astro-ph   11,873 papers ( 24.99%)
+  physics     6,568 papers ( 13.83%)
+  hep-ph      1,500 papers (  3.16%)
+  hep-th      1,246 papers (  2.62%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 39.1%
+
+Quality indicators:
+  Category purity: 12.9%
+  Domain diversity: 1.572
+  Distinctiveness: 0.565
+  Growth rate: +36.8%
+  Niche score: 0.0332
+  Journal rate: 46.8%
+  Multi-category rate: 42.5%
+  Avg authors: 5.3
+
+================================================================================
+CLUSTER 41
+================================================================================
+Size: 11,840 papers (0.50%)
+
+Top 20 terms:
+   1. mu                        (score: 0.4766)
+   2. nu                        (score: 0.0686)
+   3. lambda                    (score: 0.0367)
+   4. tau                       (score: 0.0367)
+   5. measure                   (score: 0.0278)
+   6. gamma                     (score: 0.0277)
+   7. model                     (score: 0.0219)
+   8. mathbb                    (score: 0.0199)
+   9. sigma                     (score: 0.0193)
+  10. mass                      (score: 0.0188)
+  11. frac                      (score: 0.0187)
+  12. pm                        (score: 0.0187)
+  13. decay                     (score: 0.0180)
+  14. space                     (score: 0.0175)
+  15. bar                       (score: 0.0175)
+  16. infty                     (score: 0.0174)
+  17. results                   (score: 0.0170)
+  18. times                     (score: 0.0166)
+  19. new                       (score: 0.0160)
+  20. let                       (score: 0.0159)
+
+Top 10 ArXiv categories:
+  hep-ph                2,379 papers ( 20.09%)
+  hep-ex                  763 papers (  6.44%)
+  math.PR                 598 papers (  5.05%)
+  math.AP                 532 papers (  4.49%)
+  math.DS                 440 papers (  3.72%)
+  hep-th                  404 papers (  3.41%)
+  math.FA                 367 papers (  3.10%)
+  math.CA                 342 papers (  2.89%)
+  math.CO                 306 papers (  2.58%)
+  gr-qc                   305 papers (  2.58%)
+
+Domain distribution:
+  math        3,987 papers ( 33.67%)
+  hep-ph      2,379 papers ( 20.09%)
+  astro-ph    1,081 papers (  9.13%)
+  physics       941 papers (  7.95%)
+  hep-ex        763 papers (  6.44%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 43.1%
+
+Quality indicators:
+  Category purity: 20.1%
+  Domain diversity: 2.105
+  Distinctiveness: 0.703
+  Growth rate: +46.2%
+  Niche score: 0.0415
+  Journal rate: 35.7%
+  Multi-category rate: 43.2%
+  Avg authors: 15.8
+
+================================================================================
+CLUSTER 42
+================================================================================
+Size: 42,067 papers (1.76%)
+
+Top 20 terms:
+   1. graph                     (score: 0.3362)
+   2. graphs                    (score: 0.2119)
+   3. number                    (score: 0.0485)
+   4. edge                      (score: 0.0445)
+   5. problem                   (score: 0.0328)
+   6. connected                 (score: 0.0309)
+   7. set                       (score: 0.0307)
+   8. paper                     (score: 0.0269)
+   9. prove                     (score: 0.0248)
+  10. degree                    (score: 0.0246)
+  11. algorithm                 (score: 0.0243)
+  12. random                    (score: 0.0237)
+  13. nodes                     (score: 0.0224)
+  14. time                      (score: 0.0218)
+  15. complete                  (score: 0.0211)
+  16. given                     (score: 0.0205)
+  17. based                     (score: 0.0193)
+  18. networks                  (score: 0.0193)
+  19. conjecture                (score: 0.0189)
+  20. minimum                   (score: 0.0186)
+
+Top 10 ArXiv categories:
+  math.CO              14,232 papers ( 33.83%)
+  cs.LG                 5,386 papers ( 12.80%)
+  cs.DS                 3,066 papers (  7.29%)
+  cs.DM                 1,863 papers (  4.43%)
+  math.PR               1,322 papers (  3.14%)
+  cs.SI                 1,023 papers (  2.43%)
+  cs.CV                   973 papers (  2.31%)
+  cs.CL                   749 papers (  1.78%)
+  cs.AI                   717 papers (  1.70%)
+  cs.CG                   657 papers (  1.56%)
+
+Domain distribution:
+  math       19,625 papers ( 46.65%)
+  cs         19,004 papers ( 45.18%)
+  stat          807 papers (  1.92%)
+  quant-ph      543 papers (  1.29%)
+  eess          514 papers (  1.22%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 58.9%
+
+Quality indicators:
+  Category purity: 33.8%
+  Domain diversity: 1.099
+  Distinctiveness: 0.609
+  Growth rate: +86.3%
+  Niche score: 0.0506
+  Journal rate: 15.0%
+  Multi-category rate: 47.9%
+  Avg authors: 3.1
+
+================================================================================
+CLUSTER 43
+================================================================================
+Size: 25,216 papers (1.06%)
+
+Top 20 terms:
+   1. algebras                  (score: 0.2818)
+   2. algebra                   (score: 0.2808)
+   3. lie                       (score: 0.1176)
+   4. finite                    (score: 0.0392)
+   5. theory                    (score: 0.0338)
+   6. dimensional               (score: 0.0320)
+   7. prove                     (score: 0.0288)
+   8. group                     (score: 0.0287)
+   9. type                      (score: 0.0255)
+  10. paper                     (score: 0.0246)
+  11. structure                 (score: 0.0226)
+  12. algebraic                 (score: 0.0225)
+  13. simple                    (score: 0.0222)
+  14. associated                (score: 0.0219)
+  15. study                     (score: 0.0214)
+  16. product                   (score: 0.0214)
+  17. representations           (score: 0.0203)
+  18. representation            (score: 0.0202)
+  19. quantum                   (score: 0.0199)
+  20. construction              (score: 0.0198)
+
+Top 10 ArXiv categories:
+  math.RA               4,570 papers ( 18.12%)
+  math.RT               4,368 papers ( 17.32%)
+  math.QA               2,524 papers ( 10.01%)
+  math.OA               2,323 papers (  9.21%)
+  hep-th                1,640 papers (  6.50%)
+  math-ph               1,390 papers (  5.51%)
+  math.AG                 845 papers (  3.35%)
+  math.DG                 807 papers (  3.20%)
+  math.FA                 677 papers (  2.68%)
+  math.AC                 653 papers (  2.59%)
+
+Domain distribution:
+  math       20,826 papers ( 82.59%)
+  hep-th      1,640 papers (  6.50%)
+  math-ph     1,390 papers (  5.51%)
+  cs            604 papers (  2.40%)
+  quant-ph      214 papers (  0.85%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 41.4%
+
+Quality indicators:
+  Category purity: 18.1%
+  Domain diversity: 0.746
+  Distinctiveness: 0.719
+  Growth rate: +50.0%
+  Niche score: 0.0372
+  Journal rate: 27.4%
+  Multi-category rate: 53.1%
+  Avg authors: 2.0
+
+================================================================================
+CLUSTER 44
+================================================================================
+Size: 20,478 papers (0.86%)
+
+Top 20 terms:
+   1. spaces                    (score: 0.3723)
+   2. space                     (score: 0.0762)
+   3. metric                    (score: 0.0463)
+   4. prove                     (score: 0.0394)
+   5. functions                 (score: 0.0301)
+   6. paper                     (score: 0.0295)
+   7. compact                   (score: 0.0284)
+   8. theorem                   (score: 0.0280)
+   9. theory                    (score: 0.0277)
+  10. results                   (score: 0.0267)
+  11. type                      (score: 0.0266)
+  12. study                     (score: 0.0263)
+  13. dimensional               (score: 0.0228)
+  14. finite                    (score: 0.0226)
+  15. topological               (score: 0.0222)
+  16. result                    (score: 0.0213)
+  17. operators                 (score: 0.0208)
+  18. non                       (score: 0.0201)
+  19. weighted                  (score: 0.0200)
+  20. class                     (score: 0.0196)
+
+Top 10 ArXiv categories:
+  math.FA               3,817 papers ( 18.64%)
+  math.AG               1,837 papers (  8.97%)
+  math.DG               1,591 papers (  7.77%)
+  math.AP               1,414 papers (  6.90%)
+  math.AT               1,067 papers (  5.21%)
+  math.MG                 913 papers (  4.46%)
+  math.GN                 900 papers (  4.39%)
+  math.CA                 741 papers (  3.62%)
+  math.CV                 636 papers (  3.11%)
+  hep-th                  503 papers (  2.46%)
+
+Domain distribution:
+  math       17,790 papers ( 86.87%)
+  cs          1,014 papers (  4.95%)
+  hep-th        503 papers (  2.46%)
+  math-ph       430 papers (  2.10%)
+  quant-ph      144 papers (  0.70%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2019
+  Recent papers (2020+): 46.4%
+
+Quality indicators:
+  Category purity: 18.6%
+  Domain diversity: 0.644
+  Distinctiveness: 0.658
+  Growth rate: +59.0%
+  Niche score: 0.0425
+  Journal rate: 23.2%
+  Multi-category rate: 43.9%
+  Avg authors: 2.0
+
+================================================================================
+CLUSTER 45
+================================================================================
+Size: 11,826 papers (0.50%)
+
+Top 20 terms:
+   1. pi                        (score: 0.5090)
+   2. pm                        (score: 0.0423)
+   3. decay                     (score: 0.0406)
+   4. gamma                     (score: 0.0361)
+   5. bar                       (score: 0.0353)
+   6. sigma                     (score: 0.0344)
+   7. lambda                    (score: 0.0266)
+   8. mass                      (score: 0.0237)
+   9. data                      (score: 0.0230)
+  10. gev                       (score: 0.0216)
+  11. nu                        (score: 0.0199)
+  12. phi                       (score: 0.0194)
+  13. using                     (score: 0.0189)
+  14. results                   (score: 0.0186)
+  15. state                     (score: 0.0185)
+  16. frac                      (score: 0.0184)
+  17. states                    (score: 0.0181)
+  18. energy                    (score: 0.0181)
+  19. model                     (score: 0.0179)
+  20. let                       (score: 0.0170)
+
+Top 10 ArXiv categories:
+  hep-ph                2,914 papers ( 24.64%)
+  hep-ex                1,830 papers ( 15.47%)
+  math.NT                 652 papers (  5.51%)
+  nucl-th                 525 papers (  4.44%)
+  hep-lat                 418 papers (  3.53%)
+  math.CO                 405 papers (  3.42%)
+  nucl-ex                 375 papers (  3.17%)
+  math.RT                 248 papers (  2.10%)
+  cond-mat.str-el         194 papers (  1.64%)
+  cond-mat.supr-con       185 papers (  1.56%)
+
+Domain distribution:
+  math        3,458 papers ( 29.24%)
+  hep-ph      2,914 papers ( 24.64%)
+  hep-ex      1,830 papers ( 15.47%)
+  cond-mat      696 papers (  5.89%)
+  cs            557 papers (  4.71%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 37.2%
+
+Quality indicators:
+  Category purity: 24.6%
+  Domain diversity: 2.060
+  Distinctiveness: 0.739
+  Growth rate: +33.7%
+  Niche score: 0.0359
+  Journal rate: 42.8%
+  Multi-category rate: 40.7%
+  Avg authors: 37.8
+
+================================================================================
+CLUSTER 46
+================================================================================
+Size: 10,199 papers (0.43%)
+
+Top 20 terms:
+   1. speech                    (score: 0.4997)
+   2. recognition               (score: 0.0839)
+   3. model                     (score: 0.0601)
+   4. models                    (score: 0.0534)
+   5. text                      (score: 0.0525)
+   6. language                  (score: 0.0498)
+   7. training                  (score: 0.0467)
+   8. data                      (score: 0.0424)
+   9. end                       (score: 0.0412)
+  10. based                     (score: 0.0408)
+  11. performance               (score: 0.0404)
+  12. trained                   (score: 0.0344)
+  13. quality                   (score: 0.0330)
+  14. proposed                  (score: 0.0325)
+  15. dataset                   (score: 0.0320)
+  16. task                      (score: 0.0300)
+  17. features                  (score: 0.0300)
+  18. neural                    (score: 0.0295)
+  19. learning                  (score: 0.0292)
+  20. using                     (score: 0.0287)
+
+Top 10 ArXiv categories:
+  eess.AS               3,371 papers ( 33.05%)
+  cs.CL                 2,967 papers ( 29.09%)
+  cs.SD                 2,460 papers ( 24.12%)
+  cs.CV                   341 papers (  3.34%)
+  cs.LG                   271 papers (  2.66%)
+  cs.HC                   201 papers (  1.97%)
+  cs.AI                    82 papers (  0.80%)
+  cs.MM                    59 papers (  0.58%)
+  cs.RO                    53 papers (  0.52%)
+  cs.CY                    51 papers (  0.50%)
+
+Domain distribution:
+  cs          6,662 papers ( 65.32%)
+  eess        3,420 papers ( 33.53%)
+  q-bio          58 papers (  0.57%)
+  physics        26 papers (  0.25%)
+  stat           23 papers (  0.23%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2022
+  Recent papers (2020+): 84.3%
+
+Quality indicators:
+  Category purity: 33.1%
+  Domain diversity: 0.711
+  Distinctiveness: 0.668
+  Growth rate: +139.3%
+  Niche score: 0.0824
+  Journal rate: 9.3%
+  Multi-category rate: 80.8%
+  Avg authors: 4.9
+
+================================================================================
+CLUSTER 47
+================================================================================
+Size: 66,371 papers (2.78%)
+
+Top 20 terms:
+   1. data                      (score: 0.2957)
+   2. model                     (score: 0.0491)
+   3. models                    (score: 0.0358)
+   4. based                     (score: 0.0354)
+   5. analysis                  (score: 0.0347)
+   6. using                     (score: 0.0320)
+   7. method                    (score: 0.0318)
+   8. methods                   (score: 0.0312)
+   9. time                      (score: 0.0300)
+  10. approach                  (score: 0.0294)
+  11. learning                  (score: 0.0279)
+  12. performance               (score: 0.0270)
+  13. real                      (score: 0.0270)
+  14. training                  (score: 0.0265)
+  15. used                      (score: 0.0253)
+  16. paper                     (score: 0.0250)
+  17. information               (score: 0.0242)
+  18. proposed                  (score: 0.0235)
+  19. high                      (score: 0.0223)
+  20. results                   (score: 0.0217)
+
+Top 10 ArXiv categories:
+  cs.LG                 9,967 papers ( 15.02%)
+  stat.ME               4,971 papers (  7.49%)
+  cs.CV                 3,969 papers (  5.98%)
+  cs.CL                 2,523 papers (  3.80%)
+  stat.ML               2,464 papers (  3.71%)
+  cs.CR                 2,457 papers (  3.70%)
+  cs.DB                 2,402 papers (  3.62%)
+  stat.AP               2,399 papers (  3.61%)
+  astro-ph.IM           2,017 papers (  3.04%)
+  cs.DC                 1,693 papers (  2.55%)
+
+Domain distribution:
+  cs         34,884 papers ( 52.56%)
+  stat       10,432 papers ( 15.72%)
+  astro-ph    5,309 papers (  8.00%)
+  physics     3,644 papers (  5.49%)
+  eess        2,823 papers (  4.25%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2021
+  Recent papers (2020+): 65.8%
+
+Quality indicators:
+  Category purity: 15.0%
+  Domain diversity: 1.698
+  Distinctiveness: 0.364
+  Growth rate: +92.2%
+  Niche score: 0.0544
+  Journal rate: 17.5%
+  Multi-category rate: 56.8%
+  Avg authors: 5.1
+
+================================================================================
+CLUSTER 48
+================================================================================
+Size: 41,459 papers (1.74%)
+
+Top 20 terms:
+   1. phase                     (score: 0.3080)
+   2. transition                (score: 0.0953)
+   3. phases                    (score: 0.0488)
+   4. model                     (score: 0.0426)
+   5. order                     (score: 0.0406)
+   6. temperature               (score: 0.0398)
+   7. transitions               (score: 0.0373)
+   8. critical                  (score: 0.0333)
+   9. quantum                   (score: 0.0321)
+  10. field                     (score: 0.0318)
+  11. state                     (score: 0.0279)
+  12. lattice                   (score: 0.0265)
+  13. topological               (score: 0.0255)
+  14. symmetry                  (score: 0.0250)
+  15. study                     (score: 0.0237)
+  16. density                   (score: 0.0229)
+  17. non                       (score: 0.0216)
+  18. theory                    (score: 0.0212)
+  19. energy                    (score: 0.0211)
+  20. using                     (score: 0.0207)
+
+Top 10 ArXiv categories:
+  cond-mat.str-el       4,556 papers ( 10.99%)
+  cond-mat.mtrl-sci     3,833 papers (  9.25%)
+  cond-mat.stat-mech    3,178 papers (  7.67%)
+  quant-ph              2,686 papers (  6.48%)
+  cond-mat.supr-con     2,239 papers (  5.40%)
+  cond-mat.soft         2,220 papers (  5.35%)
+  cond-mat.quant-gas    1,837 papers (  4.43%)
+  physics.optics        1,826 papers (  4.40%)
+  cond-mat.mes-hall     1,825 papers (  4.40%)
+  hep-ph                1,740 papers (  4.20%)
+
+Domain distribution:
+  cond-mat   20,911 papers ( 50.44%)
+  physics     5,041 papers ( 12.16%)
+  quant-ph    2,686 papers (  6.48%)
+  astro-ph    1,956 papers (  4.72%)
+  hep-ph      1,740 papers (  4.20%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2018
+  Recent papers (2020+): 42.7%
+
+Quality indicators:
+  Category purity: 11.0%
+  Domain diversity: 1.899
+  Distinctiveness: 0.485
+  Growth rate: +52.8%
+  Niche score: 0.0367
+  Journal rate: 51.8%
+  Multi-category rate: 50.7%
+  Avg authors: 4.3
+
+================================================================================
+CLUSTER 49
+================================================================================
+Size: 141,760 papers (5.94%)
+
+Top 20 terms:
+   1. algorithm                 (score: 0.1024)
+   2. problem                   (score: 0.0894)
+   3. method                    (score: 0.0587)
+   4. problems                  (score: 0.0505)
+   5. algorithms                (score: 0.0485)
+   6. optimization              (score: 0.0484)
+   7. optimal                   (score: 0.0420)
+   8. time                      (score: 0.0394)
+   9. proposed                  (score: 0.0385)
+  10. based                     (score: 0.0353)
+  11. convergence               (score: 0.0314)
+  12. paper                     (score: 0.0313)
+  13. methods                   (score: 0.0309)
+  14. numerical                 (score: 0.0304)
+  15. linear                    (score: 0.0294)
+  16. solution                  (score: 0.0281)
+  17. approach                  (score: 0.0271)
+  18. results                   (score: 0.0243)
+  19. number                    (score: 0.0238)
+  20. function                  (score: 0.0233)
+
+Top 10 ArXiv categories:
+  math.OC              17,204 papers ( 12.14%)
+  math.NA              14,575 papers ( 10.28%)
+  cs.LG                12,345 papers (  8.71%)
+  cs.DS                 7,870 papers (  5.55%)
+  cs.IT                 7,194 papers (  5.07%)
+  stat.ML               4,936 papers (  3.48%)
+  stat.ME               4,399 papers (  3.10%)
+  cs.RO                 3,931 papers (  2.77%)
+  cs.AI                 3,620 papers (  2.55%)
+  eess.SP               3,533 papers (  2.49%)
+
+Domain distribution:
+  cs         62,561 papers ( 44.13%)
+  math       43,365 papers ( 30.59%)
+  stat       12,135 papers (  8.56%)
+  eess        7,742 papers (  5.46%)
+  physics     4,783 papers (  3.37%)
+
+Temporal characteristics:
+  Year range: 2007-2025
+  Median year: 2020
+  Recent papers (2020+): 56.9%
+
+Quality indicators:
+  Category purity: 12.1%
+  Domain diversity: 1.584
+  Distinctiveness: 0.259
+  Growth rate: +64.2%
+  Niche score: 0.0443
+  Journal rate: 15.3%
+  Multi-category rate: 58.7%
+  Avg authors: 3.1
+

@@ -1,0 +1,396 @@
+TOP TERMS PER RESEARCH DOMAIN
+Generated from TF-IDF analysis of 2.4M ArXiv papers
+Higher scores indicate terms that are both frequent AND distinctive
+Total features: 1,000
+Date: 2025-11-17 00:02
+
+
+CS
+Papers in domain: 642,055
+Percentage of corpus: 26.9%
+Top 20 terms (by mean TF-IDF score):
+   1. data                      (score: 0.0468)
+   2. learning                  (score: 0.0449)
+   3. model                     (score: 0.0394)
+   4. based                     (score: 0.0386)
+   5. models                    (score: 0.0379)
+   6. performance               (score: 0.0342)
+   7. network                   (score: 0.0287)
+   8. paper                     (score: 0.0286)
+   9. training                  (score: 0.0281)
+  10. methods                   (score: 0.0272)
+  11. method                    (score: 0.0259)
+  12. language                  (score: 0.0258)
+  13. propose                   (score: 0.0257)
+  14. information               (score: 0.0256)
+  15. approach                  (score: 0.0254)
+  16. problem                   (score: 0.0251)
+  17. algorithm                 (score: 0.0249)
+  18. proposed                  (score: 0.0245)
+  19. time                      (score: 0.0236)
+  20. tasks                     (score: 0.0234)
+
+
+MATH
+Papers in domain: 493,214
+Percentage of corpus: 20.7%
+Top 20 terms (by mean TF-IDF score):
+   1. prove                     (score: 0.0398)
+   2. mathbb                    (score: 0.0366)
+   3. paper                     (score: 0.0296)
+   4. group                     (score: 0.0272)
+   5. finite                    (score: 0.0254)
+   6. space                     (score: 0.0252)
+   7. problem                   (score: 0.0241)
+   8. spaces                    (score: 0.0220)
+   9. functions                 (score: 0.0217)
+  10. result                    (score: 0.0213)
+  11. theorem                   (score: 0.0213)
+  12. study                     (score: 0.0212)
+  13. results                   (score: 0.0212)
+  14. mathcal                   (score: 0.0210)
+  15. function                  (score: 0.0201)
+  16. number                    (score: 0.0201)
+  17. groups                    (score: 0.0200)
+  18. type                      (score: 0.0198)
+  19. set                       (score: 0.0197)
+  20. case                      (score: 0.0195)
+
+
+COND-MAT
+Papers in domain: 253,535
+Percentage of corpus: 10.6%
+Top 20 terms (by mean TF-IDF score):
+   1. spin                      (score: 0.0653)
+   2. magnetic                  (score: 0.0531)
+   3. phase                     (score: 0.0467)
+   4. temperature               (score: 0.0444)
+   5. quantum                   (score: 0.0417)
+   6. field                     (score: 0.0360)
+   7. transition                (score: 0.0340)
+   8. states                    (score: 0.0330)
+   9. energy                    (score: 0.0319)
+  10. electron                  (score: 0.0307)
+  11. state                     (score: 0.0297)
+  12. model                     (score: 0.0283)
+  13. density                   (score: 0.0279)
+  14. properties                (score: 0.0272)
+  15. topological               (score: 0.0269)
+  16. materials                 (score: 0.0265)
+  17. lattice                   (score: 0.0254)
+  18. electronic                (score: 0.0247)
+  19. graphene                  (score: 0.0241)
+  20. surface                   (score: 0.0237)
+
+
+ASTRO-PH
+Papers in domain: 243,545
+Percentage of corpus: 10.2%
+Top 20 terms (by mean TF-IDF score):
+   1. mass                      (score: 0.0548)
+   2. stars                     (score: 0.0525)
+   3. star                      (score: 0.0501)
+   4. galaxies                  (score: 0.0492)
+   5. ray                       (score: 0.0439)
+   6. emission                  (score: 0.0408)
+   7. observations              (score: 0.0408)
+   8. stellar                   (score: 0.0404)
+   9. galaxy                    (score: 0.0381)
+  10. data                      (score: 0.0318)
+  11. formation                 (score: 0.0311)
+  12. gas                       (score: 0.0301)
+  13. high                      (score: 0.0295)
+  14. observed                  (score: 0.0288)
+  15. solar                     (score: 0.0282)
+  16. radio                     (score: 0.0277)
+  17. disk                      (score: 0.0261)
+  18. energy                    (score: 0.0252)
+  19. magnetic                  (score: 0.0248)
+  20. sim                       (score: 0.0248)
+
+
+PHYSICS
+Papers in domain: 180,110
+Percentage of corpus: 7.6%
+Top 20 terms (by mean TF-IDF score):
+   1. energy                    (score: 0.0298)
+   2. optical                   (score: 0.0294)
+   3. high                      (score: 0.0275)
+   4. field                     (score: 0.0273)
+   5. model                     (score: 0.0272)
+   6. time                      (score: 0.0266)
+   7. laser                     (score: 0.0252)
+   8. using                     (score: 0.0248)
+   9. based                     (score: 0.0229)
+  10. flow                      (score: 0.0226)
+  11. beam                      (score: 0.0215)
+  12. electron                  (score: 0.0214)
+  13. method                    (score: 0.0213)
+  14. light                     (score: 0.0209)
+  15. results                   (score: 0.0208)
+  16. frequency                 (score: 0.0200)
+  17. wave                      (score: 0.0198)
+  18. dynamics                  (score: 0.0197)
+  19. phase                     (score: 0.0189)
+  20. used                      (score: 0.0187)
+
+
+QUANT-PH
+Papers in domain: 99,370
+Percentage of corpus: 4.2%
+Top 20 terms (by mean TF-IDF score):
+   1. quantum                   (score: 0.2357)
+   2. states                    (score: 0.0631)
+   3. entanglement              (score: 0.0542)
+   4. state                     (score: 0.0523)
+   5. classical                 (score: 0.0383)
+   6. photon                    (score: 0.0343)
+   7. systems                   (score: 0.0301)
+   8. time                      (score: 0.0290)
+   9. measurement               (score: 0.0276)
+  10. non                       (score: 0.0265)
+  11. single                    (score: 0.0250)
+  12. information               (score: 0.0247)
+  13. spin                      (score: 0.0241)
+  14. phase                     (score: 0.0222)
+  15. using                     (score: 0.0215)
+  16. noise                     (score: 0.0209)
+  17. optical                   (score: 0.0201)
+  18. dynamics                  (score: 0.0198)
+  19. field                     (score: 0.0193)
+  20. based                     (score: 0.0188)
+
+
+HEP-PH
+Papers in domain: 85,783
+Percentage of corpus: 3.6%
+Top 20 terms (by mean TF-IDF score):
+   1. higgs                     (score: 0.0609)
+   2. quark                     (score: 0.0558)
+   3. mass                      (score: 0.0531)
+   4. model                     (score: 0.0514)
+   5. neutrino                  (score: 0.0479)
+   6. dark                      (score: 0.0429)
+   7. matter                    (score: 0.0400)
+   8. production                (score: 0.0396)
+   9. decay                     (score: 0.0377)
+  10. dark matter               (score: 0.0369)
+  11. bar                       (score: 0.0342)
+  12. standard                  (score: 0.0338)
+  13. heavy                     (score: 0.0316)
+  14. energy                    (score: 0.0302)
+  15. gauge                     (score: 0.0298)
+  16. gev                       (score: 0.0291)
+  17. masses                    (score: 0.0286)
+  18. scalar                    (score: 0.0266)
+  19. symmetry                  (score: 0.0263)
+  20. physics                   (score: 0.0254)
+
+
+HEP-TH
+Papers in domain: 66,360
+Percentage of corpus: 2.8%
+Top 20 terms (by mean TF-IDF score):
+   1. theory                    (score: 0.0862)
+   2. gauge                     (score: 0.0620)
+   3. field                     (score: 0.0577)
+   4. theories                  (score: 0.0550)
+   5. gravity                   (score: 0.0419)
+   6. black                     (score: 0.0403)
+   7. non                       (score: 0.0388)
+   8. dimensional               (score: 0.0377)
+   9. quantum                   (score: 0.0368)
+  10. scalar                    (score: 0.0347)
+  11. symmetry                  (score: 0.0344)
+  12. space                     (score: 0.0336)
+  13. solutions                 (score: 0.0293)
+  14. model                     (score: 0.0291)
+  15. dimensions                (score: 0.0281)
+  16. fields                    (score: 0.0274)
+  17. dual                      (score: 0.0267)
+  18. action                    (score: 0.0264)
+  19. black hole                (score: 0.0242)
+  20. boundary                  (score: 0.0241)
+
+
+EESS
+Papers in domain: 62,792
+Percentage of corpus: 2.6%
+Top 20 terms (by mean TF-IDF score):
+   1. proposed                  (score: 0.0540)
+   2. based                     (score: 0.0496)
+   3. data                      (score: 0.0444)
+   4. model                     (score: 0.0441)
+   5. performance               (score: 0.0428)
+   6. control                   (score: 0.0403)
+   7. learning                  (score: 0.0383)
+   8. network                   (score: 0.0373)
+   9. method                    (score: 0.0367)
+  10. image                     (score: 0.0362)
+  11. systems                   (score: 0.0328)
+  12. speech                    (score: 0.0324)
+  13. images                    (score: 0.0320)
+  14. paper                     (score: 0.0318)
+  15. time                      (score: 0.0317)
+  16. using                     (score: 0.0303)
+  17. power                     (score: 0.0297)
+  18. segmentation              (score: 0.0290)
+  19. approach                  (score: 0.0286)
+  20. results                   (score: 0.0281)
+
+
+STAT
+Papers in domain: 55,976
+Percentage of corpus: 2.3%
+Top 20 terms (by mean TF-IDF score):
+   1. data                      (score: 0.0883)
+   2. model                     (score: 0.0588)
+   3. models                    (score: 0.0461)
+   4. methods                   (score: 0.0417)
+   5. method                    (score: 0.0416)
+   6. regression                (score: 0.0386)
+   7. bayesian                  (score: 0.0386)
+   8. estimation                (score: 0.0364)
+   9. proposed                  (score: 0.0344)
+  10. based                     (score: 0.0343)
+  11. inference                 (score: 0.0335)
+  12. approach                  (score: 0.0327)
+  13. algorithm                 (score: 0.0314)
+  14. distribution              (score: 0.0307)
+  15. analysis                  (score: 0.0300)
+  16. learning                  (score: 0.0295)
+  17. statistical               (score: 0.0293)
+  18. using                     (score: 0.0279)
+  19. time                      (score: 0.0276)
+  20. propose                   (score: 0.0257)
+
+
+GR-QC
+Papers in domain: 50,827
+Percentage of corpus: 2.1%
+Top 20 terms (by mean TF-IDF score):
+   1. black                     (score: 0.0933)
+   2. gravity                   (score: 0.0765)
+   3. gravitational             (score: 0.0699)
+   4. black hole                (score: 0.0661)
+   5. hole                      (score: 0.0630)
+   6. scalar                    (score: 0.0543)
+   7. field                     (score: 0.0501)
+   8. cosmological              (score: 0.0428)
+   9. energy                    (score: 0.0399)
+  10. quantum                   (score: 0.0374)
+  11. holes                     (score: 0.0371)
+  12. universe                  (score: 0.0366)
+  13. equations                 (score: 0.0364)
+  14. solutions                 (score: 0.0363)
+  15. theory                    (score: 0.0359)
+  16. general                   (score: 0.0347)
+  17. matter                    (score: 0.0344)
+  18. metric                    (score: 0.0310)
+  19. model                     (score: 0.0288)
+  20. mass                      (score: 0.0279)
+
+
+Q-BIO
+Papers in domain: 29,644
+Percentage of corpus: 1.2%
+Top 20 terms (by mean TF-IDF score):
+   1. model                     (score: 0.0592)
+   2. cell                      (score: 0.0429)
+   3. data                      (score: 0.0425)
+   4. models                    (score: 0.0366)
+   5. population                (score: 0.0356)
+   6. network                   (score: 0.0342)
+   7. dynamics                  (score: 0.0336)
+   8. networks                  (score: 0.0314)
+   9. based                     (score: 0.0284)
+  10. time                      (score: 0.0271)
+  11. analysis                  (score: 0.0259)
+  12. different                 (score: 0.0248)
+  13. using                     (score: 0.0245)
+  14. neural                    (score: 0.0234)
+  15. results                   (score: 0.0233)
+  16. study                     (score: 0.0225)
+  17. information               (score: 0.0223)
+  18. methods                   (score: 0.0215)
+  19. used                      (score: 0.0214)
+  20. human                     (score: 0.0212)
+
+
+MATH-PH
+Papers in domain: 26,661
+Percentage of corpus: 1.1%
+Top 20 terms (by mean TF-IDF score):
+   1. quantum                   (score: 0.0455)
+   2. equation                  (score: 0.0452)
+   3. equations                 (score: 0.0396)
+   4. theory                    (score: 0.0330)
+   5. operators                 (score: 0.0317)
+   6. space                     (score: 0.0292)
+   7. functions                 (score: 0.0290)
+   8. operator                  (score: 0.0285)
+   9. solutions                 (score: 0.0283)
+  10. dimensional               (score: 0.0280)
+  11. algebra                   (score: 0.0280)
+  12. field                     (score: 0.0266)
+  13. hamiltonian               (score: 0.0263)
+  14. systems                   (score: 0.0252)
+  15. model                     (score: 0.0249)
+  16. non                       (score: 0.0247)
+  17. function                  (score: 0.0241)
+  18. prove                     (score: 0.0239)
+  19. case                      (score: 0.0236)
+  20. matrix                    (score: 0.0236)
+
+
+NUCL-TH
+Papers in domain: 22,158
+Percentage of corpus: 0.9%
+Top 20 terms (by mean TF-IDF score):
+   1. nuclear                   (score: 0.0982)
+   2. neutron                   (score: 0.0689)
+   3. energy                    (score: 0.0611)
+   4. model                     (score: 0.0464)
+   5. collisions                (score: 0.0460)
+   6. matter                    (score: 0.0383)
+   7. heavy                     (score: 0.0378)
+   8. density                   (score: 0.0363)
+   9. energies                  (score: 0.0359)
+  10. calculations              (score: 0.0353)
+  11. quark                     (score: 0.0336)
+  12. state                     (score: 0.0329)
+  13. relativistic              (score: 0.0327)
+  14. scattering                (score: 0.0315)
+  15. interaction               (score: 0.0314)
+  16. momentum                  (score: 0.0301)
+  17. mass                      (score: 0.0292)
+  18. body                      (score: 0.0291)
+  19. states                    (score: 0.0291)
+  20. experimental              (score: 0.0288)
+
+
+HEP-EX
+Papers in domain: 16,476
+Percentage of corpus: 0.7%
+Top 20 terms (by mean TF-IDF score):
+   1. pi                        (score: 0.0748)
+   2. detector                  (score: 0.0738)
+   3. pm                        (score: 0.0699)
+   4. gev                       (score: 0.0679)
+   5. production                (score: 0.0666)
+   6. mass                      (score: 0.0627)
+   7. data                      (score: 0.0564)
+   8. collisions                (score: 0.0538)
+   9. decay                     (score: 0.0507)
+  10. cross                     (score: 0.0497)
+  11. measurements              (score: 0.0492)
+  12. experiment                (score: 0.0480)
+  13. neutrino                  (score: 0.0445)
+  14. search                    (score: 0.0441)
+  15. quark                     (score: 0.0431)
+  16. physics                   (score: 0.0418)
+  17. energy                    (score: 0.0416)
+  18. events                    (score: 0.0405)
+  19. mu                        (score: 0.0398)
+  20. standard                  (score: 0.0396)
+

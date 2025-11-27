@@ -1,0 +1,360 @@
+RESEARCH QUESTION 4: GROWING NICHES
+Analysis date: 2025-11-20 19:49:23
+
+Question: What are the small but rapidly growing research niches
+          that represent emerging areas of study?
+
+Methodology:
+  Niche Score Components (0-1 scale, weighted):
+    - Size score (15%): Smaller clusters ranked higher
+    - Growth rate (30%): Recent vs older paper ratio
+    - Recency (25%): Concentration in 2020+ papers
+    - Distinctiveness (10%): Unique topic content
+    - Acceleration (15%): Increasing growth over time
+    - Coherence (5%): Topic focus (inverse domain entropy)
+
+  Thresholds:
+    - Minimum cluster size: 20 papers
+    - Size sweet spot: 0.1-5% of corpus (niche but not tiny)
+    - High growth: >100% increase
+    - High recency: >60% papers from 2020+
+
+OVERALL STATISTICS
+Metric                              SVD-300d             SVD-500d
+Clusters analyzed                   50                   50
+Mean niche score                    0.427                0.424
+Median niche score                  0.404                0.401
+High niches (>0.6)                  5                    4
+Very high niches (>0.7)             2                    3
+Mean growth rate                    108.1               % 94.3%
+High growth (>100%)                 10                   11
+
+TOP 15 GROWING NICHES (SVD-300D)
+1. Cluster 26 - Niche Score: 0.895
+   Size: 38,393 papers (1.61%)
+   Growth: +1674.7%, Acceleration: 12.73x
+   Recent: 96.7%, Distinctiveness: 0.534
+   Timeline: 2007-2025 (median: 2024)
+   Distribution: Pre-2015=308, 2015-19=948, 2020+=37137
+   Domains: cs(37538), eess(213), q-bio(193)
+   Categories: cs.CL(21253), cs.LG(3291), cs.AI(3137)
+   Terms: llms, language, models, language models, reasoning, tasks, large, performance, model, knowledge, human, fine, text, code, generation
+
+2. Cluster 13 - Niche Score: 0.874
+   Size: 10,888 papers (0.46%)
+   Growth: +547.9%, Acceleration: 2.21x
+   Recent: 94.7%, Distinctiveness: 0.703
+   Timeline: 2007-2025 (median: 2024)
+   Distribution: Pre-2015=57, 2015-19=516, 2020+=10315
+   Domains: cs(9791), eess(347), physics(193)
+   Categories: cs.AI(2235), cs.CY(2051), cs.HC(1606)
+   Terms: ai, human, research, systems, models, data, generative, challenges, learning, development, based, design, paper, model, language
+
+3. Cluster 0 - Niche Score: 0.686
+   Size: 12,419 papers (0.52%)
+   Growth: +164.2%, Acceleration: 0.86x
+   Recent: 79.2%, Distinctiveness: 0.636
+   Timeline: 2007-2025 (median: 2023)
+   Distribution: Pre-2015=409, 2015-19=2169, 2020+=9841
+   Domains: cs(11431), eess(745), physics(149)
+   Categories: cs.CV(8957), eess.IV(668), cs.MM(661)
+   Terms: video, temporal, visual, quality, motion, model, based, models, dataset, propose, methods, image, method, text, performance
+
+4. Cluster 15 - Niche Score: 0.670
+   Size: 18,400 papers (0.77%)
+   Growth: +153.4%, Acceleration: 1.52x
+   Recent: 75.3%, Distinctiveness: 0.577
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=1215, 2015-19=3331, 2020+=13854
+   Domains: cs(14306), math(1081), eess(780)
+   Categories: cs.AI(2987), cs.LG(2950), cs.MA(1744)
+   Terms: agents, agent, learning, multi, based, model, environment, policy, problem, information, tasks, environments, human, framework, decision
+
+5. Cluster 46 - Niche Score: 0.659
+   Size: 10,199 papers (0.43%)
+   Growth: +139.3%, Acceleration: 0.75x
+   Recent: 84.3%, Distinctiveness: 0.668
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=176, 2015-19=1424, 2020+=8599
+   Domains: cs(6662), eess(3420), q-bio(58)
+   Categories: eess.AS(3371), cs.CL(2967), cs.SD(2460)
+   Terms: speech, recognition, model, models, text, language, training, data, end, based, performance, trained, quality, proposed, dataset
+
+6. Cluster 32 - Niche Score: 0.594
+   Size: 11,729 papers (0.49%)
+   Growth: +100.4%, Acceleration: 0.66x
+   Recent: 81.8%, Distinctiveness: 0.603
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=246, 2015-19=1888, 2020+=9595
+   Domains: cs(10815), eess(396), stat(238)
+   Categories: cs.CR(3447), cs.LG(3397), cs.CV(2346)
+   Terms: attacks, adversarial, robustness, security, training, models, model, learning, examples, based, robust, networks, data, detection, deep
+
+7. Cluster 39 - Niche Score: 0.546
+   Size: 143,693 papers (6.03%)
+   Growth: +185.1%, Acceleration: 0.84x
+   Recent: 83.5%, Distinctiveness: 0.260
+   Timeline: 2007-2025 (median: 2023)
+   Distribution: Pre-2015=3009, 2015-19=20698, 2020+=119986
+   Domains: cs(123802), eess(7217), stat(5817)
+   Categories: cs.CV(47168), cs.CL(24802), cs.LG(20951)
+   Terms: model, models, performance, based, training, methods, task, dataset, datasets, propose, method, data, tasks, art, state art
+
+8. Cluster 6 - Niche Score: 0.525
+   Size: 50,126 papers (2.10%)
+   Growth: +114.8%, Acceleration: 0.64x
+   Recent: 75.6%, Distinctiveness: 0.468
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=1834, 2015-19=10400, 2020+=37892
+   Domains: cs(37847), eess(7802), physics(1589)
+   Categories: cs.CV(32818), eess.IV(7531), cs.LG(1143)
+   Terms: image, images, segmentation, method, methods, based, model, quality, training, learning, models, dataset, proposed, visual, data
+
+9. Cluster 25 - Niche Score: 0.501
+   Size: 26,595 papers (1.12%)
+   Growth: +98.1%, Acceleration: 1.19x
+   Recent: 66.4%, Distinctiveness: 0.498
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=2654, 2015-19=6278, 2020+=17663
+   Domains: cs(9096), math(6557), eess(5182)
+   Categories: math.OC(5145), eess.SY(4918), cs.RO(3642)
+   Terms: control, optimal, systems, time, problem, based, model, proposed, paper, state, approach, feedback, design, method, using
+
+10. Cluster 12 - Niche Score: 0.493
+   Size: 12,455 papers (0.52%)
+   Growth: +100.4%, Acceleration: 1.06x
+   Recent: 45.2%, Distinctiveness: 0.662
+   Timeline: 2007-2025 (median: 2018)
+   Distribution: Pre-2015=2904, 2015-19=3925, 2020+=5626
+   Domains: quant-ph(8223), cond-mat(1802), hep-th(1634)
+   Categories: quant-ph(8223), hep-th(1634), cond-mat.str-el(666)
+   Terms: entanglement, quantum, states, entropy, state, systems, non, photon, information, field, local, correlations, spin, time, study
+
+11. Cluster 21 - Niche Score: 0.485
+   Size: 18,237 papers (0.76%)
+   Growth: +73.8%, Acceleration: 0.63x
+   Recent: 59.6%, Distinctiveness: 0.752
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=1795, 2015-19=5564, 2020+=10878
+   Domains: math(13239), cs(1480), hep-th(1190)
+   Categories: math.CO(1893), math.AG(1319), hep-th(1190)
+   Terms: mathcal, mathbb, let, set, space, prove, algebra, infty, group, finite, mathrm, class, theory, paper, geq
+
+12. Cluster 28 - Niche Score: 0.474
+   Size: 27,226 papers (1.14%)
+   Growth: +68.3%, Acceleration: 0.62x
+   Recent: 58.3%, Distinctiveness: 0.710
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=2844, 2015-19=8501, 2020+=15881
+   Domains: math(24193), cs(1041), hep-th(755)
+   Categories: math.NT(3549), math.AG(2632), math.AP(2573)
+   Terms: mathbb, prove, let, infty, times, space, geq, frac, group, mathrm, set, finite, result, subset, paper
+
+13. Cluster 42 - Niche Score: 0.473
+   Size: 42,067 papers (1.76%)
+   Growth: +86.3%, Acceleration: 1.18x
+   Recent: 58.9%, Distinctiveness: 0.609
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=6029, 2015-19=11246, 2020+=24792
+   Domains: math(19625), cs(19004), stat(807)
+   Categories: math.CO(14232), cs.LG(5386), cs.DS(3066)
+   Terms: graph, graphs, number, edge, problem, connected, set, paper, prove, degree, algorithm, random, nodes, time, complete
+
+14. Cluster 10 - Niche Score: 0.470
+   Size: 72,564 papers (3.04%)
+   Growth: +98.4%, Acceleration: 0.59x
+   Recent: 80.4%, Distinctiveness: 0.379
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=1624, 2015-19=12629, 2020+=58311
+   Domains: cs(55162), eess(4495), stat(3893)
+   Categories: cs.LG(26315), cs.CV(9450), cs.CL(3248)
+   Terms: learning, machine, machine learning, deep, data, deep learning, model, models, training, based, methods, performance, tasks, approach, algorithms
+
+15. Cluster 5 - Niche Score: 0.450
+   Size: 73,650 papers (3.09%)
+   Growth: +113.4%, Acceleration: 1.28x
+   Recent: 54.1%, Distinctiveness: 0.508
+   Timeline: 2007-2025 (median: 2020)
+   Distribution: Pre-2015=13367, 2015-19=20426, 2020+=39857
+   Domains: quant-ph(44524), cond-mat(11267), physics(4789)
+   Categories: quant-ph(44524), cond-mat.mes-hall(4741), gr-qc(2953)
+   Terms: quantum, classical, states, state, systems, theory, time, information, non, photon, measurement, field, single, dynamics, using
+
+TOP 15 GROWING NICHES (SVD-500D)
+1. Cluster 30 - Niche Score: 0.884
+   Size: 11,056 papers (0.46%)
+   Growth: +551.6%, Acceleration: 2.34x
+   Recent: 94.8%, Distinctiveness: 0.703
+   Timeline: 2007-2025 (median: 2024)
+   Distribution: Pre-2015=59, 2015-19=514, 2020+=10483
+   Domains: cs(9975), eess(343), physics(187)
+   Categories: cs.AI(2330), cs.CY(2059), cs.HC(1635)
+   Terms: ai, human, research, systems, models, generative, data, challenges, learning, development, based, design, paper, model, agents
+
+2. Cluster 1 - Niche Score: 0.866
+   Size: 53,956 papers (2.26%)
+   Growth: +991.7%, Acceleration: 5.66x
+   Recent: 95.0%, Distinctiveness: 0.488
+   Timeline: 2007-2025 (median: 2024)
+   Distribution: Pre-2015=529, 2015-19=2188, 2020+=51239
+   Domains: cs(52603), eess(372), q-bio(310)
+   Categories: cs.CL(27997), cs.LG(4974), cs.CV(4884)
+   Terms: language, llms, models, language models, tasks, reasoning, large, model, performance, knowledge, training, fine, task, human, code
+
+3. Cluster 42 - Niche Score: 0.718
+   Size: 17,679 papers (0.74%)
+   Growth: +206.7%, Acceleration: 1.10x
+   Recent: 79.6%, Distinctiveness: 0.581
+   Timeline: 2007-2025 (median: 2023)
+   Distribution: Pre-2015=677, 2015-19=2938, 2020+=14064
+   Domains: cs(13634), math(1160), cond-mat(597)
+   Categories: cs.CL(5534), cs.CV(4825), cs.LG(626)
+   Terms: text, image, models, language, model, generation, based, data, task, images, training, tasks, information, dataset, methods
+
+4. Cluster 14 - Niche Score: 0.659
+   Size: 10,371 papers (0.43%)
+   Growth: +139.3%, Acceleration: 0.76x
+   Recent: 84.5%, Distinctiveness: 0.664
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=177, 2015-19=1433, 2020+=8761
+   Domains: cs(6809), eess(3446), q-bio(58)
+   Categories: eess.AS(3398), cs.CL(2976), cs.SD(2485)
+   Terms: speech, recognition, model, models, language, training, text, data, based, end, performance, trained, dataset, proposed, quality
+
+5. Cluster 10 - Niche Score: 0.570
+   Size: 20,274 papers (0.85%)
+   Growth: +116.5%, Acceleration: 0.90x
+   Recent: 73.4%, Distinctiveness: 0.529
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=1104, 2015-19=4284, 2020+=14886
+   Domains: cs(17184), astro-ph(975), math(602)
+   Categories: cs.CV(12307), cs.RO(2801), astro-ph.EP(365)
+   Terms: object, objects, detection, image, based, method, dataset, images, segmentation, model, visual, methods, propose, performance, video
+
+6. Cluster 19 - Niche Score: 0.550
+   Size: 15,819 papers (0.66%)
+   Growth: +98.5%, Acceleration: 1.37x
+   Recent: 69.2%, Distinctiveness: 0.549
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=1457, 2015-19=3417, 2020+=10945
+   Domains: cs(9514), math(2335), cond-mat(1395)
+   Categories: cs.CV(3657), cs.CL(1825), cs.LG(1563)
+   Terms: domain, domains, target, data, source, model, learning, training, performance, method, knowledge, models, methods, based, specific
+
+7. Cluster 27 - Niche Score: 0.529
+   Size: 9,682 papers (0.41%)
+   Growth: +100.0%, Acceleration: 0.48x
+   Recent: 65.6%, Distinctiveness: 0.738
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=573, 2015-19=2754, 2020+=6355
+   Domains: math(3344), astro-ph(2134), cond-mat(1149)
+   Categories: astro-ph.GA(706), hep-ex(429), astro-ph.CO(425)
+   Terms: mathrm, mathbb, mass, times, pm, sim, sigma, group, alpha, using, mathcal, field, results, prove, mu
+
+8. Cluster 2 - Niche Score: 0.521
+   Size: 39,568 papers (1.66%)
+   Growth: +107.4%, Acceleration: 0.63x
+   Recent: 81.0%, Distinctiveness: 0.400
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=875, 2015-19=6648, 2020+=32045
+   Domains: cs(26238), stat(2730), physics(2448)
+   Categories: cs.LG(12473), cs.CR(1991), cs.CL(1953)
+   Terms: machine, machine learning, learning, data, models, model, based, methods, performance, training, accuracy, algorithms, using, approach, neural
+
+9. Cluster 36 - Niche Score: 0.503
+   Size: 62,396 papers (2.62%)
+   Growth: +105.2%, Acceleration: 0.51x
+   Recent: 81.1%, Distinctiveness: 0.382
+   Timeline: 2007-2025 (median: 2022)
+   Distribution: Pre-2015=1134, 2015-19=10643, 2020+=50619
+   Domains: cs(51974), eess(4110), stat(2182)
+   Categories: cs.LG(23207), cs.CV(10106), cs.RO(4164)
+   Terms: learning, deep, deep learning, training, data, model, tasks, based, performance, task, methods, models, neural, policy, approach
+
+10. Cluster 24 - Niche Score: 0.495
+   Size: 12,600 papers (0.53%)
+   Growth: +101.1%, Acceleration: 1.07x
+   Recent: 45.1%, Distinctiveness: 0.661
+   Timeline: 2007-2025 (median: 2019)
+   Distribution: Pre-2015=2953, 2015-19=3959, 2020+=5688
+   Domains: quant-ph(8365), cond-mat(1836), hep-th(1606)
+   Categories: quant-ph(8365), hep-th(1606), cond-mat.str-el(691)
+   Terms: entanglement, quantum, states, entropy, state, systems, non, information, local, field, spin, correlations, phase, time, study
+
+11. Cluster 35 - Niche Score: 0.492
+   Size: 29,413 papers (1.23%)
+   Growth: +95.7%, Acceleration: 1.19x
+   Recent: 66.2%, Distinctiveness: 0.484
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=2959, 2015-19=6974, 2020+=19480
+   Domains: cs(10270), math(7227), eess(5682)
+   Categories: math.OC(5635), eess.SY(5370), cs.RO(3916)
+   Terms: control, optimal, systems, time, problem, based, model, proposed, paper, state, approach, design, method, feedback, dynamics
+
+12. Cluster 28 - Niche Score: 0.484
+   Size: 18,150 papers (0.76%)
+   Growth: +72.5%, Acceleration: 0.64x
+   Recent: 59.6%, Distinctiveness: 0.751
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=1809, 2015-19=5525, 2020+=10816
+   Domains: math(13248), cs(1476), hep-th(1167)
+   Categories: math.CO(1870), math.AG(1306), hep-th(1167)
+   Terms: mathcal, mathbb, let, space, set, prove, algebra, infty, group, finite, class, paper, theory, geq, alpha
+
+13. Cluster 44 - Niche Score: 0.476
+   Size: 42,454 papers (1.78%)
+   Growth: +87.8%, Acceleration: 1.19x
+   Recent: 59.4%, Distinctiveness: 0.608
+   Timeline: 2007-2025 (median: 2021)
+   Distribution: Pre-2015=5981, 2015-19=11263, 2020+=25210
+   Domains: math(19675), cs(19340), stat(810)
+   Categories: math.CO(14393), cs.LG(5692), cs.DS(3035)
+   Terms: graph, graphs, number, edge, problem, connected, set, paper, degree, prove, random, algorithm, nodes, time, complete
+
+14. Cluster 43 - Niche Score: 0.472
+   Size: 26,956 papers (1.13%)
+   Growth: +67.8%, Acceleration: 0.61x
+   Recent: 57.8%, Distinctiveness: 0.709
+   Timeline: 2007-2025 (median: 2020)
+   Distribution: Pre-2015=2852, 2015-19=8534, 2020+=15570
+   Domains: math(24168), cs(851), hep-th(717)
+   Categories: math.NT(3450), math.AP(2941), math.AG(2618)
+   Terms: mathbb, prove, let, infty, times, space, frac, geq, group, alpha, set, result, finite, paper, leq
+
+15. Cluster 32 - Niche Score: 0.469
+   Size: 10,137 papers (0.43%)
+   Growth: +52.6%, Acceleration: 1.34x
+   Recent: 43.6%, Distinctiveness: 0.793
+   Timeline: 2007-2025 (median: 2018)
+   Distribution: Pre-2015=2722, 2015-19=2997, 2020+=4418
+   Domains: math(8969), math-ph(410), hep-th(367)
+   Categories: math.RA(2262), math.RT(1628), math.OA(1226)
+   Terms: algebras, lie, algebra, finite, theory, dimensional, groups, prove, paper, type, group, study, algebraic, class, spaces
+
+PATH COMPARISON
+Overall Winner: 300D
+  500d wins on 0/3 key metrics
+
+Niche Detection:
+  300d: 5 high-scoring niches
+  500d: 4 high-scoring niches
+  Winner: 300d
+
+Growth Capture:
+  300d: 108.1% mean growth
+  500d: 94.3% mean growth
+  Winner: 300d
+
+INTERPRETATION
+Niche Score Interpretation:
+  > 0.7: Exceptional emerging niche (small, very high growth, recent)
+  0.6-0.7: Strong emerging niche (clear growth trajectory)
+  0.5-0.6: Moderate emerging area (some growth signals)
+  < 0.5: Established or slow-growing area
+
+Key Findings:
+  - 300D better identifies emerging niches
+  - Top niches show 100-300% growth rates
+  - Most niches have 60-90% papers from 2020+
+  - Growth acceleration indicates emerging importance
+  - Common themes: ML/AI applications, quantum computing, computational methods

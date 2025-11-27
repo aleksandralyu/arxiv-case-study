@@ -1,0 +1,52 @@
+K-SELECTION COMPARISON: SVD-300D VS SVD-500D
+Analysis date: 2025-11-17 14:59:24
+
+CONFIGURATION COMPARISON
+Metric                    SVD-300d                  SVD-500d
+Variance preserved        53%                       71%
+Feature dimensions        300                       500
+Compression ratio         3.3x                      2.0x
+Papers clustered          2,384,622                2,384,622
+
+OPTIMAL K BY METRIC
+Metric                    SVD-300d                  SVD-500d
+Silhouette                k=50                      k=50
+Davies-Bouldin            k=50                      k=45
+Calinski-Harabasz         k=10                      k=10
+
+QUALITY METRICS AT RECOMMENDED K VALUES
+
+Silhouette optimal k=50:
+  SVD-300d: Sil=0.0381, DB=3.7226, CH=10687.1
+  SVD-500d: Sil=0.0206, DB=4.1221, CH=7084.3
+
+Davies-Bouldin optimal k=50:
+  SVD-300d: Sil=0.0381, DB=3.7226, CH=10687.1
+  SVD-500d: Sil=0.0206, DB=4.1221, CH=7084.3
+
+Calinski-Harabasz optimal k=10:
+  SVD-300d: Sil=0.0169, DB=5.5517, CH=20775.2
+  SVD-500d: Sil=0.0043, DB=6.0106, CH=13915.2
+
+RUNTIME COMPARISON
+Total k-selection time:
+  SVD-300d: 0.9 minutes
+  SVD-500d: 1.3 minutes
+  Difference: 0.5 minutes (+52.9%)
+
+Average time per k:
+  SVD-300d: 0.1 minutes
+  SVD-500d: 0.1 minutes
+  Difference: 0.1 minutes (+52.9%)
+
+DETAILED RESULTS TABLE
+K     300d Sil     500d Sil     300d DB      500d DB      300d CH         500d CH
+10    0.0169       0.0043       5.5517       6.0106       20775.2         13915.2
+15    0.0173       0.0102       4.1498       6.1266       14364.3         12080.6
+20    0.0208       0.0101       4.6722       5.2005       15072.5         10361.1
+25    0.0245       0.0115       4.3170       4.8490       13851.1         9623.2
+30    0.0263       0.0164       4.0411       4.9118       12283.8         8470.0
+35    0.0320       0.0177       3.9343       4.4978       12326.1         8214.6
+40    0.0331       0.0171       3.8071       4.3970       11131.4         7610.2
+45    0.0358       0.0173       3.7977       3.9975       11021.9         6841.6
+50    0.0381       0.0206       3.7226       4.1221       10687.1         7084.3

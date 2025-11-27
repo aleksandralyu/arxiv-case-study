@@ -1,0 +1,138 @@
+RESEARCH QUESTION 1: VOCABULARY EVOLUTION VS STABILITY
+Analysis date: 2025-11-18 14:13:13
+
+Question: Which research fields show stable vocabulary over time
+          vs rapid evolution in terminology?
+
+Methodology:
+  - Divided timeline into 3 windows: early (1996-2005), mid (2006-2015), recent (2016-2024)
+  - Calculated top-20 terms per cluster per time window
+  - Measured Jaccard similarity between consecutive windows
+  - Average stability = mean of pairwise similarities
+
+OVERALL STATISTICS
+Metric                         SVD-300d             SVD-500d
+Clusters analyzed              50                   50
+Mean stability                 0.644                0.654
+Median stability               0.667                0.703
+Std deviation                  0.191                0.187
+Min stability                  0.176                0.176
+Max stability                  0.905                1.000
+Highly stable (>0.7)           21                   25
+Highly evolving (<0.3)         5                    5
+
+TOP 10 MOST STABLE CLUSTERS (SVD-300D)
+1. Cluster 4 - Stability: 0.905
+   Size: 32,772 papers
+   Top category: astro-ph.HE
+   Top terms: ray, gamma, emission, energy, radio, sources, observations, high, cosmic, source, flux, optical, spectral, observed, spectrum
+
+2. Cluster 7 - Stability: 0.905
+   Size: 28,806 papers
+   Top category: math.GR
+   Top terms: group, finite, groups, let, prove, action, space, lie, theory, field, non, representations, algebra, class, algebraic
+
+3. Cluster 17 - Stability: 0.905
+   Size: 18,552 papers
+   Top category: math.GR
+   Top terms: groups, group, finite, prove, lie, theory, class, paper, free, representations, conjecture, non, compact, algebraic, study
+
+4. Cluster 19 - Stability: 0.905
+   Size: 35,837 papers
+   Top category: astro-ph.GA
+   Top terms: gas, emission, dust, line, observations, radio, lines, star, molecular, mass, formation, observed, high, galaxy, velocity
+
+5. Cluster 1 - Stability: 0.818
+   Size: 59,973 papers
+   Top category: hep-ph
+   Top terms: quark, higgs, mass, production, collisions, heavy, bar, model, gev, decay, energy, cross, standard, masses, momentum
+
+TOP 10 MOST STABLE CLUSTERS (SVD-500D)
+1. Cluster 45 - Stability: 1.000
+   Size: 247,437 papers
+   Top category: math.AG
+   Top terms: prove, space, paper, theorem, spaces, result, number, proof, set, case, conjecture, results, study, type, finite
+
+2. Cluster 38 - Stability: 0.905
+   Size: 55,682 papers
+   Top category: astro-ph.HE
+   Top terms: emission, ray, radio, observations, dust, gas, disk, line, sources, observed, star, spectral, lines, accretion, high
+
+3. Cluster 43 - Stability: 0.905
+   Size: 26,956 papers
+   Top category: math.NT
+   Top terms: mathbb, prove, let, infty, times, space, frac, geq, group, alpha, set, result, finite, paper, leq
+
+4. Cluster 0 - Stability: 0.818
+   Size: 40,304 papers
+   Top category: math.GR
+   Top terms: group, groups, finite, prove, lie, let, theory, action, class, representations, space, algebraic, non, compact, paper
+
+5. Cluster 13 - Stability: 0.818
+   Size: 9,731 papers
+   Top category: hep-ph
+   Top terms: pi, decay, bar, sigma, gamma, pm, mass, data, gev, phi, states, state, results, let, delta
+
+TOP 10 MOST EVOLVING CLUSTERS (SVD-300D)
+1. Cluster 13 - Stability: 0.176
+   Size: 10,888 papers
+   Top category: cs.AI
+   Top terms: ai, human, research, systems, models, data, generative, challenges, learning, development, based, design, paper, model, language
+
+2. Cluster 26 - Stability: 0.212
+   Size: 38,393 papers
+   Top category: cs.CL
+   Top terms: llms, language, models, language models, reasoning, tasks, large, performance, model, knowledge, human, fine, text, code, generation
+
+3. Cluster 32 - Stability: 0.250
+   Size: 11,729 papers
+   Top category: cs.CR
+   Top terms: attacks, adversarial, robustness, security, training, models, model, learning, examples, based, robust, networks, data, detection, deep
+
+4. Cluster 0 - Stability: 0.290
+   Size: 12,419 papers
+   Top category: cs.CV
+   Top terms: video, temporal, visual, quality, motion, model, based, models, dataset, propose, methods, image, method, text, performance
+
+5. Cluster 6 - Stability: 0.290
+   Size: 50,126 papers
+   Top category: cs.CV
+   Top terms: image, images, segmentation, method, methods, based, model, quality, training, learning, models, dataset, proposed, visual, data
+
+TOP 10 MOST EVOLVING CLUSTERS (SVD-500D)
+1. Cluster 19 - Stability: 0.176
+   Size: 15,819 papers
+   Top category: cs.CV
+   Top terms: domain, domains, target, data, source, model, learning, training, performance, method, knowledge, models, methods, based, specific
+
+2. Cluster 30 - Stability: 0.176
+   Size: 11,056 papers
+   Top category: cs.AI
+   Top terms: ai, human, research, systems, models, generative, data, challenges, learning, development, based, design, paper, model, agents
+
+3. Cluster 1 - Stability: 0.212
+   Size: 53,956 papers
+   Top category: cs.CL
+   Top terms: language, llms, models, language models, tasks, reasoning, large, model, performance, knowledge, training, fine, task, human, code
+
+4. Cluster 10 - Stability: 0.290
+   Size: 20,274 papers
+   Top category: cs.CV
+   Top terms: object, objects, detection, image, based, method, dataset, images, segmentation, model, visual, methods, propose, performance, video
+
+5. Cluster 42 - Stability: 0.290
+   Size: 17,679 papers
+   Top category: cs.CL
+   Top terms: text, image, models, language, model, generation, based, data, task, images, training, tasks, information, dataset, methods
+
+INTERPRETATION
+Stability Score Interpretation:
+  > 0.7: Highly stable vocabulary (mature, well-established fields)
+  0.5-0.7: Moderately stable (gradual evolution)
+  0.3-0.5: Moderate evolution (terminology changing)
+  < 0.3: Rapid evolution (emerging or fast-moving fields)
+
+Path Comparison:
+  Overall winner: 500D
+  300d shows lower average stability
+  500d better captures temporal vocabulary patterns
