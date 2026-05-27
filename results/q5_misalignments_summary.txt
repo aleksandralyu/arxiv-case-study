@@ -1,0 +1,62 @@
+RESEARCH QUESTION 5: CLUSTER-CATEGORY MISALIGNMENTS
+============================================================
+Analysis date: 2026-05-27
+Total papers: 2,384,111
+
+Average migration rate: 0.2273
+Median  migration rate: 0.1884
+Clusters >30% mixed:    18
+Clusters <15% mixed:    23
+
+FULL TABLE:
+ cluster_id dominant_domain dominant_category  migration_rate  migrant_papers   size
+         17              cs             cs.LG          0.6591           52721  79991
+          5         physics           math.PR          0.5946          139150 234031
+         37            math             cs.DS          0.5607            6907  12318
+          0            math           math.NT          0.5249            8371  15947
+         30            math           math.NA          0.5198           14327  27561
+         31            math           math.AP          0.5177           10051  19415
+         44            math            hep-ph          0.5168            8189  15845
+         23            math           math.CO          0.5052           22934  45398
+         49         physics            hep-ph          0.4754            6926  14570
+          9              cs           math.OC          0.4676           36538  78145
+          2              cs             cs.LG          0.4467           24586  55038
+         42              cs             cs.IT          0.4256            9816  23062
+         10            math           math.NT          0.4076           19640  48181
+         48         physics   physics.flu-dyn          0.3937           11218  28491
+         22              cs             cs.LG          0.3780           24047  63617
+         45              cs           eess.AS          0.3514            3511   9991
+         38              cs             cs.CV          0.3478           16923  48658
+         20            math           math.AP          0.3310           18575  56124
+         47            math           math.FA          0.2944            9038  30697
+          1              cs             cs.AI          0.2395            4719  19706
+         32         physics             gr-qc          0.2193            6508  29682
+          7              cs             cs.LG          0.2136           13970  65402
+         14              cs             cs.SE          0.2009           19058  94854
+         11            math           math.AG          0.1971           35560 180419
+         24            math           math.CO          0.1892            3858  20391
+         46            math           math.GR          0.1876            7460  39773
+         25         physics            hep-th          0.1602           10984  68561
+         16            math           math.DG          0.1232            3094  25111
+         33            math           math.RT          0.1168            3353  28715
+         13              cs             cs.CV          0.1097           10222  93171
+         19              cs             cs.CR          0.1010            1528  15128
+         18         physics   cond-mat.str-el          0.0931            4387  47143
+         34              cs             cs.CV          0.0792            1170  14781
+          3         physics          quant-ph          0.0735            5033  68517
+         27         physics    physics.optics          0.0528            3723  70561
+         40         physics cond-mat.mtrl-sci          0.0394            5663 143763
+         43              cs             cs.CL          0.0379            1479  38992
+         36         physics cond-mat.mes-hall          0.0378            1716  45413
+         21              cs             cs.RO          0.0371             517  13947
+          8         physics cond-mat.mes-hall          0.0283            1094  38623
+         28              cs             cs.CL          0.0214             526  24617
+         26         physics       astro-ph.HE          0.0189             496  26250
+         35         physics       astro-ph.SR          0.0175             659  37680
+         15         physics       astro-ph.GA          0.0168             878  52371
+         12         physics             gr-qc          0.0143             376  26326
+         41         physics            hep-ph          0.0070             164  23329
+         29         physics            hep-ph          0.0070             449  64071
+         39         physics       astro-ph.EP          0.0043              49  11370
+          6         physics       astro-ph.GA          0.0008              27  32964
+          4         physics            hep-ph          0.0006               9  15400
