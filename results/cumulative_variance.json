@@ -1,0 +1,42 @@
+[
+  {
+    "components": 1,
+    "cumulative_variance": 0.33
+  },
+  {
+    "components": 5,
+    "cumulative_variance": 4.05
+  },
+  {
+    "components": 10,
+    "cumulative_variance": 6.74
+  },
+  {
+    "components": 25,
+    "cumulative_variance": 12.53
+  },
+  {
+    "components": 50,
+    "cumulative_variance": 19.36
+  },
+  {
+    "components": 100,
+    "cumulative_variance": 29.52
+  },
+  {
+    "components": 200,
+    "cumulative_variance": 44.47
+  },
+  {
+    "components": 300,
+    "cumulative_variance": 56.0
+  },
+  {
+    "components": 400,
+    "cumulative_variance": 65.48
+  },
+  {
+    "components": 500,
+    "cumulative_variance": 73.45
+  }
+]

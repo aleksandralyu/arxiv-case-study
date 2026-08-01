@@ -1,73 +1,74 @@
-RESEARCH QUESTION 6: TEMPORAL COHESION
+RESEARCH QUESTION 6: TEMPORAL COHESION PER CLUSTER
 ============================================================
-Analysis date: 2026-05-27
+Analysis date: 2026-05-28 22:45:32
 
-Thresholds: tight_iqr<=4 | high_growth>=1.0 | recent_cutoff=2020
+Thresholds: tight_iqr<=4yr | high_emergence>=0.5 | high_growth>=1.0
 
-QUADRANT COUNTS:
+QUADRANT SUMMARY:
 quadrant
 stable     37
 rocket      8
 classic     4
 niche       1
 
-ROCKET (8):
-  C28 iqr=1 emerge=100% growth=12303.500 | llm language model language model
-  C43 iqr=3 emerge=86% growth=2.830 | language model task language model
-  C45 iqr=4 emerge=84% growth=1.387 | speech model recognition train
-  C13 iqr=4 emerge=83% growth=1.596 | method feature object model
-  C21 iqr=4 emerge=81% growth=1.652 | robot human task environment
-  C19 iqr=4 emerge=79% growth=1.142 | attack adversarial model security
-  C34 iqr=4 emerge=79% growth=1.581 | video frame temporal model
-  C01 iqr=4 emerge=75% growth=1.522 | agent learn multi model
+ROCKET  — tight IQR + high growth (field that exploded recently):
+  C28 | IQR=1.0 | emerge=100% | growth=12303.500 | llm language model language model
+  C43 | IQR=3.0 | emerge=86% | growth=2.830 | language model task language model
+  C45 | IQR=4.0 | emerge=84% | growth=1.387 | speech model recognition train
+  C13 | IQR=4.0 | emerge=83% | growth=1.596 | method feature object model
+  C21 | IQR=4.0 | emerge=81% | growth=1.652 | robot human task environment
+  C19 | IQR=4.0 | emerge=79% | growth=1.142 | attack adversarial model security
+  C34 | IQR=4.0 | emerge=79% | growth=1.581 | video frame temporal model
+  C01 | IQR=4.0 | emerge=75% | growth=1.522 | agent learn multi model
 
-NICHE (1):
-  C07 iqr=4 emerge=80% growth=0.957 | learn model train machine
+NICHE   — tight IQR + low growth  (recent but not yet accelerating):
+  C07 | IQR=4.0 | emerge=80% | growth=0.957 | learn model train machine
 
-CLASSIC (4):
-  C38 iqr=5 emerge=73% growth=1.111 | image method model train
-  C14 iqr=6 emerge=67% growth=1.034 | user design software technology
-  C17 iqr=7 emerge=62% growth=1.050 | model data parameter method
-  C03 iqr=8 emerge=55% growth=1.194 | quantum state classical entanglement
+CLASSIC — wide IQR  + high growth (established field reinvigorated):
+  C38 | IQR=5.0 | emerge=73% | growth=1.111 | image method model train
+  C14 | IQR=6.0 | emerge=67% | growth=1.034 | user design software technology
+  C17 | IQR=7.0 | emerge=62% | growth=1.050 | model data parameter method
+  C03 | IQR=8.0 | emerge=55% | growth=1.194 | quantum state classical entanglement
 
-STABLE (37):
-  C02 iqr=6 emerge=67% growth=0.978 | data model method analysis
-  C22 iqr=5 emerge=61% growth=0.429 | network neural neural network model
-  C23 iqr=6 emerge=59% growth=0.866 | graph vertex edge number
-  C09 iqr=6 emerge=58% growth=0.658 | algorithm problem optimization method
-  C48 iqr=8 emerge=52% growth=0.657 | flow fluid model velocity
-  C37 iqr=7 emerge=52% growth=0.652 | log algorithm bind time
-  C00 iqr=8 emerge=51% growth=0.613 | sequence number model set
-  C05 iqr=8 emerge=50% growth=0.609 | time method distribution process
-  C42 iqr=8 emerge=48% growth=0.602 | channel communication capacity scheme
-  C30 iqr=7 emerge=46% growth=0.505 | matrix eigenvalue method rank
-  C20 iqr=7 emerge=46% growth=0.504 | solution problem existence boundary
-  C10 iqr=7 emerge=46% growth=0.500 | function space value prove
-  C12 iqr=7 emerge=46% growth=0.662 | black hole black hole horizon
-  C46 iqr=8 emerge=46% growth=0.595 | group finite prove representation
-  C47 iqr=7 emerge=46% growth=0.568 | operator space function prove
-  C31 iqr=7 emerge=46% growth=0.547 | alpha beta function delta
-  C11 iqr=8 emerge=46% growth=0.584 | space prove set theorem
-  C44 iqr=7 emerge=45% growth=0.529 | lambda omega sigma model
-  C24 iqr=7 emerge=45% growth=0.528 | polynomial degree function number
-  C27 iqr=7 emerge=45% growth=0.484 | mode optical laser photon
-  C32 iqr=7 emerge=45% growth=0.422 | wave gravitational frequency time
-  C16 iqr=7 emerge=44% growth=0.565 | manifold curvature compact metric
-  C18 iqr=7 emerge=43% growth=0.535 | phase transition phase transition temperature
-  C33 iqr=8 emerge=42% growth=0.519 | algebra lie module group
-  C40 iqr=7 emerge=42% growth=0.386 | energy temperature electron state
-  C41 iqr=7 emerge=41% growth=0.593 | dark dark matter matter mass
-  C49 iqr=7 emerge=41% growth=0.435 | gamma decay group energy
-  C39 iqr=7 emerge=41% growth=0.297 | planet star mass orbit
-  C08 iqr=7 emerge=40% growth=0.439 | spin magnetic state couple
-  C36 iqr=7 emerge=39% growth=0.387 | magnetic magnetic field field temperature
-  C04 iqr=8 emerge=38% growth=0.289 | neutrino mass oscillation energy
-  C15 iqr=7 emerge=38% growth=0.372 | emission line disk observation
-  C25 iqr=8 emerge=38% growth=0.462 | theory field gauge field theory
-  C06 iqr=7 emerge=38% growth=0.537 | galaxy mass redshift cluster
-  C35 iqr=6 emerge=37% growth=0.373 | star mass stellar cluster
-  C26 iqr=6 emerge=34% growth=0.140 | ray gamma ray gamma emission
-  C29 iqr=7 emerge=32% growth=0.193 | quark decay mass collision
+STABLE  — wide IQR  + low growth  (mature long-running discipline):
+  C02 | IQR=6.0 | emerge=67% | growth=0.978 | data model method analysis
+  C22 | IQR=5.0 | emerge=61% | growth=0.429 | network neural neural network model
+  C23 | IQR=6.0 | emerge=59% | growth=0.866 | graph vertex edge number
+  C09 | IQR=6.0 | emerge=58% | growth=0.658 | algorithm problem optimization method
+  C48 | IQR=8.0 | emerge=52% | growth=0.657 | flow fluid model velocity
+  C37 | IQR=7.0 | emerge=52% | growth=0.652 | log algorithm bind time
+  C00 | IQR=8.0 | emerge=51% | growth=0.613 | sequence number model set
+  C05 | IQR=8.0 | emerge=50% | growth=0.609 | time method distribution process
+  C42 | IQR=8.0 | emerge=48% | growth=0.602 | channel communication capacity scheme
+  C30 | IQR=7.0 | emerge=46% | growth=0.505 | matrix eigenvalue method rank
+  C20 | IQR=7.0 | emerge=46% | growth=0.504 | solution problem existence boundary
+  C10 | IQR=7.0 | emerge=46% | growth=0.500 | function space value prove
+  C12 | IQR=7.0 | emerge=46% | growth=0.662 | black hole black hole horizon
+  C46 | IQR=8.0 | emerge=46% | growth=0.595 | group finite prove representation
+  C47 | IQR=7.0 | emerge=46% | growth=0.568 | operator space function prove
+  C31 | IQR=7.0 | emerge=46% | growth=0.547 | alpha beta function delta
+  C11 | IQR=8.0 | emerge=46% | growth=0.584 | space prove set theorem
+  C44 | IQR=7.0 | emerge=45% | growth=0.529 | lambda omega sigma model
+  C24 | IQR=7.0 | emerge=45% | growth=0.528 | polynomial degree function number
+  C27 | IQR=7.0 | emerge=45% | growth=0.484 | mode optical laser photon
+  C32 | IQR=7.0 | emerge=45% | growth=0.422 | wave gravitational frequency time
+  C16 | IQR=7.0 | emerge=44% | growth=0.565 | manifold curvature compact metric
+  C18 | IQR=7.0 | emerge=43% | growth=0.535 | phase transition phase transition temperature
+  C33 | IQR=8.0 | emerge=42% | growth=0.519 | algebra lie module group
+  C40 | IQR=7.0 | emerge=42% | growth=0.386 | energy temperature electron state
+  C41 | IQR=7.0 | emerge=41% | growth=0.593 | dark dark matter matter mass
+  C49 | IQR=7.0 | emerge=41% | growth=0.435 | gamma decay group energy
+  C39 | IQR=7.0 | emerge=41% | growth=0.297 | planet star mass orbit
+  C08 | IQR=7.0 | emerge=40% | growth=0.439 | spin magnetic state couple
+  C36 | IQR=7.0 | emerge=39% | growth=0.387 | magnetic magnetic field field temperature
+  C04 | IQR=8.0 | emerge=38% | growth=0.289 | neutrino mass oscillation energy
+  C15 | IQR=7.0 | emerge=38% | growth=0.372 | emission line disk observation
+  C25 | IQR=8.0 | emerge=38% | growth=0.462 | theory field gauge field theory
+  C06 | IQR=7.0 | emerge=38% | growth=0.537 | galaxy mass redshift cluster
+  C35 | IQR=6.0 | emerge=37% | growth=0.373 | star mass stellar cluster
+  C26 | IQR=6.0 | emerge=34% | growth=0.140 | ray gamma ray gamma emission
+  C29 | IQR=7.0 | emerge=32% | growth=0.193 | quark decay mass collision
+
 
 FULL TABLE:
  cluster_id quadrant  iqr  emergence_score  growth_rate  median_year   size

@@ -1,14 +1,13 @@
 RESEARCH QUESTION 5: CLUSTER-CATEGORY MISALIGNMENTS
 ============================================================
-Analysis date: 2026-05-27
-Total papers: 2,384,111
-
+Analysis date:          2026-05-28 22:44:23
+Total papers:           2,384,111
 Average migration rate: 0.2273
-Median  migration rate: 0.1884
+Median migration rate:  0.1884
 Clusters >30% mixed:    18
 Clusters <15% mixed:    23
 
-FULL TABLE:
+FULL TABLE (sorted by migration rate):
  cluster_id dominant_domain dominant_category  migration_rate  migrant_papers   size
          17              cs             cs.LG          0.6591           52721  79991
           5         physics           math.PR          0.5946          139150 234031

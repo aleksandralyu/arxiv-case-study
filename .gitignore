@@ -13,11 +13,12 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files (too large for GitHub)
-data/*.csv
-data/*.json
-data/*.parquet
-data/*.pkl
+# Data files (too large for GitHub) — includes subdirectories (data/processed ~17G, data/raw ~4G)
+data/**/*.csv
+data/**/*.json
+data/**/*.parquet
+data/**/*.pkl
+data/raw/
 kaggle/*.csv
 kaggle/*.json
 

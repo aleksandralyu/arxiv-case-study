@@ -1,0 +1,329 @@
+{
+  "papersOverTime": [
+    {
+      "year": 2007,
+      "count": 12409
+    },
+    {
+      "year": 2008,
+      "count": 33572
+    },
+    {
+      "year": 2009,
+      "count": 61309
+    },
+    {
+      "year": 2010,
+      "count": 43691
+    },
+    {
+      "year": 2011,
+      "count": 50622
+    },
+    {
+      "year": 2012,
+      "count": 54097
+    },
+    {
+      "year": 2013,
+      "count": 69786
+    },
+    {
+      "year": 2014,
+      "count": 79864
+    },
+    {
+      "year": 2015,
+      "count": 199331
+    },
+    {
+      "year": 2016,
+      "count": 115365
+    },
+    {
+      "year": 2017,
+      "count": 118359
+    },
+    {
+      "year": 2018,
+      "count": 134123
+    },
+    {
+      "year": 2019,
+      "count": 150532
+    },
+    {
+      "year": 2020,
+      "count": 172730
+    },
+    {
+      "year": 2021,
+      "count": 184106
+    },
+    {
+      "year": 2022,
+      "count": 187108
+    },
+    {
+      "year": 2023,
+      "count": 213968
+    },
+    {
+      "year": 2024,
+      "count": 259655
+    }
+  ],
+  "categoryDistribution": [
+    {
+      "category": "cs.CV",
+      "name": "CS - Computer Vision",
+      "count": 125045,
+      "percentage": 5.24
+    },
+    {
+      "category": "cs.LG",
+      "name": "CS - Machine Learning",
+      "count": 110498,
+      "percentage": 4.63
+    },
+    {
+      "category": "quant-ph",
+      "name": "Quantum Physics",
+      "count": 99369,
+      "percentage": 4.17
+    },
+    {
+      "category": "hep-ph",
+      "name": "High Energy Physics - Phenomenology",
+      "count": 85783,
+      "percentage": 3.6
+    },
+    {
+      "category": "cs.CL",
+      "name": "CS - NLP/Computation & Language",
+      "count": 67108,
+      "percentage": 2.81
+    },
+    {
+      "category": "hep-th",
+      "name": "High Energy Physics - Theory",
+      "count": 66360,
+      "percentage": 2.78
+    },
+    {
+      "category": "cond-mat.mtrl-sci",
+      "name": "Condensed Matter - Materials",
+      "count": 57491,
+      "percentage": 2.41
+    },
+    {
+      "category": "cond-mat.mes-hall",
+      "name": "Condensed Matter - Mesoscale",
+      "count": 56239,
+      "percentage": 2.36
+    },
+    {
+      "category": "math.AP",
+      "name": "Math - Analysis/PDEs",
+      "count": 51249,
+      "percentage": 2.15
+    },
+    {
+      "category": "gr-qc",
+      "name": "General Relativity & Quantum Cosmology",
+      "count": 50827,
+      "percentage": 2.13
+    },
+    {
+      "category": "astro-ph.GA",
+      "name": "Astrophysics - Galaxies",
+      "count": 50768,
+      "percentage": 2.13
+    },
+    {
+      "category": "math.CO",
+      "name": "Math - Combinatorics",
+      "count": 45923,
+      "percentage": 1.93
+    },
+    {
+      "category": "astro-ph.SR",
+      "name": "Astrophysics - Solar/Stellar",
+      "count": 45739,
+      "percentage": 1.92
+    },
+    {
+      "category": "astro-ph.HE",
+      "name": "Astrophysics - High Energy",
+      "count": 42809,
+      "percentage": 1.8
+    },
+    {
+      "category": "astro-ph.CO",
+      "name": "Astrophysics - Cosmology",
+      "count": 42569,
+      "percentage": 1.79
+    },
+    {
+      "category": "cond-mat.str-el",
+      "name": "cond-mat.str-el",
+      "count": 38773,
+      "percentage": 1.63
+    },
+    {
+      "category": "math.PR",
+      "name": "Math - Probability",
+      "count": 38171,
+      "percentage": 1.6
+    },
+    {
+      "category": "cs.IT",
+      "name": "CS - Information Theory",
+      "count": 36672,
+      "percentage": 1.54
+    },
+    {
+      "category": "math.OC",
+      "name": "math.OC",
+      "count": 34825,
+      "percentage": 1.46
+    },
+    {
+      "category": "math.AG",
+      "name": "Math - Algebraic Geometry",
+      "count": 31950,
+      "percentage": 1.34
+    }
+  ],
+  "domainDistribution": [
+    {
+      "domain": "cs",
+      "name": "Computer Science",
+      "count": 642054,
+      "percentage": 26.92
+    },
+    {
+      "domain": "math",
+      "name": "Mathematics",
+      "count": 493212,
+      "percentage": 20.68
+    },
+    {
+      "domain": "cond-mat",
+      "name": "Condensed Matter",
+      "count": 253535,
+      "percentage": 10.63
+    },
+    {
+      "domain": "astro-ph",
+      "name": "Astrophysics",
+      "count": 243545,
+      "percentage": 10.21
+    },
+    {
+      "domain": "physics",
+      "name": "Physics",
+      "count": 180109,
+      "percentage": 7.55
+    },
+    {
+      "domain": "quant-ph",
+      "name": "Quantum Physics",
+      "count": 99369,
+      "percentage": 4.17
+    },
+    {
+      "domain": "hep-ph",
+      "name": "High Energy Physics",
+      "count": 85783,
+      "percentage": 3.6
+    },
+    {
+      "domain": "hep-th",
+      "name": "Theoretical Physics",
+      "count": 66360,
+      "percentage": 2.78
+    },
+    {
+      "domain": "eess",
+      "name": "Electrical Engineering",
+      "count": 62792,
+      "percentage": 2.63
+    },
+    {
+      "domain": "stat",
+      "name": "Statistics",
+      "count": 55976,
+      "percentage": 2.35
+    },
+    {
+      "domain": "gr-qc",
+      "name": "General Relativity",
+      "count": 50827,
+      "percentage": 2.13
+    },
+    {
+      "domain": "q-bio",
+      "name": "Quantitative Biology",
+      "count": 29644,
+      "percentage": 1.24
+    },
+    {
+      "domain": "math-ph",
+      "name": "Mathematical Physics",
+      "count": 26661,
+      "percentage": 1.12
+    },
+    {
+      "domain": "nucl-th",
+      "name": "Nuclear Theory",
+      "count": 22158,
+      "percentage": 0.93
+    },
+    {
+      "domain": "hep-ex",
+      "name": "HEP Experiment",
+      "count": 16476,
+      "percentage": 0.69
+    },
+    {
+      "domain": "nlin",
+      "name": "Nonlinear Sciences",
+      "count": 14677,
+      "percentage": 0.62
+    },
+    {
+      "domain": "q-fin",
+      "name": "Quantitative Finance",
+      "count": 12390,
+      "percentage": 0.52
+    },
+    {
+      "domain": "hep-lat",
+      "name": "HEP Lattice",
+      "count": 10648,
+      "percentage": 0.45
+    },
+    {
+      "domain": "econ",
+      "name": "Economics",
+      "count": 9411,
+      "percentage": 0.39
+    },
+    {
+      "domain": "nucl-ex",
+      "name": "Nuclear Experiment",
+      "count": 8990,
+      "percentage": 0.38
+    }
+  ],
+  "summary": {
+    "totalPapers": 2384617,
+    "yearRange": [
+      2007,
+      2025
+    ],
+    "uniqueCategories": 153,
+    "uniqueDomains": 20
+  }
+}

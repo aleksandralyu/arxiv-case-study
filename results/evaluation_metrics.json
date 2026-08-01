@@ -1,0 +1,139 @@
+{
+  "elbowData": [
+    {
+      "k": 10,
+      "inertia500": 1600512.5,
+      "inertia300": 1187347.375,
+      "silhouette500": 0.011210408061742783,
+      "silhouette300": 0.013235476799309254,
+      "daviesBouldin500": 6.572514207026854,
+      "daviesBouldin300": 5.301381208595456,
+      "calinskiHarabasz500": 15570.837117093306,
+      "calinskiHarabasz300": 22023.089232296465
+    },
+    {
+      "k": 15,
+      "inertia500": 1579251.75,
+      "inertia300": 1159588.75,
+      "silhouette500": 0.013418139889836311,
+      "silhouette300": 0.01975678652524948,
+      "daviesBouldin500": 5.341051615379659,
+      "daviesBouldin300": 4.810231082466118,
+      "calinskiHarabasz500": 12702.35971385159,
+      "calinskiHarabasz300": 18563.673536227587
+    },
+    {
+      "k": 20,
+      "inertia500": 1568419.75,
+      "inertia300": 1136815.25,
+      "silhouette500": 0.012369099073112011,
+      "silhouette300": 0.019392816349864006,
+      "daviesBouldin500": 4.440251405620467,
+      "daviesBouldin300": 4.536753858532406,
+      "calinskiHarabasz500": 10404.264238736703,
+      "calinskiHarabasz300": 16446.31810197539
+    },
+    {
+      "k": 25,
+      "inertia500": 1607905.25,
+      "inertia300": 1123830.25,
+      "silhouette500": -0.016633721068501472,
+      "silhouette300": 0.02327498234808445,
+      "daviesBouldin500": 3.5839777848401413,
+      "daviesBouldin300": 4.291501730191687,
+      "calinskiHarabasz500": 5769.208317829277,
+      "calinskiHarabasz300": 14396.290078167754
+    },
+    {
+      "k": 30,
+      "inertia500": 1528733.625,
+      "inertia300": 1107914.0,
+      "silhouette500": 0.017350833863019943,
+      "silhouette300": 0.03263946250081062,
+      "daviesBouldin500": 4.821491174772207,
+      "daviesBouldin300": 4.094716916852389,
+      "calinskiHarabasz500": 9410.684949049648,
+      "calinskiHarabasz300": 13202.975969112262
+    },
+    {
+      "k": 35,
+      "inertia500": 1519780.625,
+      "inertia300": 1082465.5,
+      "silhouette500": 0.01338496245443821,
+      "silhouette300": 0.03849290683865547,
+      "daviesBouldin500": 4.241664706131371,
+      "daviesBouldin300": 3.9899376045709656,
+      "calinskiHarabasz500": 8224.247701842116,
+      "calinskiHarabasz300": 13170.502752467379
+    },
+    {
+      "k": 40,
+      "inertia500": 1508499.75,
+      "inertia300": 1069812.125,
+      "silhouette500": 0.005737421568483114,
+      "silhouette300": 0.03880992904305458,
+      "daviesBouldin500": 4.113625727197635,
+      "daviesBouldin300": 3.8994256182827898,
+      "calinskiHarabasz500": 7854.236406544292,
+      "calinskiHarabasz300": 12382.173300498276
+    },
+    {
+      "k": 45,
+      "inertia500": 1497487.875,
+      "inertia300": 1059032.625,
+      "silhouette500": 0.022668808698654175,
+      "silhouette300": 0.03683328256011009,
+      "daviesBouldin500": 4.065891974178294,
+      "daviesBouldin300": 3.914336883355484,
+      "calinskiHarabasz500": 7262.66432320106,
+      "calinskiHarabasz300": 11624.671707706557
+    },
+    {
+      "k": 50,
+      "inertia500": 1472271.0,
+      "inertia300": 1046154.125,
+      "silhouette500": 0.02770397625863552,
+      "silhouette300": 0.04147648438811302,
+      "daviesBouldin500": 4.05886224087663,
+      "daviesBouldin300": 3.839997023542298,
+      "calinskiHarabasz500": 7669.315503196458,
+      "calinskiHarabasz300": 11178.360747477844
+    }
+  ],
+  "kValues": [
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50
+  ],
+  "chosenK": 50,
+  "chosenMetrics": {
+    "k": 50,
+    "inertia500": 1472271.0,
+    "inertia300": 1046154.125,
+    "silhouette500": 0.02770397625863552,
+    "silhouette300": 0.04147648438811302,
+    "daviesBouldin500": 4.05886224087663,
+    "calinskiHarabasz500": 7669.315503196458
+  },
+  "methodology": {
+    "algorithm": "K-Means",
+    "preprocessing": "L2 normalization before clustering",
+    "note": "L2 normalization prevents mega-cluster formation in high dimensions. Used standard K-Means (not MiniBatch) for final clustering.",
+    "dimensions": [
+      300,
+      500
+    ],
+    "metricsUsed": [
+      "silhouette",
+      "davies_bouldin",
+      "calinski_harabasz",
+      "inertia"
+    ]
+  }
+}

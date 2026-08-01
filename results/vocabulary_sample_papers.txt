@@ -1,0 +1,247 @@
+SAMPLE PAPERS WITH TOP TF-IDF TERMS
+================================================================================
+This shows actual papers and their top TF-IDF features
+Helps verify terms make sense in context
+================================================================================
+
+Paper ID: 0704.0001
+Domain: hep-ph
+Category: hep-ph
+Title: Calculation of prompt diphoton production cross sections at Tevatron and
+  LHC energies
+
+Top TF-IDF terms:
+  pair                           (score: 0.3712)
+  quark                          (score: 0.3113)
+  calculation                    (score: 0.2524)
+  produce                        (score: 0.2371)
+  prediction                     (score: 0.2339)
+  distribution                   (score: 0.2012)
+  lead                           (score: 0.1998)
+  order                          (score: 0.1775)
+  higgs                          (score: 0.1717)
+  qcd                            (score: 0.1652)
+  boson                          (score: 0.1628)
+  data                           (score: 0.1536)
+  radiation                      (score: 0.1505)
+  sensitivity                    (score: 0.1491)
+  selection                      (score: 0.1458)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0016
+Domain: hep-ph
+Category: hep-ph
+Title: Lifetime of doubly charmed baryons
+
+Top TF-IDF terms:
+  evaluate                       (score: 0.3047)
+  experiment                     (score: 0.2541)
+  non                            (score: 0.2329)
+  harmonic                       (score: 0.2158)
+  relativistic                   (score: 0.2080)
+  quark                          (score: 0.2069)
+  omega                          (score: 0.2067)
+  unknown                        (score: 0.2050)
+  diagram                        (score: 0.2020)
+  upper                          (score: 0.1852)
+  larger                         (score: 0.1769)
+  accurate                       (score: 0.1748)
+  element                        (score: 0.1723)
+  contribution                   (score: 0.1713)
+  calculate                      (score: 0.1666)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0002
+Domain: math
+Category: math.CO
+Title: Sparsity-certifying Graph Decompositions
+
+Top TF-IDF terms:
+  ell                            (score: 0.3950)
+  game                           (score: 0.3622)
+  graph                          (score: 0.3579)
+  color                          (score: 0.3517)
+  sparse                         (score: 0.3483)
+  decomposition                  (score: 0.2263)
+  characterization               (score: 0.2244)
+  algorithm                      (score: 0.2137)
+  family                         (score: 0.2005)
+  new                            (score: 0.1846)
+  tree                           (score: 0.1116)
+  instance                       (score: 0.1095)
+  connection                     (score: 0.1045)
+  special                        (score: 0.1031)
+  appear                         (score: 0.1002)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0004
+Domain: math
+Category: math.CO
+Title: A determinant of Stirling cycle numbers counts unlabeled acyclic
+  single-source automata
+
+Top TF-IDF terms:
+  count                          (score: 0.3985)
+  cycle                          (score: 0.3842)
+  path                           (score: 0.3479)
+  proof                          (score: 0.3288)
+  lattice                        (score: 0.3236)
+  involve                        (score: 0.3025)
+  evaluate                       (score: 0.2818)
+  source                         (score: 0.2697)
+  single                         (score: 0.2571)
+  number                         (score: 0.2235)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0003
+Domain: physics
+Category: physics.gen-ph
+Title: The evolution of the Earth-Moon system based on the dark matter field
+  fluid model
+
+Top TF-IDF terms:
+  evolution                      (score: 0.3772)
+  dark matter                    (score: 0.3275)
+  fluid                          (score: 0.3200)
+  dark                           (score: 0.3002)
+  matter                         (score: 0.2668)
+  field                          (score: 0.2644)
+  model                          (score: 0.2495)
+  primary                        (score: 0.1659)
+  rotation                       (score: 0.1608)
+  angular                        (score: 0.1579)
+  far                            (score: 0.1482)
+  evidence                       (score: 0.1416)
+  cause                          (score: 0.1402)
+  year                           (score: 0.1380)
+  pattern                        (score: 0.1372)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0033
+Domain: physics
+Category: physics.optics
+Title: Convergence of the discrete dipole approximation. I. Theoretical
+  analysis
+
+Top TF-IDF terms:
+  convergence                    (score: 0.3572)
+  shape                          (score: 0.3474)
+  linear                         (score: 0.2790)
+  quadratic                      (score: 0.2760)
+  range                          (score: 0.2679)
+  term                           (score: 0.2537)
+  smaller                        (score: 0.2536)
+  error                          (score: 0.2078)
+  size                           (score: 0.1953)
+  non                            (score: 0.1525)
+  quantity                       (score: 0.1335)
+  consequence                    (score: 0.1284)
+  importance                     (score: 0.1272)
+  carry                          (score: 0.1256)
+  bound                          (score: 0.1234)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0006
+Domain: cond-mat
+Category: cond-mat.mes-hall
+Title: Bosonic characters of atomic Cooper pairs across resonance
+
+Top TF-IDF terms:
+  pair                           (score: 0.5563)
+  definition                     (score: 0.3576)
+  atom                           (score: 0.3377)
+  wave                           (score: 0.2694)
+  gas                            (score: 0.2054)
+  function                       (score: 0.1950)
+  particle                       (score: 0.1751)
+  correspond                     (score: 0.1664)
+  enhancement                    (score: 0.1201)
+  fermi                          (score: 0.1189)
+  uniform                        (score: 0.1132)
+  choose                         (score: 0.1132)
+  quantify                       (score: 0.1128)
+  resonance                      (score: 0.1115)
+  project                        (score: 0.1105)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0008
+Domain: cond-mat
+Category: cond-mat.mtrl-sci
+Title: Numerical solution of shock and ramp compression for general material
+  properties
+
+Top TF-IDF terms:
+  shock                          (score: 0.6390)
+  material                       (score: 0.2783)
+  calculation                    (score: 0.1836)
+  induce                         (score: 0.1778)
+  numerical                      (score: 0.1610)
+  method                         (score: 0.1588)
+  dynamic                        (score: 0.1474)
+  solution                       (score: 0.1414)
+  effect                         (score: 0.1413)
+  experiment                     (score: 0.1390)
+  deformation                    (score: 0.1186)
+  phase transition               (score: 0.1135)
+  analytic                       (score: 0.1131)
+  basic                          (score: 0.1112)
+  metal                          (score: 0.1112)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0007
+Domain: gr-qc
+Category: gr-qc
+Title: Polymer Quantum Mechanics and its Continuum Limit
+
+Top TF-IDF terms:
+  quantum                        (score: 0.5036)
+  theory                         (score: 0.3089)
+  relation                       (score: 0.3078)
+  loop                           (score: 0.2412)
+  start                          (score: 0.2372)
+  description                    (score: 0.2249)
+  representation                 (score: 0.1900)
+  know                           (score: 0.1713)
+  limit                          (score: 0.1586)
+  continuum                      (score: 0.1337)
+  harmonic                       (score: 0.1336)
+  recover                        (score: 0.1264)
+  cosmological                   (score: 0.1262)
+  appropriate                    (score: 0.1256)
+  gravity                        (score: 0.1217)
+
+--------------------------------------------------------------------------------
+
+Paper ID: 0704.0048
+Domain: gr-qc
+Category: gr-qc
+Title: Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets
+
+Top TF-IDF terms:
+  signal                         (score: 0.3680)
+  monte carlo                    (score: 0.3445)
+  monte                          (score: 0.3443)
+  carlo                          (score: 0.3443)
+  chain                          (score: 0.3325)
+  coherent                       (score: 0.2365)
+  unit                           (score: 0.2213)
+  detection                      (score: 0.1814)
+  process                        (score: 0.1359)
+  dwarf                          (score: 0.1308)
+  grid                           (score: 0.1268)
+  approach                       (score: 0.1217)
+  post                           (score: 0.1194)
+  data                           (score: 0.1165)
+  pre                            (score: 0.1070)
+
+--------------------------------------------------------------------------------
+
